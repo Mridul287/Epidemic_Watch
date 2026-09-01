@@ -1,0 +1,3 @@
+run,test_accuracy,test_f1_macro,test_f1_weighted,training_time_sec,peak_gpu_mem_mb,adapter_size_kb
+no_augment,0.8514,0.8572,0.8514,127.5,1966.9,1179.8
+augmented,0.9371,0.943,0.9377,235.6,1966.9,1179.8

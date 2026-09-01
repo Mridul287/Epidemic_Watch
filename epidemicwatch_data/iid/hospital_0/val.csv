@@ -1,0 +1,59 @@
+label,text,syndrome_category
+Varicose Veins,Standing or walking for long periods of time has been causing a lot of pain in my legs. It feels like a cramp and becomes worse the longer I am on my feet.,Musculoskeletal/Other
+Chicken pox,I have seen rashes on my arms and neck and it itches if I scratch them. I've also had a high fever for a few days. I have no idea what is causing it. The itching is causing me a lot of discomforts.,Febrile/Systemic
+Varicose Veins,"I have a rash on my legs that is causing a lot of discomforts. It seems there is a cramp and I can see prominent veins on the calf. Also, I have been feeling very tired and fatigued in the past couple of days.",Musculoskeletal/Other
+Common Cold,"I've been sneezing nonstop and I can't seem to shake this chill. I'm feeling really weak and tired, and my cough won't go away. My fever is really high",Respiratory
+Varicose Veins,"The rash on my legs is spreading and becoming more severe. It is red, inflamed, and itchy, causing a lot of discomfort and difficulty sleeping at night.",Musculoskeletal/Other
+Dimorphic Hemorrhoids,"Recently, I've been having a lot of difficulty using the restroom. My bowel movements have been extremely uncomfortable and difficult for me to have. My anus has been quite inflamed, and my stool has been extremely bloody.",Gastrointestinal
+Bronchial Asthma,"Recently, I have had a number of concerning symptoms, including a dry cough, impaired breathing, a high fever, and a lot of mucus. I also feel very weak and tired.",Respiratory
+urinary tract infection,"I get frequent urges to urinate at night with little output, and a lot of pain during urination. The urine is coludy and bloody and sometime foul smelling, and I get nauseous",Musculoskeletal/Other
+Common Cold,"My eyes are constantly red and runny. A persistent tightness in my sinuses has also been bothering me. I've been having a lot of difficulties breathing and constantly feel fatigued. In addition, I have a lot of throat mucus and inflamed lymph nodes.",Respiratory
+peptic ulcer disease,"My bloody stools have caused me to lose iron and bloos, among other things. I now have anaemia from this, and I generally feel quite weak.",Gastrointestinal
+Acne,"This morning, I realized that I had a major rash all over my body. There are lots of pimples filled with pus and blackheads everywhere, and my skin has been scurrying a lot.",Dermatological
+allergy,I have asthma like symptoms like wheezing and difficulty breathing. I often get fever and have headaches. I feel tired all the time,Dermatological
+Pneumonia,"My fever is really high, and I'm having trouble catching my breath. I'm sweating a lot, feeling cold and tired, and my heart is beating really fast. I also have some brownish phlegm coming up.",Respiratory
+Malaria,"I've been experiencing severe itching, chills, vomiting, and a high fever. I'm also sweating a lot and have a headache. I feel nauseous and my muscles are really sore",Febrile/Systemic
+Typhoid,"I have been getting a headache for the past week that has been growing worse. It has been accompanied by stomach pains, constipation, and diarrhea. I don't know what is happening and I am really worried about it.",Febrile/Systemic
+Common Cold,"My nose is extremely runny, and I can't seem to stop sneezing. In addition, I constantly feel cold, exhausted, and I've been coughing a lot. My fever is also really high far above normal.",Respiratory
+Pneumonia,I can't seem to catch my breath and I'm sweating a lot. I feel really sick and have a lot of phlegm in my throat. My chest hurts and my heart is racing. The mucus I'm coughing up is brownish and stringy.,Respiratory
+Acne,My skin has simply nonheritable a nasty rash. It's packed with pus-filled pimples and blackheads. My skin has been very sensitive moreover.,Dermatological
+gastroesophageal reflux disease,"I often wake up with a sore throat or a scratchy voice. My throat hurts constantly, and I also have poor breath. I also frequently burp.",Gastrointestinal
+gastroesophageal reflux disease,"I occasionally have trouble swallowing food because of the tingling in my throat, terrible breath, and bad taste in my mouth.",Gastrointestinal
+peptic ulcer disease,"Bloating and unease are both present in me. I've been losing weight and losing interest in food. I occasionally get tarry, black stools and vomit that contains blood.",Gastrointestinal
+Cervical spondylosis,"I have been suffering from back pain, a chronic cough, and weakness in my arms and legs. My neck hurts and I have been feeling dizzy and off balance",Musculoskeletal/Other
+Fungal infection,"My skin has been really itchy lately, and it occasionally erupts into a rash. In addition, I have a few odd areas of skin that are a different coloration from the rest of me, and occasionally I develop little bumps that look like nodules.",Dermatological
+drug reaction,"My hair's texture has significantly changed, and I'm experiencing hair loss. My scalp is dry and itching, and my dandruff is becoming worse. My skin is also becoming really dry.",Febrile/Systemic
+Typhoid,"Because of the vomiting and diarrhea, I've been having a lot of difficulties staying hydrated. I have a high fever, as well as constipation and headache.",Febrile/Systemic
+Fungal infection,"There are red, bumpy areas on my skin, and I've been scratching myself nonstop. Additionally, I have some bumps that resemble little lumps and some spots that are a different shade of skin than the rest of my body.",Dermatological
+Dengue,I have a high fever along with a severe headache. The fever is accompanied by extreme body pain and chills. I am worried about my health and dont know what to do.,Febrile/Systemic
+Dengue,I have developed red spots on my body that are itchy and inflamed. I am also experiencing high fever along with chills and shivering.,Febrile/Systemic
+Jaundice,"I've felt really scratchy, nauseated, and worn out. I also had a high fever and lost weight. Both my skin and my urine have become yellow. I've also been experiencing stomach pain.",Gastrointestinal
+Fungal infection,"I've been having this really annoying itch all over my body, and I have red and bumpy spots on my skin too. There are also some areas that are a different color than the rest of my skin, and I've had some bumps that look like little balls.",Dermatological
+urinary tract infection,I have been getting blood in my pee. Sometimes I get nauseous while peeing. This often almost coincides with me having a high temperature,Musculoskeletal/Other
+Bronchial Asthma,"I've been experiencing a high fever, a persistent cough, and shortness of breath. I've also been producing a lot of thick, mucoid sputum, and I'm feeling very tired and weak.",Respiratory
+Typhoid,"I've been experiencing chills, fever, and extreme stomach discomfort. I've been generally unhappy, and I can't seem to get rid of these symptoms.",Febrile/Systemic
+Acne,I've been noticing a really nasty rash on my skin lately. It's covered in blackheads and pimples that are packed with pus. My skin has also been really scurrying.,Dermatological
+Varicose Veins,"My legs have been causing a lot of discomforts when I exercise. They feel heavy and swollen, and the veins are prominent and painful. I feel fatigued all the time.",Musculoskeletal/Other
+Migraine,"I've been getting frequent headaches and hazy vision, as well as acid reflux and indigestion after meals.",Musculoskeletal/Other
+Jaundice,"I have been having severe itching, vomiting, and fatigue. I have also lost weight and have a high fever. My skin has turned yellow and my urine is dark. I am also experiencing abdominal pain.",Gastrointestinal
+Impetigo,"I have rashes around my nose, as well as huge red sores. The rash is spreading to other places on my body, as I've seen. In addition, I have a high temperature every night.",Dermatological
+diabetes,I have rashes and skin irritations especially in the folds of the skin. There is also very slow healing of any cuts and bruises I have on my skin,Musculoskeletal/Other
+Acne,"I woke up today to find that I had a major rash all over my body. There are lots of pimples filled with pus and blackheads everywhere, and my skin has been scurrying a lot.",Dermatological
+drug reaction,"My monthly cycle has changed, and I've had an unexpected vaginal discharge. I frequently experience mood swings and experience occasional agitation.",Febrile/Systemic
+Common Cold,"I've had a terrible cough and cold for days. My face is tired and my sinuses are blocked. In addition, my chest hurts from the phlegm I've been coughing up. I can't smell, and my muscles are in terrible pain.",Respiratory
+diabetes,I have persistent dry cough. My infections dont seem to be healing and I have palpitations. I also have this problem of sore throat that does seem to go away,Musculoskeletal/Other
+Fungal infection,"Doctor, I have these red rashes that keep popping up and my skin is continuously itching. In addition, I've observed some odd color-different spots on my skin, as well as some little nodules on my skin that appear to be expanding.",Dermatological
+Hypertension,"I have been feeling fine all day, but suddenly developed a headache, chest pain, and dizziness while driving home from work. It's been hard for me to focus and concentrate on the road since then.",Musculoskeletal/Other
+gastroesophageal reflux disease,"Even when I don't have anything acidic in my stomach, I constantly have a sour taste in my mouth. I frequently have a lump in my throat and the hiccups.",Gastrointestinal
+Malaria,"I've been experiencing a lot of scratching, chills, vomiting, and a fever. I also have a headache and am perspiring a lot. I've been terrible with nausea and soreness in my muscles.",Febrile/Systemic
+urinary tract infection,I get a burning sensation when I pee. Sometimes a lot of pain and foul smelling urine. I have been getting more urges to urinate at night,Musculoskeletal/Other
+Migraine,"I have been experiencing acidity, indigestion, headaches, and blurred and distorted vision, as well as excessive hunger, a stiff neck, depression, irritability, and visual disturbance. These symptoms have been affecting my daily life and causing me discomfort.",Musculoskeletal/Other
+diabetes,I have blurred vision and it only seems to be getting worse. I feel fatigued and tired all the time. I also feel very dizzy and light headed at times,Musculoskeletal/Other
+Hypertension,"I suddenly experienced a headache, chest pain, and dizziness in the middle of a conference. Since then, it has been challenging for me to concentrate and focus on the topic.",Musculoskeletal/Other
+drug reaction,"I'm feeling really lightheaded and dizzy when I have a temperature. My mind is completely muddled, and my heart is racing. I find it difficult to think clearly, and everything seems quite hazy.",Febrile/Systemic
+Typhoid,"I've been experiencing high fever, especially at night. It's been really uncomfortable. There is a mild headache along with constipation and diarrhea.",Febrile/Systemic
+Migraine,"I have been feeling excessively hungry, even after eating, and have had a stiff neck.",Musculoskeletal/Other
+gastroesophageal reflux disease,"I have a chronic bad breath and a sour taste in my mouth, It sometimes gets difficult to swallow food because of this tingling sensation in my throat",Gastrointestinal
+Hypertension,"I felt fine all day, but when I was driving home from work, I suddenly started to have headache, chest discomfort, and dizziness. Since then, it has been challenging for me to concentrate and focus while driving.",Musculoskeletal/Other
+Acne,"I discovered a huge rash on my skin yesterday. My face is covered of blackheads and pus-filled pimples, and my skin has been crawling a lot.",Dermatological
+allergy,"Along with losing my appetite, I've been having swallowing issues. I have a sore throat, and my nose has been running.",Dermatological

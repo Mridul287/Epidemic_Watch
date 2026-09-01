@@ -1,0 +1,46 @@
+{
+  "split_type": "iid",
+  "n_hospitals": 3,
+  "dirichlet_alpha": null,
+  "hospitals": {
+    "hospital_0": {
+      "total_size": 385,
+      "train_size": 269,
+      "val_size": 58,
+      "test_size": 58,
+      "category_distribution": {
+        "Musculoskeletal/Other": 114,
+        "Dermatological": 82,
+        "Febrile/Systemic": 81,
+        "Gastrointestinal": 59,
+        "Respiratory": 49
+      }
+    },
+    "hospital_1": {
+      "total_size": 384,
+      "train_size": 268,
+      "val_size": 58,
+      "test_size": 58,
+      "category_distribution": {
+        "Musculoskeletal/Other": 114,
+        "Dermatological": 82,
+        "Febrile/Systemic": 81,
+        "Gastrointestinal": 59,
+        "Respiratory": 48
+      }
+    },
+    "hospital_2": {
+      "total_size": 384,
+      "train_size": 268,
+      "val_size": 58,
+      "test_size": 58,
+      "category_distribution": {
+        "Musculoskeletal/Other": 114,
+        "Dermatological": 82,
+        "Febrile/Systemic": 81,
+        "Gastrointestinal": 59,
+        "Respiratory": 48
+      }
+    }
+  }
+}

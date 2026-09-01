@@ -1,0 +1,68 @@
+label,text,syndrome_category
+Impetigo,I have a high fever. There are red sores developing near my nose. The sores are painful and have yellow rust-colored ooze coming out from them.,Dermatological
+Psoriasis,"My arms, face and back are all red and irritated. It is frequently irritating and unpleasant. My nails have a strange inflammation and have developed small dents. I have never seen anything like this.",Dermatological
+Psoriasis,"Because of dry, flaky areas on my skin, I am prone to infections. My joints are in excruciating agony. The skin on my knees and elbows is beginning to flake.",Dermatological
+Dengue,The skin rash I have developed is accompanied by redness and swelling. I dont feel well as I have severe fever accompanied with body pain.,Febrile/Systemic
+Psoriasis,"I am starting to have rashes on my arms and neck. The rash often bleeds and hurts when I scratch it. I have also developed small dents in my nails, which is very strange.",Dermatological
+allergy,"I'm nauseous, ill, and shaky. I have a huge throat, which makes it tough for me to breathe. I occasionally have nighttime chest aches and occasional sickness.",Dermatological
+Migraine,"I have been struggling with acid reflux, indigestion, and headaches, as well as blurred and distorted vision, excessive hunger, a sore neck, depression, irritability, and visual disturbance. These symptoms have been causing me a lot of problems and making it difficult to concentrate and function normally.",Musculoskeletal/Other
+Chicken pox,"I'm feeling really sick and uncomfortable like something is wrong inside. I don't know what it could be. I noticed small red spots on my arms, which itches if I touch them.",Febrile/Systemic
+Pneumonia,"I've been feeling very lousy, with a high temperature, shortness of breath, sweating, chills, and extreme weariness. My heart is beating, and I've been coughing up a lot of brownish phlegm.",Respiratory
+allergy,I have a plugged nose and nasal congestion. I occasionally have stiffness and chest discomfort at night. I've also lost my ability to taste and smell.,Dermatological
+Pneumonia,I can't seem to catch my breath and I'm sweating a lot. I feel really sick and have a lot of phlegm in my throat. My chest hurts and my heart is racing. The mucus I'm coughing up is brownish and stringy.,Respiratory
+urinary tract infection,Blood has been found in my urination. I sometimes have nausea when urinating. I regularly feel like I'm almost feverish.,Musculoskeletal/Other
+Fungal infection,"I have a pretty irritating itch all over my body, and my skin also has a few red, bumpy areas. I've also had some pimples that resemble small balls and other spots that are a different colour than the rest of my skin.",Dermatological
+drug reaction,I have awful mental clarity and have trouble focusing. I frequently forget things and struggle with memory.,Febrile/Systemic
+allergy,"I'm dizzy, nauseated, and shaky. I'm having trouble breathing since my throat is swollen. On occasion, throughout the night, my chest hurts and I feel sick.",Dermatological
+Arthritis,"I've been experiencing severe muscular weakness, and my neck has been really stiff. I have swollen joints and find it difficult to move about without becoming stiff. It has also been really uncomfortable to walk.",Musculoskeletal/Other
+Acne,I just developed a really nasty rash on my skin. There are tons of blackheads and pimples that are filled with pus. My skin has also been really scurrying.,Dermatological
+Hypertension,"When I first experienced a headache, chest pain, and lightheadedness, I was at work. Since then, it has been challenging for me to focus and concentrate on my work.",Musculoskeletal/Other
+Cervical spondylosis,"I have been struggling with back pain, a cough that won't go away, and weakness in my extremities. My neck hurts and I have had problems with dizziness and losing my balance.",Musculoskeletal/Other
+allergy,"I often sneeze and have a sore throat. My lips and the area around my eyes occasionally swell. Once I start sneezing, I just can't stop.",Dermatological
+Chicken pox,"There are red spots all over my body that I can't explain. The spots are itchy and starting to swell, and they are spreading rapidly.",Febrile/Systemic
+Chicken pox,I have small lymph nodes on my arms and face. The itching is making my day very uncomfortable.,Febrile/Systemic
+Jaundice,"I have been suffering from itching, vomiting, and fatigue. I have also lost weight and have a high fever. My skin has turned yellow and my urine is dark. I have also been experiencing abdominal pain",Gastrointestinal
+Psoriasis,"I am worried about the constant peeling of the skin on my palm, elbow and knee. I have developed rashes on my arms, which itch if I touch them. All of these are making my life quite discomforting and miserable.",Dermatological
+Fungal infection,"All over my body, there has been a severe itching that has been followed by a red, bumpy rash. My skin also has a few darkened spots and a few tiny, nodular breakouts. It has been happening for several days and is becoming worse.",Dermatological
+Typhoid,"I have been experiencing diarrhea and have had loose, watery stools several times a day. I have lost my appetite and feel nauseated all the time. I am starting to get a mild fever too.",Febrile/Systemic
+Chicken pox,"My skin rash is giving me a lot of pain and discomfort. It's red and swollen, and it's spreading throughout my body.",Febrile/Systemic
+urinary tract infection,"I regularly vomit and get pelvic pain. There is occasionally blood in my pee, and it occasionally has an absolutely intolerable odour. I occasionally have trouble falling asleep because of my migraines.",Musculoskeletal/Other
+Malaria,"I have a high fever, chills, and severe itching. In addition, I have a headache and am perspiring a lot. I've been feeling awful with nausea and muscle ache.",Febrile/Systemic
+Bronchial Asthma,"I've been struggling with fatigue and a constant cough that's been making it difficult to breathe. My fever is high, and I've been coughing up a lot of thick, mucoid sputum.",Respiratory
+Impetigo,I have been experiencing extreme fatigue and a high fever. There are rashes near my nose and mouth. The rash is itchy and makes it very difficult for me to sleep.,Dermatological
+Bronchial Asthma,"Recently, I've felt quite weak and exhausted, and I've also had a cough that simply won't go away. My fever has been really high, and it has been challenging for me to catch my breath. I've been making a lot of mucous when I cough.",Respiratory
+Psoriasis,My skin is very sensitive and reacts easily to changes in temperature or humidity. I often have to be careful about what products I use on my skin.,Dermatological
+Dengue,"The fatigue I have been feeling is extreme and makes it difficult for me to perform even basic tasks. I feel vomitting and developed rashes on my arms, neck and legs.",Febrile/Systemic
+Acne,I woke up this morning and found that I have a really nasty rash all over my skin. There are a ton of blackheads and pimples that are filled with pus. My skin has also been really scurrying.,Dermatological
+Varicose Veins,The veins on my legs are very noticeable and cause me discomfort. It seems like there is a major bruise and I get cramps when I run.,Musculoskeletal/Other
+Chicken pox,I have swollen red lymph nodes on my arms and legs that itch when I touch them. I'm also suffering from a terrible headache and a mild fever. I don't feel like eating anything and have lost my appetite.,Febrile/Systemic
+Hypertension,"I have been feeling fine all day, but suddenly developed a headache, chest pain, and dizziness while driving home from work. It's been hard for me to focus and concentrate on the road since then.",Musculoskeletal/Other
+Psoriasis,"The skin on my genitals is red and inflamed. It is often itchy, burning, and uncomfortable. There are rashes on different parts of the body too.",Dermatological
+Fungal infection,There are now red blotches all over my body where I have been itching horribly all over. A few of the patches also differ in complexion from my natural skin. And these lumps or bumps have developed on my skin.,Dermatological
+drug reaction,"I suffer migraines and headaches, and I've been having trouble falling asleep. My whole body has been trembling and shivering. At times, I have dizziness.",Febrile/Systemic
+Bronchial Asthma,"Doctor Due to a high fever, I haven't been able to breathe via my nose or mouth for a few days and feeling too tired.sometimes mucus has been seen too.Please recommend some medications for me.",Respiratory
+urinary tract infection,"I have been frequently getting sudden strong urges to pee. There is blood in my pee sometimes and it is very foul smelling. I think I have an infection, what do I do?",Musculoskeletal/Other
+Dengue,"I have been feeling nauseous and have a constant urge to vomit. I get high fever and chills every night and feel terrible because of this. Also, I feel I have lost my appetite.",Febrile/Systemic
+Chicken pox,"I have a skin rash that's red and swollen, and it's spreading all over my body. I have a mild fever and it is causing me a lot of discomforts.",Febrile/Systemic
+Hypertension,"Along with a headache, chest pain, instability, and balance issues, I've also been feeling dizzy. I also think I'm having problems focusing.",Musculoskeletal/Other
+Cervical spondylosis,"Back pain, a chronic cough, and muscle weakness have been bothering me. I have concerns with dizziness and losing my position, and my neck hurts.",Musculoskeletal/Other
+Psoriasis,"My nails have small dents or pits in them, and they often feel inflammatory and tender to the touch. Even there are minor rashes on my arms.",Dermatological
+diabetes,My wound is healing slowly and at a slower rate. My hands and feet are numb and tingling at the same time.,Musculoskeletal/Other
+Jaundice,"I've been feeling extremely scratchy, sick, and worn out. In addition, I've lost weight and have a temperature. My urine is dark, and my skin has turned yellow. Additionally, I have been experiencing stomach pain.",Gastrointestinal
+diabetes,"My emotions fluctuate, and it's hard for me to concentrate. My mind can be foggy and foggy at times, making it difficult for me to perform even simple chores.",Musculoskeletal/Other
+allergy,I always get a tickle in my throat and feel fatigued. My skin has begun to feel dry as well. I have ocular edema on occasion.,Dermatological
+Psoriasis,"My skin rash has extended to other areas of my body, including my chest and belly. It is irritating and unpleasant, and it is frequently worst at night. I'm also experiencing skin flaking.",Dermatological
+diabetes,"My entire body is trembling and shaky. I've lost my ability to taste and smell, and I'm worn out. I sometimes get a racing heart or palpitations.",Musculoskeletal/Other
+allergy,"I've been losing my appetite and having trouble swallowing. My nose has been running, and I have a sore throat.",Dermatological
+Common Cold,"I've been sneezing incessantly and I just can't get this chill to go away. I feel so weak and exhausted, and my cough won't stop. My temperature is really high.",Respiratory
+Bronchial Asthma,"Hey, I've had a dry cough, breathing difficulties, as well as a high fever. a lot of mucous is being produced, and I feel incredibly weak and tired.",Respiratory
+Varicose Veins,"I am experiencing too many cramps in the last couple of days. I think something is not right. I believe there is a small bruise on my calves, but I am not sure about it.",Musculoskeletal/Other
+Varicose Veins,The skin on my calves has become inflamed and red. My legs hurt if I try to run or do any physical activities.,Musculoskeletal/Other
+Varicose Veins,"Walking is tough for me because of cramps in my calves. Obesity, I believe, is the cause of this. After a while of working, I'm exhausted.",Musculoskeletal/Other
+Common Cold,"I can't stop sneezing and my nose is really runny. I'm also really cold and tired all the time, and I've been coughing a lot. My fever is really high too, like way above normal.",Respiratory
+Common Cold,"My eyes are usually red and inflamed, and I have the impression that something is clogging my sinuses. I've been coughing up a lot of gunk, and my chest hurts. I can't smell anything, and my muscles are aching.",Respiratory
+Dengue,"As a result of my regular vomiting, I've lost my appetite. My muscles, joints and back constantly hurt. I am starting to have fever too. I am really worried and not sure what to do.",Febrile/Systemic
+diabetes,I have mood changes and have difficulty concentrating. My mind feels hazy and foggy at times and it gets difficult to do even regular chores,Musculoskeletal/Other
+Common Cold,"My nose is extremely runny, and I can't seem to stop sneezing. In addition, I constantly feel cold, exhausted, and I've been coughing a lot. My fever is also really high far above normal.",Respiratory
+drug reaction,"In addition to experiencing a change in taste and fragrance, I also have a metallic aftertaste in my tongue. occasionally get excruciating joint and muscular pain",Febrile/Systemic
+diabetes,"My body is shaking and trembling. My senses of taste and smell have gotten weaker, and I feel exhausted. I occasionally have palpitations or a rapid pulse.",Musculoskeletal/Other

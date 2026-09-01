@@ -1,0 +1,59 @@
+label,text,syndrome_category
+urinary tract infection,Blood has been found in my urination. I sometimes have nausea when urinating. I regularly feel like I'm almost feverish.,Musculoskeletal/Other
+drug reaction,"My tongue also changes in taste and scent, leaving a metallic aftertaste. can have excruciating joint and muscle pain",Febrile/Systemic
+Cervical spondylosis,"Back pain, a chronic cough, and muscle weakness have been bothering me. I have concerns with dizziness and losing my position, and my neck hurts.",Musculoskeletal/Other
+Bronchial Asthma,"I've been coughing nonstop for days, and I also have respiratory issues. My fever is through the roof, and I'm so weak and worn out. All of these symptoms have been really challenging for me to control,",Respiratory
+Varicose Veins,The veins in my legs are causing discomfort and difficulty sleeping at night. I have no idea why it is happening. I get cramps when I sprint.,Musculoskeletal/Other
+Jaundice,"Extreme itchiness, nausea, and exhaustion have been bothering me. In addition, I developed a fever and lost weight. My pee is black, and I've developed a yellow rash. The ache in my stomach is also present.",Gastrointestinal
+Pneumonia,"I've been experiencing chills, feel really exhausted, and my cough just won't go away. When I cough, my chest aches and my heart is pounding. It's a disgusting brownish hue, the mucous I'm coming up.",Respiratory
+urinary tract infection,"My stomach hurts, and I frequently acquire a temperature. I experience sudden, intense cravings to urinate. The discomfort is virtually always there and frequently gets worse at night. My pee nearly always smells bad.",Musculoskeletal/Other
+Common Cold,"My neck is swollen, and I'm exhausted. My throat is scratchy, and my eyes are burning red. My nose is really clogged, and I am experiencing facial pressure. My chest hurts, and I'm unable to smell anything.",Respiratory
+gastroesophageal reflux disease,"I have frequent belching and burping. I have chest pain that often radiates to the back of my neck, jaw and arm. I get a feeling of tightness and pressure on my chest",Gastrointestinal
+Impetigo,"Over the last two days, the rash on my face has gotten more severe and inflamed, and the blisters have begun to bleed clear pus. It is really painful to deal with.",Dermatological
+Impetigo,"There are sores on my face and mostly near my nose and lips. The sores are causing discomfort or pain, and there is a discharge of yellow or rust-colored fluid from them.",Dermatological
+Bronchial Asthma,"Doctor , from couple of days i am not able to brethe propelry , lying on bed due to high fever , lot of mucus gets out . please suggest me some medicines.",Respiratory
+Typhoid,There is a distinct pain in my abdominal part. I am not sure what it is. I am also going through constant vomiting and feel nauseous.,Febrile/Systemic
+Malaria,"I have a high fever, severe itching, chills, and vomiting. I also have a headache and have been perspiring a lot. Additionally hurting me have been nausea and muscle soreness.",Febrile/Systemic
+Pneumonia,"I have a really high fever, and I'm having trouble breathing. I'm sweating a lot and feeling really cold and tired. My heart is beating really fast, and I have some brownish sputum",Respiratory
+Common Cold,I've been feeling really sick and I've had a lot of fatigue. I've had a really bad cough and my throat has been really sore. I've had a lot of sinus pressure and my nose has been really congested. I just feel really run down and miserable.,Respiratory
+Acne,I just developed a really nasty rash on my skin. There are tons of blackheads and pimples that are filled with pus. My skin has also been really scurrying.,Dermatological
+peptic ulcer disease,"I have trouble swallowing, and I frequently feel like food is getting stuck in my throat. I feel bloated and belch constantly. I always get a sour taste in my mouth.",Gastrointestinal
+peptic ulcer disease,"Due to a stomach discomfort, I have problems sleeping or staying asleep. I am exhausted after using the bathroom and lose my appetite. I'm quite nervous all the time.",Gastrointestinal
+gastroesophageal reflux disease,"I get frequent heartburn and indigestion, especially eating spicy foods or fatty foods. I get chest pain that gets worse when I lie down or bend over. I also often have chest pain",Gastrointestinal
+Hypertension,"My balance has been off, and I have a headache, chest pain, and dizziness. I've also observed that it's hard for me to concentrate.",Musculoskeletal/Other
+Psoriasis,"Because of dry, flaky areas on my skin, I am prone to infections. My joints are in extreme pain . My knees and elbows' skin are starting to peel off.",Dermatological
+drug reaction,"I no longer want to have sex, and it's difficult for me to do so. I regularly have brain fog and a sense of confusion.",Febrile/Systemic
+Malaria,"Along with my intense scratching, chills, nausea, and high fever, I've also been feeling really unwell. Along with my headache and excessive sweating, I've been suffering from severe muscle pain and nausea.",Febrile/Systemic
+Acne,"A skin rash with several pus-filled pimples and blackheads has been bothering me lately. Additionally, my skin has been scurring a lot.",Dermatological
+Malaria,"I have a high fever, chills, and severe itching. In addition, I have a headache and am perspiring a lot. I've been feeling awful with nausea and muscle ache.",Febrile/Systemic
+Dengue,"I have been feeling nauseous and have a constant urge to vomit, which is accompanied with mild fever and headache.",Febrile/Systemic
+gastroesophageal reflux disease,"I always get a sour taste in my mouth, even when I don't have anything acidic in my stomach. I regularly have the hiccups and a knot in my throat.",Gastrointestinal
+allergy,"I get breathing issues and wheezing, which are asthma symptoms. I regularly have fevers and headaches. I constantly feel worn out.",Dermatological
+Migraine,"Along with excessive appetite, a stiff neck, depression, impatience, and visual disturbance, I've also been suffering indigestion, headaches, blurred vision, and stomach problems.",Musculoskeletal/Other
+Common Cold,My eyes have been really red and my sinuses feel congested. I just don't have any energy and my throat has been really itchy. I've also noticed my lymph nodes are swollen and I've been coughing up a lot of phlegm.,Respiratory
+Dengue,The skin rash I have developed is accompanied by redness and swelling. I dont feel well as I have severe fever accompanied with body pain.,Febrile/Systemic
+Acne,"Yesterday, I noticed an enormous rash all over my skin. There are a lot of pus-filled pimples and blackheads all over my face, and my skin has been scurrying a lot.",Dermatological
+diabetes,"I'm drinking more water and urinating more frequently. My throat and mouth are frequently dry. Recently, my appetite and hunger have both grown.",Musculoskeletal/Other
+Migraine,"In add to frequent headaches and blurred vision, increased appetite, a stiff neck, anxiety, irritability, and visual disturbance, I have been having stomach problems, including indigestion and acidity.",Musculoskeletal/Other
+gastroesophageal reflux disease,I regularly feel sick after eating and puke up the entire meal. I constantly get horrible acid reflux agony and stomach discomfort.,Gastrointestinal
+allergy,I have a sore throat and frequently sneeze. Sometimes the skin around my eyes and my lips swells. I just can't stop sneezing once I get going.,Dermatological
+Varicose Veins,My legs are causing a lot of discomforts when I exercise. I get frequent cramps and the blood vessels have become quite noticeable.,Musculoskeletal/Other
+Fungal infection,"Doctor, I have a really itchy rash on my skin and there are some weird spots that are a different color. There are also some bumps on my skin that look like little knots",Dermatological
+Typhoid,I've been having a lot of trouble keeping hydrated because of the vomiting and diarrhea. There is a mild fever along with constipation and headache.,Febrile/Systemic
+Pneumonia,"I'm dripping with perspiration and can't seem to catch my breath. My throat is filled with a lot of phlegm, and I feel awful. My heart is pounding, and my chest aches. I'm coughing up a stringy, brownish mucous.",Respiratory
+Varicose Veins,The swelling in my legs has gotten worse over the past few weeks and is causing me difficulty fitting into my shoes. It is also causing discomfort when I sit for long periods of time.,Musculoskeletal/Other
+Fungal infection,"My skin has been really itchy and there are these rashy spots all over. There are also some patches that look different in color than the rest of my skin, and I've had some bumps that are kind of hard.",Dermatological
+diabetes,"I constantly have a dry cough. My infections don't seem to be healing, and I have palpitations. My throat hurts occasionally, but it does appear to get better.",Musculoskeletal/Other
+gastroesophageal reflux disease,"I have indigestion and heartburn. I frequently vomit everything I eat, and I have trouble swallowing food because it gets caught in my throat. My upper abdomen is bothering me.",Gastrointestinal
+Dengue,"As a result of my regular vomiting, I've lost my appetite. My muscles, joints and back constantly hurt. I am starting to have fever too. I am really worried and not sure what to do.",Febrile/Systemic
+Varicose Veins,"I am experiencing too many cramps in the last couple of days. I think something is not right. I believe there is a small bruise on my calves, but I am not sure about it.",Musculoskeletal/Other
+Varicose Veins,Standing or walking for long periods of time causes a lot of pain in my legs. I get cramps upon doing physical activities. There are bruise marks on my legs too.,Musculoskeletal/Other
+Hypertension,"I was in the middle of a workout when I suddenly developed a headache, chest pain, and dizziness. It's been hard for me to maintain my balance since then",Musculoskeletal/Other
+Hypertension,"I have been struggling with a headache that feels like a tight band around my head, along with chest pain and dizziness.",Musculoskeletal/Other
+drug reaction,"I am quite queasy and dizzy when I have a temperature. My brain is completely cloudy, and my heart is racing. I'm having trouble thinking straight, and everything seems a little fuzzy.",Febrile/Systemic
+Dengue,I have been experiencing a severe fever that is accompanied by pain behind my eyes and headache. I feel tired and exhasuted because of which I cannot do any work.,Febrile/Systemic
+Varicose Veins,"My calves have been cramping up when I walk or stand for long periods of time. There are bruise marks on my calves, which is making me worried. I feel tired very soon.",Musculoskeletal/Other
+Jaundice,"I have been experiencing severe itching, vomiting, fatigue, and weight loss. My fever is high and my skin has turned yellow. My urine is dark and I have been experiencing abdominal pain",Gastrointestinal
+Migraine,"Along with distorted eyesight, excessive appetite, a painful neck, anxiety, irritability, and regular headaches, I have also been battling acid reflux, indigestion, and regular headaches.",Musculoskeletal/Other
+Fungal infection,"I've been rather itchy recently, and I have rashy blotches all over my skin. There are also certain regions that are more dark in color than the rest of my skin, and I've got some painful lumps.",Dermatological
+Psoriasis,"I have red and inflammatory skin around my mouth, nose, and eyes. It is frequently irritating and unpleasant. Recently, it has got very painful.",Dermatological

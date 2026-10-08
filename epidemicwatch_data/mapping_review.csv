@@ -1,0 +1,774 @@
+disease,rows,syndrome_category
+cystitis,1219,Musculoskeletal/Other
+nose disorder,1218,Musculoskeletal/Other
+vulvodynia,1218,Musculoskeletal/Other
+complex regional pain syndrome,1217,Musculoskeletal/Other
+spondylosis,1216,Musculoskeletal/Other
+vaginal cyst,1215,Musculoskeletal/Other
+esophagitis,1215,Gastrointestinal
+peripheral nerve disorder,1215,Musculoskeletal/Other
+hypoglycemia,1215,Musculoskeletal/Other
+conjunctivitis due to allergy,1215,Musculoskeletal/Other
+gastrointestinal hemorrhage,1214,Gastrointestinal
+diverticulitis,1214,Gastrointestinal
+acute bronchitis,1213,Respiratory
+infectious gastroenteritis,1212,Febrile/Systemic
+fungal infection of the hair,1212,Dermatological
+sprain or strain,1212,Musculoskeletal/Other
+pneumonia,1212,Respiratory
+spontaneous abortion,1212,Musculoskeletal/Other
+gout,1211,Musculoskeletal/Other
+marijuana abuse,1210,Musculoskeletal/Other
+arthritis of the hip,1210,Musculoskeletal/Other
+strep throat,1210,Musculoskeletal/Other
+injury to the arm,1209,Musculoskeletal/Other
+liver disease,1209,Gastrointestinal
+bursitis,1208,Musculoskeletal/Other
+spinal stenosis,1207,Musculoskeletal/Other
+acute pancreatitis,1207,Gastrointestinal
+eczema,1207,Dermatological
+benign prostatic hyperplasia (bph),1206,Musculoskeletal/Other
+injury to the leg,1206,Musculoskeletal/Other
+noninfectious gastroenteritis,1206,Febrile/Systemic
+acute bronchiolitis,1204,Respiratory
+cholecystitis,1204,Gastrointestinal
+anxiety,1198,Musculoskeletal/Other
+obstructive sleep apnea (osa),1196,Respiratory
+concussion,1191,Musculoskeletal/Other
+dental caries,1185,Musculoskeletal/Other
+sebaceous cyst,913,Musculoskeletal/Other
+problem during pregnancy,913,Musculoskeletal/Other
+sickle cell crisis,913,Musculoskeletal/Other
+chronic constipation,913,Gastrointestinal
+psoriasis,912,Dermatological
+depression,912,Musculoskeletal/Other
+hyperemesis gravidarum,912,Musculoskeletal/Other
+pyogenic skin infection,911,Dermatological
+developmental disability,911,Musculoskeletal/Other
+personality disorder,911,Musculoskeletal/Other
+urinary tract infection,910,Musculoskeletal/Other
+multiple sclerosis,910,Musculoskeletal/Other
+acute stress reaction,910,Musculoskeletal/Other
+seasonal allergies (hay fever),910,Febrile/Systemic
+otitis media,910,Musculoskeletal/Other
+actinic keratosis,909,Dermatological
+vaginitis,909,Musculoskeletal/Other
+panic disorder,909,Musculoskeletal/Other
+skin pigmentation disorder,909,Dermatological
+sinus bradycardia,909,Musculoskeletal/Other
+degenerative disc disease,909,Musculoskeletal/Other
+drug reaction,909,Musculoskeletal/Other
+sepsis,909,Febrile/Systemic
+macular degeneration,909,Musculoskeletal/Other
+contact dermatitis,909,Dermatological
+eustachian tube dysfunction (ear disorder),909,Musculoskeletal/Other
+conjunctivitis,909,Musculoskeletal/Other
+stye,908,Musculoskeletal/Other
+acute kidney injury,908,Musculoskeletal/Other
+pain after an operation,908,Musculoskeletal/Other
+idiopathic irregular menstrual cycle,908,Musculoskeletal/Other
+hemorrhoids,908,Gastrointestinal
+herniated disk,908,Gastrointestinal
+heart attack,907,Musculoskeletal/Other
+ear drum damage,907,Musculoskeletal/Other
+brachial neuritis,907,Musculoskeletal/Other
+chronic obstructive pulmonary disease (copd),906,Respiratory
+hiatal hernia,906,Gastrointestinal
+acute bronchospasm,906,Respiratory
+idiopathic excessive menstruation,906,Musculoskeletal/Other
+idiopathic painful menstruation,906,Musculoskeletal/Other
+angina,906,Musculoskeletal/Other
+blepharitis,906,Musculoskeletal/Other
+acute sinusitis,906,Respiratory
+threatened pregnancy,905,Musculoskeletal/Other
+injury to the trunk,905,Musculoskeletal/Other
+common cold,905,Respiratory
+allergy,905,Musculoskeletal/Other
+asthma,904,Respiratory
+otitis externa (swimmer's ear),904,Musculoskeletal/Other
+kidney stone,904,Musculoskeletal/Other
+gallstone,904,Gastrointestinal
+croup,904,Respiratory
+appendicitis,903,Gastrointestinal
+cornea infection,903,Musculoskeletal/Other
+pyelonephritis,903,Musculoskeletal/Other
+heart failure,903,Musculoskeletal/Other
+hypertensive heart disease,902,Musculoskeletal/Other
+psychotic disorder,902,Musculoskeletal/Other
+rectal disorder,902,Gastrointestinal
+neurosis,902,Musculoskeletal/Other
+pelvic inflammatory disease,900,Musculoskeletal/Other
+chronic back pain,899,Musculoskeletal/Other
+skin polyp,897,Dermatological
+temporary or benign blood in urine,897,Musculoskeletal/Other
+diaper rash,897,Dermatological
+osteoarthritis,896,Musculoskeletal/Other
+carpal tunnel syndrome,896,Musculoskeletal/Other
+gum disease,894,Musculoskeletal/Other
+schizophrenia,890,Musculoskeletal/Other
+ischemic heart disease,886,Musculoskeletal/Other
+smoking or tobacco addiction,883,Musculoskeletal/Other
+fracture of the rib,882,Musculoskeletal/Other
+pulmonary embolism,880,Respiratory
+seborrheic dermatitis,880,Dermatological
+seborrheic keratosis,870,Dermatological
+dry eye of unknown cause,861,Musculoskeletal/Other
+bell palsy,685,Musculoskeletal/Other
+neuralgia,684,Musculoskeletal/Other
+lipoma,684,Musculoskeletal/Other
+iron deficiency anemia,683,Musculoskeletal/Other
+gastroduodenal ulcer,683,Gastrointestinal
+acute otitis media,683,Musculoskeletal/Other
+urinary tract obstruction,683,Musculoskeletal/Other
+fungal infection of the skin,683,Dermatological
+impetigo,683,Dermatological
+varicocele of the testicles,682,Musculoskeletal/Other
+benign vaginal discharge (leukorrhea),682,Musculoskeletal/Other
+sensorineural hearing loss,681,Musculoskeletal/Other
+prostatitis,681,Musculoskeletal/Other
+oral thrush (yeast infection),681,Musculoskeletal/Other
+conjunctivitis due to virus,681,Musculoskeletal/Other
+conduct disorder,679,Musculoskeletal/Other
+flu,679,Respiratory
+gastritis,679,Gastrointestinal
+rosacea,678,Dermatological
+fracture of the leg,678,Musculoskeletal/Other
+laryngitis,678,Respiratory
+chalazion,678,Musculoskeletal/Other
+tendinitis,678,Musculoskeletal/Other
+rheumatoid arthritis,678,Musculoskeletal/Other
+ear wax impaction,678,Musculoskeletal/Other
+muscle spasm,678,Musculoskeletal/Other
+chronic pain disorder,677,Musculoskeletal/Other
+skin disorder,676,Dermatological
+hemangioma,676,Musculoskeletal/Other
+corneal disorder,676,Musculoskeletal/Other
+mononeuritis,676,Musculoskeletal/Other
+ganglion cyst,675,Musculoskeletal/Other
+diverticulosis,673,Gastrointestinal
+spondylolisthesis,673,Musculoskeletal/Other
+diabetic ketoacidosis,673,Musculoskeletal/Other
+paroxysmal ventricular tachycardia,671,Musculoskeletal/Other
+tooth disorder,671,Musculoskeletal/Other
+tooth abscess,669,Dermatological
+chronic otitis media,669,Musculoskeletal/Other
+insect bite,669,Musculoskeletal/Other
+sciatica,668,Musculoskeletal/Other
+chronic glaucoma,668,Musculoskeletal/Other
+alcohol withdrawal,665,Musculoskeletal/Other
+bipolar disorder,663,Musculoskeletal/Other
+skin cancer,661,Dermatological
+chronic sinusitis,657,Respiratory
+hyperkalemia,657,Musculoskeletal/Other
+fibromyalgia,656,Musculoskeletal/Other
+transient ischemic attack,655,Musculoskeletal/Other
+labyrinthitis,654,Musculoskeletal/Other
+stroke,642,Musculoskeletal/Other
+vaginal yeast infection,608,Musculoskeletal/Other
+pleural effusion,607,Respiratory
+deviated nasal septum,607,Respiratory
+cataract,607,Musculoskeletal/Other
+post-traumatic stress disorder (ptsd),607,Musculoskeletal/Other
+heart block,606,Musculoskeletal/Other
+ankylosing spondylitis,606,Musculoskeletal/Other
+erectile dysfunction,606,Musculoskeletal/Other
+oral mucosal lesion,606,Musculoskeletal/Other
+drug abuse (opioids),604,Musculoskeletal/Other
+ingrown toe nail,604,Musculoskeletal/Other
+drug abuse,603,Musculoskeletal/Other
+intracerebral hemorrhage,603,Musculoskeletal/Other
+viral exanthem,601,Musculoskeletal/Other
+delirium,598,Musculoskeletal/Other
+conductive hearing loss,598,Musculoskeletal/Other
+parkinson disease,513,Musculoskeletal/Other
+callus,513,Dermatological
+epididymitis,511,Musculoskeletal/Other
+molluscum contagiosum,511,Musculoskeletal/Other
+social phobia,511,Musculoskeletal/Other
+interstitial lung disease,511,Respiratory
+irritable bowel syndrome,510,Gastrointestinal
+injury to the shoulder,510,Musculoskeletal/Other
+alcohol abuse,510,Musculoskeletal/Other
+sialoadenitis,509,Musculoskeletal/Other
+attention deficit hyperactivity disorder (adhd),507,Musculoskeletal/Other
+onychomycosis,505,Musculoskeletal/Other
+lymphedema,505,Musculoskeletal/Other
+itching of unknown cause,504,Musculoskeletal/Other
+mitral valve disease,504,Musculoskeletal/Other
+hemiplegia,504,Musculoskeletal/Other
+white blood cell disease,504,Musculoskeletal/Other
+adjustment reaction,503,Musculoskeletal/Other
+breast infection (mastitis),501,Musculoskeletal/Other
+corneal abrasion,500,Musculoskeletal/Other
+dysthymic disorder,499,Musculoskeletal/Other
+ovarian cyst,499,Musculoskeletal/Other
+glaucoma,498,Musculoskeletal/Other
+pulmonary congestion,497,Respiratory
+acne,496,Dermatological
+iridocyclitis,496,Musculoskeletal/Other
+hyponatremia,495,Musculoskeletal/Other
+urge incontinence,495,Musculoskeletal/Other
+postpartum depression,494,Musculoskeletal/Other
+eating disorder,494,Musculoskeletal/Other
+idiopathic absence of menstruation,493,Musculoskeletal/Other
+hypokalemia,478,Musculoskeletal/Other
+yeast infection,470,Musculoskeletal/Other
+diabetic retinopathy,456,Musculoskeletal/Other
+envenomation from spider or animal bite,455,Musculoskeletal/Other
+injury to the face,455,Musculoskeletal/Other
+bladder disorder,454,Musculoskeletal/Other
+food allergy,454,Musculoskeletal/Other
+balanitis,454,Musculoskeletal/Other
+obsessive compulsive disorder (ocd),454,Musculoskeletal/Other
+urethritis,453,Musculoskeletal/Other
+lymphadenitis,453,Musculoskeletal/Other
+viral warts,453,Dermatological
+eye alignment disorder,453,Musculoskeletal/Other
+autism,452,Musculoskeletal/Other
+diabetic peripheral neuropathy,452,Musculoskeletal/Other
+aortic valve disease,451,Musculoskeletal/Other
+thrombophlebitis,451,Musculoskeletal/Other
+acute respiratory distress syndrome (ards),451,Respiratory
+spondylitis,451,Musculoskeletal/Other
+herpangina,450,Musculoskeletal/Other
+uterine fibroids,450,Musculoskeletal/Other
+joint effusion,449,Musculoskeletal/Other
+fracture of the facial bones,449,Musculoskeletal/Other
+ileus,449,Gastrointestinal
+gastroesophageal reflux disease (gerd),448,Gastrointestinal
+myopia,448,Musculoskeletal/Other
+indigestion,447,Musculoskeletal/Other
+pulmonary hypertension,446,Respiratory
+dermatitis due to sun exposure,446,Dermatological
+tonsillitis,446,Respiratory
+intestinal obstruction,445,Gastrointestinal
+benign paroxysmal positional vertical (bppv),443,Musculoskeletal/Other
+choledocholithiasis,441,Musculoskeletal/Other
+pelvic organ prolapse,438,Musculoskeletal/Other
+paronychia,438,Musculoskeletal/Other
+atrophic skin condition,438,Dermatological
+teething syndrome,438,Musculoskeletal/Other
+fracture of the arm,437,Musculoskeletal/Other
+oppositional disorder,431,Musculoskeletal/Other
+hypovolemia,424,Musculoskeletal/Other
+abdominal hernia,407,Gastrointestinal
+inguinal hernia,402,Gastrointestinal
+pain disorder affecting the neck,387,Musculoskeletal/Other
+cervicitis,384,Musculoskeletal/Other
+intestinal disease,383,Gastrointestinal
+athlete's foot,382,Musculoskeletal/Other
+peritonitis,381,Musculoskeletal/Other
+shingles (herpes zoster),379,Dermatological
+osteoporosis,378,Musculoskeletal/Other
+endometriosis,378,Musculoskeletal/Other
+ulcerative colitis,377,Gastrointestinal
+crohn disease,376,Gastrointestinal
+paroxysmal supraventricular tachycardia,375,Musculoskeletal/Other
+missed abortion,375,Musculoskeletal/Other
+hepatitis due to a toxin,357,Gastrointestinal
+nasal polyp,356,Respiratory
+alcohol intoxication,351,Musculoskeletal/Other
+cardiac arrest,346,Musculoskeletal/Other
+vitreous degeneration,341,Musculoskeletal/Other
+abscess of the pharynx,341,Dermatological
+ectopic pregnancy,341,Musculoskeletal/Other
+temporomandibular joint disorder,341,Musculoskeletal/Other
+cranial nerve palsy,340,Musculoskeletal/Other
+alopecia,340,Dermatological
+hydronephrosis,340,Musculoskeletal/Other
+colonic polyp,339,Gastrointestinal
+dementia,339,Musculoskeletal/Other
+trichomonas infection,339,Musculoskeletal/Other
+tonsillar hypertrophy,339,Respiratory
+pilonidal cyst,339,Musculoskeletal/Other
+scleroderma,338,Musculoskeletal/Other
+bladder obstruction,338,Musculoskeletal/Other
+asperger syndrome,338,Musculoskeletal/Other
+lateral epicondylitis (tennis elbow),337,Musculoskeletal/Other
+alzheimer disease,336,Musculoskeletal/Other
+venous insufficiency,336,Musculoskeletal/Other
+jaw disorder,336,Musculoskeletal/Other
+impulse control disorder,335,Musculoskeletal/Other
+tietze syndrome,333,Musculoskeletal/Other
+mononucleosis,331,Febrile/Systemic
+cirrhosis,331,Gastrointestinal
+anemia,331,Musculoskeletal/Other
+drug abuse (methamphetamine),330,Musculoskeletal/Other
+sarcoidosis,330,Musculoskeletal/Other
+atrophic vaginitis,329,Musculoskeletal/Other
+fluid overload,327,Musculoskeletal/Other
+head and neck cancer,326,Musculoskeletal/Other
+premature ventricular contractions (pvcs),325,Musculoskeletal/Other
+intracranial hemorrhage,322,Musculoskeletal/Other
+astigmatism,321,Musculoskeletal/Other
+urethral disorder,315,Musculoskeletal/Other
+cardiomyopathy,311,Musculoskeletal/Other
+vasculitis,299,Musculoskeletal/Other
+meningitis,297,Febrile/Systemic
+chronic pancreatitis,297,Gastrointestinal
+pneumothorax,296,Musculoskeletal/Other
+abscess of nose,290,Dermatological
+mucositis,289,Musculoskeletal/Other
+induced abortion,287,Musculoskeletal/Other
+ischemia of the bowel,283,Gastrointestinal
+restless leg syndrome,283,Musculoskeletal/Other
+orthostatic hypotension,283,Musculoskeletal/Other
+kidney failure,282,Musculoskeletal/Other
+meniere disease,281,Musculoskeletal/Other
+drug abuse (cocaine),281,Musculoskeletal/Other
+foreign body in the eye,281,Musculoskeletal/Other
+retinal detachment,280,Musculoskeletal/Other
+torticollis,280,Musculoskeletal/Other
+nerve impingement near the shoulder,280,Musculoskeletal/Other
+tinnitus of unknown cause,279,Musculoskeletal/Other
+urethral stricture,279,Musculoskeletal/Other
+tension headache,279,Musculoskeletal/Other
+melanoma,271,Dermatological
+fracture of the vertebra,270,Musculoskeletal/Other
+polycystic ovarian syndrome (pcos),268,Musculoskeletal/Other
+heat exhaustion,264,Musculoskeletal/Other
+arrhythmia,258,Musculoskeletal/Other
+scar,256,Musculoskeletal/Other
+bone disorder,255,Musculoskeletal/Other
+drug withdrawal,255,Musculoskeletal/Other
+stress incontinence,255,Musculoskeletal/Other
+subconjunctival hemorrhage,249,Musculoskeletal/Other
+graves disease,248,Musculoskeletal/Other
+peritonsillar abscess,246,Dermatological
+alcoholic liver disease,246,Gastrointestinal
+aphthous ulcer,244,Gastrointestinal
+genital herpes,242,Musculoskeletal/Other
+atrial flutter,240,Musculoskeletal/Other
+deep vein thrombosis (dvt),240,Musculoskeletal/Other
+brain cancer,227,Musculoskeletal/Other
+hydrocele of the testicle,227,Musculoskeletal/Other
+sickle cell anemia,226,Musculoskeletal/Other
+anal fissure,226,Musculoskeletal/Other
+migraine,221,Musculoskeletal/Other
+premature atrial contractions (pacs),220,Musculoskeletal/Other
+uterine atony,219,Musculoskeletal/Other
+preeclampsia,217,Musculoskeletal/Other
+thyroid nodule,216,Musculoskeletal/Other
+pterygium,215,Musculoskeletal/Other
+substance-related mental disorder,213,Musculoskeletal/Other
+presbyopia,212,Musculoskeletal/Other
+overflow incontinence,212,Musculoskeletal/Other
+lyme disease,211,Febrile/Systemic
+osteochondroma,211,Musculoskeletal/Other
+acute glaucoma,210,Musculoskeletal/Other
+drug poisoning due to medication,208,Musculoskeletal/Other
+benign kidney cyst,206,Musculoskeletal/Other
+pancreatic cancer,204,Gastrointestinal
+trigeminal neuralgia,201,Musculoskeletal/Other
+plantar fasciitis,199,Musculoskeletal/Other
+female genitalia infection,197,Musculoskeletal/Other
+essential tremor,195,Musculoskeletal/Other
+poisoning due to gas,194,Musculoskeletal/Other
+cold sore,192,Musculoskeletal/Other
+primary insomnia,190,Musculoskeletal/Other
+tracheitis,189,Musculoskeletal/Other
+panic attack,188,Musculoskeletal/Other
+osteomyelitis,188,Musculoskeletal/Other
+scabies,187,Dermatological
+persistent vomiting of unknown cause,186,Musculoskeletal/Other
+narcolepsy,186,Musculoskeletal/Other
+pulmonary eosinophilia,185,Respiratory
+fracture of the pelvis,184,Musculoskeletal/Other
+polycystic kidney disease,183,Musculoskeletal/Other
+injury of the ankle,182,Musculoskeletal/Other
+malignant hypertension,181,Musculoskeletal/Other
+thoracic outlet syndrome,180,Musculoskeletal/Other
+gastroparesis,179,Gastrointestinal
+soft tissue sarcoma,171,Musculoskeletal/Other
+scoliosis,171,Musculoskeletal/Other
+orbital cellulitis,170,Dermatological
+chronic rheumatic fever,169,Febrile/Systemic
+headache after lumbar puncture,169,Musculoskeletal/Other
+thoracic aortic aneurysm,168,Musculoskeletal/Other
+psychosexual disorder,168,Musculoskeletal/Other
+chlamydia,165,Musculoskeletal/Other
+broken tooth,165,Musculoskeletal/Other
+head injury,164,Musculoskeletal/Other
+fracture of the shoulder,162,Musculoskeletal/Other
+intestinal malabsorption,161,Gastrointestinal
+vulvar disorder,160,Musculoskeletal/Other
+systemic lupus erythematosis (sle),159,Musculoskeletal/Other
+sick sinus syndrome,158,Musculoskeletal/Other
+foreign body in the throat,156,Musculoskeletal/Other
+lumbago,156,Musculoskeletal/Other
+hydrocephalus,155,Musculoskeletal/Other
+stomach cancer,155,Gastrointestinal
+conjunctivitis due to bacteria,154,Musculoskeletal/Other
+celiac disease,151,Gastrointestinal
+chronic knee pain,150,Musculoskeletal/Other
+pericarditis,147,Musculoskeletal/Other
+mastoiditis,144,Musculoskeletal/Other
+subarachnoid hemorrhage,140,Musculoskeletal/Other
+cerebral palsy,139,Musculoskeletal/Other
+hidradenitis suppurativa,139,Musculoskeletal/Other
+subdural hemorrhage,139,Musculoskeletal/Other
+retinopathy due to high blood pressure,138,Musculoskeletal/Other
+cellulitis or abscess of mouth,138,Dermatological
+abdominal aortic aneurysm,138,Musculoskeletal/Other
+male genitalia infection,138,Musculoskeletal/Other
+myositis,137,Musculoskeletal/Other
+lactose intolerance,137,Musculoskeletal/Other
+premenstrual tension syndrome,137,Musculoskeletal/Other
+perirectal infection,137,Gastrointestinal
+polymyalgia rheumatica,136,Musculoskeletal/Other
+prostate cancer,135,Musculoskeletal/Other
+peripheral arterial embolism,135,Musculoskeletal/Other
+myasthenia gravis,134,Musculoskeletal/Other
+lymphoma,133,Musculoskeletal/Other
+injury to internal organ,131,Musculoskeletal/Other
+gonorrhea,131,Musculoskeletal/Other
+foreign body in the gastrointestinal tract,127,Gastrointestinal
+down syndrome,127,Musculoskeletal/Other
+injury to the hand,126,Musculoskeletal/Other
+thrombocytopenia,126,Musculoskeletal/Other
+poisoning due to sedatives,126,Musculoskeletal/Other
+bladder cancer,125,Musculoskeletal/Other
+pulmonary fibrosis,118,Respiratory
+varicose veins,113,Musculoskeletal/Other
+peripheral arterial disease,113,Musculoskeletal/Other
+coronary atherosclerosis,112,Musculoskeletal/Other
+postoperative infection,111,Musculoskeletal/Other
+rotator cuff injury,111,Musculoskeletal/Other
+fracture of the hand,111,Musculoskeletal/Other
+osteochondrosis,109,Musculoskeletal/Other
+hyperopia,108,Musculoskeletal/Other
+knee ligament or meniscus tear,106,Musculoskeletal/Other
+intertrigo (skin condition),105,Dermatological
+cerebral edema,104,Musculoskeletal/Other
+chickenpox,104,Febrile/Systemic
+stenosis of the tear duct,102,Musculoskeletal/Other
+atelectasis,99,Musculoskeletal/Other
+idiopathic nonmenstrual bleeding,98,Musculoskeletal/Other
+cervical cancer,97,Musculoskeletal/Other
+poisoning due to antimicrobial drugs,97,Musculoskeletal/Other
+fibroadenoma,97,Musculoskeletal/Other
+open wound of the mouth,95,Musculoskeletal/Other
+encephalitis,94,Febrile/Systemic
+sjogren syndrome,92,Musculoskeletal/Other
+de quervain disease,92,Musculoskeletal/Other
+dissociative disorder,91,Musculoskeletal/Other
+vocal cord polyp,90,Musculoskeletal/Other
+scarlet fever,90,Febrile/Systemic
+coagulation (bleeding) disorder,90,Musculoskeletal/Other
+testicular torsion,90,Musculoskeletal/Other
+carbon monoxide poisoning,88,Musculoskeletal/Other
+endometrial cancer,88,Musculoskeletal/Other
+trigger finger (finger disorder),87,Musculoskeletal/Other
+tic (movement) disorder,87,Musculoskeletal/Other
+pinworm infection,87,Musculoskeletal/Other
+stricture of the esophagus,86,Gastrointestinal
+autonomic nervous system disorder,84,Musculoskeletal/Other
+dislocation of the elbow,84,Musculoskeletal/Other
+achalasia,84,Musculoskeletal/Other
+dyshidrosis,83,Musculoskeletal/Other
+extrapyramidal effect of drugs,83,Musculoskeletal/Other
+bone cancer,83,Musculoskeletal/Other
+endocarditis,83,Musculoskeletal/Other
+gynecomastia,83,Musculoskeletal/Other
+spina bifida,82,Musculoskeletal/Other
+spermatocele,81,Musculoskeletal/Other
+kidney cancer,80,Musculoskeletal/Other
+vitamin b12 deficiency,80,Musculoskeletal/Other
+lewy body dementia,79,Musculoskeletal/Other
+somatization disorder,79,Musculoskeletal/Other
+fracture of the patella,79,Musculoskeletal/Other
+toxic multinodular goiter,79,Musculoskeletal/Other
+esophageal cancer,77,Gastrointestinal
+vaginismus,77,Musculoskeletal/Other
+menopause,76,Musculoskeletal/Other
+chorioretinitis,76,Musculoskeletal/Other
+fracture of the jaw,75,Musculoskeletal/Other
+epilepsy,75,Musculoskeletal/Other
+goiter,75,Musculoskeletal/Other
+parasitic disease,74,Musculoskeletal/Other
+hypernatremia,74,Musculoskeletal/Other
+hypothyroidism,74,Musculoskeletal/Other
+adhesive capsulitis of the shoulder,73,Musculoskeletal/Other
+ascending cholangitis,72,Gastrointestinal
+atonic bladder,71,Musculoskeletal/Other
+pityriasis rosea,71,Musculoskeletal/Other
+aplastic anemia,70,Musculoskeletal/Other
+central retinal artery or vein occlusion,69,Musculoskeletal/Other
+atrial fibrillation,68,Musculoskeletal/Other
+ovarian torsion,67,Musculoskeletal/Other
+poisoning due to analgesics,66,Musculoskeletal/Other
+fracture of the skull,65,Musculoskeletal/Other
+lice,65,Dermatological
+injury to the abdomen,64,Musculoskeletal/Other
+dislocation of the shoulder,64,Musculoskeletal/Other
+protein deficiency,64,Musculoskeletal/Other
+crushing injury,63,Musculoskeletal/Other
+septic arthritis,62,Febrile/Systemic
+salivary gland disorder,62,Musculoskeletal/Other
+drug abuse (barbiturates),62,Musculoskeletal/Other
+hydatidiform mole,62,Musculoskeletal/Other
+nonalcoholic liver disease (nash),62,Gastrointestinal
+endophthalmitis,61,Musculoskeletal/Other
+testicular disorder,61,Musculoskeletal/Other
+phimosis,60,Musculoskeletal/Other
+hematoma,60,Musculoskeletal/Other
+amyotrophic lateral sclerosis (als),60,Musculoskeletal/Other
+lichen simplex,59,Dermatological
+burn,57,Musculoskeletal/Other
+guillain barre syndrome,57,Musculoskeletal/Other
+hypertension of pregnancy,56,Musculoskeletal/Other
+presbyacusis,55,Musculoskeletal/Other
+hormone disorder,55,Musculoskeletal/Other
+chondromalacia of the patella,53,Musculoskeletal/Other
+mittelschmerz,53,Musculoskeletal/Other
+injury to the knee,53,Musculoskeletal/Other
+multiple myeloma,51,Musculoskeletal/Other
+lung cancer,51,Respiratory
+idiopathic infrequent menstruation,50,Musculoskeletal/Other
+anemia due to chronic kidney disease,50,Musculoskeletal/Other
+liver cancer,49,Gastrointestinal
+polycythemia vera,49,Musculoskeletal/Other
+endometrial hyperplasia,49,Musculoskeletal/Other
+intestinal cancer,49,Gastrointestinal
+premature ovarian failure,48,Musculoskeletal/Other
+pseudotumor cerebri,48,Musculoskeletal/Other
+amblyopia,47,Musculoskeletal/Other
+atrophy of the corpus cavernosum,47,Musculoskeletal/Other
+scleritis,46,Musculoskeletal/Other
+hypocalcemia,46,Musculoskeletal/Other
+dislocation of the wrist,45,Musculoskeletal/Other
+hepatic encephalopathy,45,Musculoskeletal/Other
+mumps,45,Febrile/Systemic
+muscular dystrophy,45,Musculoskeletal/Other
+folate deficiency,44,Musculoskeletal/Other
+erythema multiforme,43,Musculoskeletal/Other
+cervical disorder,43,Musculoskeletal/Other
+whooping cough,43,Respiratory
+fracture of the neck,41,Musculoskeletal/Other
+poisoning due to anticonvulsants,41,Musculoskeletal/Other
+anemia of chronic disease,40,Musculoskeletal/Other
+neuropathy due to drugs,40,Musculoskeletal/Other
+allergy to animals,39,Musculoskeletal/Other
+dislocation of the vertebra,38,Musculoskeletal/Other
+bunion,38,Musculoskeletal/Other
+ectropion,38,Musculoskeletal/Other
+primary immunodeficiency,36,Musculoskeletal/Other
+acariasis,36,Musculoskeletal/Other
+cysticercosis,36,Musculoskeletal/Other
+fracture of the ankle,36,Musculoskeletal/Other
+congenital heart defect,36,Musculoskeletal/Other
+infection of open wound,35,Musculoskeletal/Other
+urethral valves,35,Musculoskeletal/Other
+viral hepatitis,35,Gastrointestinal
+adrenal adenoma,35,Musculoskeletal/Other
+magnesium deficiency,35,Musculoskeletal/Other
+metabolic disorder,34,Musculoskeletal/Other
+neonatal jaundice,34,Gastrointestinal
+primary kidney disease,34,Musculoskeletal/Other
+flat feet,33,Musculoskeletal/Other
+juvenile rheumatoid arthritis,33,Musculoskeletal/Other
+open wound of the ear,33,Musculoskeletal/Other
+open wound of the eye,32,Musculoskeletal/Other
+open wound of the neck,32,Musculoskeletal/Other
+hirsutism,31,Musculoskeletal/Other
+bone spur of the calcaneous,31,Musculoskeletal/Other
+emphysema,31,Respiratory
+cholesteatoma,31,Musculoskeletal/Other
+tourette syndrome,31,Musculoskeletal/Other
+syphilis,30,Musculoskeletal/Other
+subacute thyroiditis,30,Musculoskeletal/Other
+trichiasis,30,Musculoskeletal/Other
+acanthosis nigricans,30,Musculoskeletal/Other
+neurofibromatosis,30,Musculoskeletal/Other
+pituitary disorder,30,Musculoskeletal/Other
+pituitary adenoma,29,Musculoskeletal/Other
+poisoning due to antidepressants,29,Musculoskeletal/Other
+injury to the spinal cord,29,Musculoskeletal/Other
+female infertility of unknown cause,28,Musculoskeletal/Other
+open wound of the foot,27,Musculoskeletal/Other
+metastatic cancer,27,Musculoskeletal/Other
+vitreous hemorrhage,27,Musculoskeletal/Other
+hemolytic anemia,27,Musculoskeletal/Other
+gestational diabetes,26,Musculoskeletal/Other
+normal pressure hydrocephalus,26,Musculoskeletal/Other
+open wound of the lip,26,Musculoskeletal/Other
+foreign body in the ear,25,Musculoskeletal/Other
+hyperhidrosis,24,Musculoskeletal/Other
+poisoning due to ethylene glycol,24,Musculoskeletal/Other
+floaters,24,Musculoskeletal/Other
+vertebrobasilar insufficiency,23,Musculoskeletal/Other
+tuberculosis,23,Respiratory
+breast cyst,22,Musculoskeletal/Other
+foreign body in the vagina,21,Musculoskeletal/Other
+dislocation of the ankle,21,Musculoskeletal/Other
+peyronie disease,21,Musculoskeletal/Other
+hemophilia,21,Musculoskeletal/Other
+anal fistula,20,Musculoskeletal/Other
+conversion disorder,20,Musculoskeletal/Other
+lymphogranuloma venereum,20,Musculoskeletal/Other
+pharyngitis,19,Respiratory
+ovarian cancer,19,Musculoskeletal/Other
+ependymoma,19,Musculoskeletal/Other
+abscess of the lung,19,Dermatological
+uveitis,19,Musculoskeletal/Other
+otosclerosis,19,Musculoskeletal/Other
+hirschsprung disease,19,Musculoskeletal/Other
+dislocation of the foot,19,Musculoskeletal/Other
+chronic inflammatory demyelinating polyneuropathy (cidp),18,Musculoskeletal/Other
+parathyroid adenoma,18,Musculoskeletal/Other
+central atherosclerosis,18,Musculoskeletal/Other
+dislocation of the finger,18,Musculoskeletal/Other
+cyst of the eyelid,18,Musculoskeletal/Other
+meningioma,18,Musculoskeletal/Other
+thyroid disease,17,Musculoskeletal/Other
+mastectomy,17,Musculoskeletal/Other
+glucocorticoid deficiency,17,Musculoskeletal/Other
+poisoning due to antihypertensives,17,Musculoskeletal/Other
+vitamin d deficiency,17,Musculoskeletal/Other
+kidney disease due to longstanding hypertension,17,Musculoskeletal/Other
+pyloric stenosis,16,Musculoskeletal/Other
+rhabdomyolysis,16,Musculoskeletal/Other
+injury to the hip,16,Musculoskeletal/Other
+lung contusion,15,Respiratory
+colorectal cancer,15,Gastrointestinal
+malaria,15,Febrile/Systemic
+cystic fibrosis,15,Musculoskeletal/Other
+placental abruption,14,Musculoskeletal/Other
+fracture of the foot,14,Musculoskeletal/Other
+pneumoconiosis,14,Musculoskeletal/Other
+wilson disease,14,Musculoskeletal/Other
+syringomyelia,14,Musculoskeletal/Other
+fibrocystic breast disease,14,Musculoskeletal/Other
+congenital malformation syndrome,13,Musculoskeletal/Other
+hypothermia,13,Musculoskeletal/Other
+hpv,13,Musculoskeletal/Other
+factitious disorder,13,Musculoskeletal/Other
+pregnancy,13,Musculoskeletal/Other
+pseudohypoparathyroidism,12,Musculoskeletal/Other
+diabetes insipidus,12,Musculoskeletal/Other
+toxoplasmosis,12,Musculoskeletal/Other
+anemia due to malignancy,12,Musculoskeletal/Other
+intracranial abscess,12,Dermatological
+moyamoya disease,12,Musculoskeletal/Other
+frostbite,12,Musculoskeletal/Other
+raynaud disease,12,Musculoskeletal/Other
+volvulus,11,Gastrointestinal
+myoclonus,11,Musculoskeletal/Other
+pulmonic valve disease,11,Respiratory
+cryptococcosis,11,Musculoskeletal/Other
+open wound of the nose,11,Musculoskeletal/Other
+heart contusion,11,Musculoskeletal/Other
+birth trauma,11,Musculoskeletal/Other
+galactorrhea of unknown cause,11,Musculoskeletal/Other
+zenker diverticulum,11,Gastrointestinal
+aspergillosis,10,Musculoskeletal/Other
+trichinosis,10,Musculoskeletal/Other
+open wound of the arm,10,Musculoskeletal/Other
+granuloma inguinale,10,Musculoskeletal/Other
+epidural hemorrhage,10,Musculoskeletal/Other
+poisoning due to antipsychotics,10,Musculoskeletal/Other
+hypercalcemia,10,Musculoskeletal/Other
+avascular necrosis,10,Musculoskeletal/Other
+leukemia,10,Musculoskeletal/Other
+testicular cancer,10,Musculoskeletal/Other
+vesicoureteral reflux,10,Gastrointestinal
+chronic kidney disease,10,Musculoskeletal/Other
+optic neuritis,10,Musculoskeletal/Other
+decubitus ulcer,10,Gastrointestinal
+reactive arthritis,10,Musculoskeletal/Other
+acute fatty liver of pregnancy (aflp),9,Gastrointestinal
+valley fever,9,Febrile/Systemic
+placenta previa,9,Musculoskeletal/Other
+hemarthrosis,9,Musculoskeletal/Other
+insulin overdose,9,Musculoskeletal/Other
+open wound of the back,9,Musculoskeletal/Other
+cushing syndrome,9,Musculoskeletal/Other
+aphakia,9,Musculoskeletal/Other
+poisoning due to opioids,9,Musculoskeletal/Other
+lichen planus,9,Dermatological
+hammer toe,9,Musculoskeletal/Other
+thyroid cancer,9,Musculoskeletal/Other
+premature rupture of amniotic membrane,9,Musculoskeletal/Other
+vacterl syndrome,9,Musculoskeletal/Other
+tricuspid valve disease,9,Musculoskeletal/Other
+fracture of the finger,8,Musculoskeletal/Other
+spinocerebellar ataxia,8,Musculoskeletal/Other
+hypercholesterolemia,8,Musculoskeletal/Other
+fetal alcohol syndrome,7,Musculoskeletal/Other
+open wound from surgical incision,7,Musculoskeletal/Other
+omphalitis,7,Musculoskeletal/Other
+pemphigus,7,Musculoskeletal/Other
+injury to the finger,7,Musculoskeletal/Other
+hypertrophic obstructive cardiomyopathy (hocm),6,Musculoskeletal/Other
+vulvar cancer,6,Musculoskeletal/Other
+wernicke korsakoff syndrome,6,Musculoskeletal/Other
+dislocation of the hip,6,Musculoskeletal/Other
+g6pd enzyme deficiency,6,Musculoskeletal/Other
+breast cancer,6,Musculoskeletal/Other
+pinguecula,6,Musculoskeletal/Other
+blepharospasm,6,Musculoskeletal/Other
+empyema,6,Musculoskeletal/Other
+tuberous sclerosis,6,Musculoskeletal/Other
+edward syndrome,6,Musculoskeletal/Other
+priapism,6,Musculoskeletal/Other
+pelvic fistula,5,Musculoskeletal/Other
+friedrich ataxia,5,Musculoskeletal/Other
+cryptorchidism,5,Musculoskeletal/Other
+hyperosmotic hyperketotic state,5,Musculoskeletal/Other
+histoplasmosis,5,Musculoskeletal/Other
+von willebrand disease,5,Musculoskeletal/Other
+spherocytosis,5,Musculoskeletal/Other
+vitamin a deficiency,5,Musculoskeletal/Other
+uterine cancer,5,Musculoskeletal/Other
+syndrome of inappropriate secretion of adh (siadh),4,Musculoskeletal/Other
+scurvy,4,Musculoskeletal/Other
+open wound of the finger,4,Musculoskeletal/Other
+intussusception,4,Musculoskeletal/Other
+open wound of the shoulder,4,Musculoskeletal/Other
+open wound of the hand,4,Musculoskeletal/Other
+meckel diverticulum,4,Gastrointestinal
+oral leukoplakia,4,Musculoskeletal/Other
+amyloidosis,4,Musculoskeletal/Other
+dumping syndrome,4,Musculoskeletal/Other
+hyperlipidemia,3,Musculoskeletal/Other
+dengue fever,3,Febrile/Systemic
+necrotizing fasciitis,3,Musculoskeletal/Other
+connective tissue disorder,3,Musculoskeletal/Other
+lymphangitis,3,Musculoskeletal/Other
+primary thrombocythemia,3,Musculoskeletal/Other
+open wound of the face,3,Musculoskeletal/Other
+dislocation of the knee,3,Musculoskeletal/Other
+obesity,3,Musculoskeletal/Other
+dislocation of the patella,3,Musculoskeletal/Other
+open wound of the abdomen,3,Musculoskeletal/Other
+hemochromatosis,3,Musculoskeletal/Other
+adrenal cancer,3,Musculoskeletal/Other
+esophageal varices,3,Gastrointestinal
+sporotrichosis,3,Musculoskeletal/Other
+myelodysplastic syndrome,3,Musculoskeletal/Other
+cat scratch disease,3,Musculoskeletal/Other
+rheumatic fever,2,Febrile/Systemic
+carcinoid syndrome,2,Musculoskeletal/Other
+hashimoto thyroiditis,2,Musculoskeletal/Other
+human immunodeficiency virus infection (hiv),2,Febrile/Systemic
+diabetic kidney disease,2,Musculoskeletal/Other
+open wound of the jaw,2,Musculoskeletal/Other
+turner syndrome,1,Musculoskeletal/Other
+rocky mountain spotted fever,1,Febrile/Systemic
+open wound of the cheek,1,Musculoskeletal/Other
+high blood pressure,1,Musculoskeletal/Other
+open wound due to trauma,1,Musculoskeletal/Other
+open wound of the chest,1,Musculoskeletal/Other
+huntington disease,1,Musculoskeletal/Other
+open wound of the knee,1,Musculoskeletal/Other
+foreign body in the nose,1,Musculoskeletal/Other
+diabetes,1,Musculoskeletal/Other
+thalassemia,1,Musculoskeletal/Other
+heat stroke,1,Musculoskeletal/Other
+gas gangrene,1,Musculoskeletal/Other
+typhoid fever,1,Febrile/Systemic
+open wound of the head,1,Musculoskeletal/Other
+myocarditis,1,Musculoskeletal/Other
+chronic ulcer,1,Gastrointestinal
+hypergammaglobulinemia,1,Musculoskeletal/Other
+kaposi sarcoma,1,Musculoskeletal/Other

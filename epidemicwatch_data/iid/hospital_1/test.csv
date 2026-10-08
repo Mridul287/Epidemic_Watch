@@ -1,59 +1,751 @@
-label,text,syndrome_category
-Cervical spondylosis,"I have been experiencing severe back pain, a cough that comes and goes, and weakness in my limbs. My neck also hurts and I have been feeling dizzy and off balance.",Musculoskeletal/Other
-diabetes,"My throat and mouth are dry. I've also been getting hungry more and more. I do, however, occasionally feel rather exhausted.",Musculoskeletal/Other
-Dengue,I have developed rashes on my body. I am also experiencing high fever along with chills and headache. My joints and back hurt and there is a strange pain in the back of my eyes.,Febrile/Systemic
-Typhoid,I am having severe stomach discomfort and diarrhoea. I have a high fever along with a headache. The previous several days have been really unpleasant.,Febrile/Systemic
-Arthritis,"I've been experiencing stiffness and weakness in my neck muscles recently. Since my joints have grownup, it's heavy on behalf of American state to run whereas not getting stiff. additionally, walking has been very uncomfortable.",Musculoskeletal/Other
-Dengue,"I have been feeling extremely tired and fatigued, and I have no energy to do anything. The fatigue is so severe that I struggle to get out of bed. I have noticed small red spots on my arms and legs.",Febrile/Systemic
-Cervical spondylosis,"I've had back pain, a cough that won't go away, and limb weakness. I've been experiencing neck pain, instability, and balance concerns.",Musculoskeletal/Other
-peptic ulcer disease,I have difficulty sleeping due to abdominal pain or discomfort. I have a loss of appetite and feel fatigued after going to the bathroom. I feel very tited all the time,Gastrointestinal
-drug reaction,I feel very nauseous and have chest pain. Recently I have been experiencing chest pain. I feel very uneasy and often sweat profusely,Febrile/Systemic
-Varicose Veins,The pain in my calves is constant and becomes worse when I stand or walk for long periods of time. I am getting constant cramps and can't run for longer periods of time.,Musculoskeletal/Other
-Pneumonia,"I've been feeling really weak and cold lately, and this cough won't go away. It hurts in my chest when I cough, and my heart is pounding. The mucus I'm bringing up is a rusty brown color.",Respiratory
-Chicken pox,Enlarged lymph nodes are giving me a great deal of pain. I have rashes all over my body and because of which I cannot sleep all night.,Febrile/Systemic
-allergy,"I feel fatigued all the time, and have a tingling sensation in my throat. I have also developed flaky skin. Sometimes I get puffy eyes and sometimes puffs up too.",Dermatological
-Acne,I recently had a horrible rash on my skin. There are several blackheads and pus-filled pimples. My skin has also been moving around a lot.,Dermatological
-Migraine,"I have been experiencing acidity and indigestion after meals, as well as frequent headaches and blurred vision.",Musculoskeletal/Other
-allergy,"I often sneeze and have a runny nose. My eyes are scratchy and frequently runny, and I frequently cough. My head hurts constantly.",Dermatological
-Hypertension,"I woke up this morning with a headache and chest pain, and as the day has gone on, I've also been feeling dizzy and unsteady on my feet",Musculoskeletal/Other
-Dimorphic Hemorrhoids,"My bowel motions are giving me a lot of problems right now. Going is difficult, and going hurts when I do it. When I go, my anus bleeds and is really uncomfortable. I'm in a lot of discomfort and it hurts extremely bad.",Gastrointestinal
-Malaria,"Along with my intense scratching, chills, nausea, and high fever, I've also been feeling really unwell. I have a headache and am also perspiring a lot. I've been uncomfortable from nausea and muscle ache, too.",Febrile/Systemic
-Malaria,"I've been experiencing intense itching, chills, vomiting, and a high fever. I'm also sweating a lot and have a headache. Nausea and muscle pain have been making me feel miserable.",Febrile/Systemic
-Bronchial Asthma,"feeling extremely exhausted and have had this persistent cough. It's been hard for me to catch my breath, and my fever is very high. I've also been producing a lot of mucus when I cough",Respiratory
-Jaundice,"I have been experiencing itching, vomiting, fatigue, and weight loss. My fever is high and my skin has turned yellow. My urine is dark and I have been experiencing abdominal pain.",Gastrointestinal
-drug reaction,"I'm losing hair, and my hair's texture has considerably altered. My dandruff is becoming worse, and my dry, itchy scalp. My skin is getting quite dry as well.",Febrile/Systemic
-Pneumonia,"I'm having a lot of trouble breathing and am really uneasy. I'm feeling unwell and am perspiring a lot. My chest hurts and I have a lot of mucus in my throat. My heart is racing, and the hue of the mucus I'm coughing up is off.",Respiratory
-Dimorphic Hemorrhoids,"Since I've been constipated, using the restroom has been quite challenging. When I do go, it aches and I've had blood in my stool. My anus has been quite itchy and irritating, and I've also been experiencing some discomfort in my butt.",Gastrointestinal
-Pneumonia,"I'm having a lot of problems breathing. I'm not feeling good, and I'm sweating a lot. I have a lot of mucous in my throat and my chest hurts. My breathing is laboured, and the phlegm I'm coughing up has an odd tint.",Respiratory
-Cervical spondylosis,"I've been experiencing back pain, a persistent cough, and numbness in my arms and legs. I've been having trouble staying balanced and managing my vertigo, and my neck hurts.",Musculoskeletal/Other
-Dimorphic Hemorrhoids,I'm having a lot of trouble with constipation and pain while trying to go to the bathroom. It hurts a lot in my anus and the area around it. My stool has been bloody and my anus is really irritated.,Gastrointestinal
-urinary tract infection,"I need to relieve myself regularly, but I can't seem to get my bladder to empty. On sometimes, I get intense, uncontrollable urges to urinate, along with dark or red urine.",Musculoskeletal/Other
-Cervical spondylosis,"I've been having intermittent coughing fits, significant back pain, and limb weakness. I've been experiencing neck pain as well as a dizzy and unsteady sensation.",Musculoskeletal/Other
-Acne,Lately I've been experiencing a skin rash with a lot of pus-filled pimples and blackheads. My skin has also been scurring a lot.,Dermatological
-drug reaction,"I struggle to maintain focus, and my mental clarity is really poor. I have trouble remembering things and frequently forget stuff.",Febrile/Systemic
-Migraine,"I have been experiencing acidity, indigestion, headaches, and blurred and distorted vision, as well as excessive hunger, a stiff neck, depression, irritability, and visual disturbance.",Musculoskeletal/Other
-Psoriasis,"There is a silver like dusting on my skin, especially on my lower back and scalp. This dusting is made up of small scales that flake off easily when I scratch them.",Dermatological
-Impetigo,"I am having a high fever. I've had a skin rash on my face, neck and arms. The rash is made up of burning red lesions. I'm concerned about my health.",Dermatological
-Cervical spondylosis,"I have been struggling with back pain, a persistent cough, and weakness in my muscles. My neck hurts and I have had problems with dizziness and loss of balance.",Musculoskeletal/Other
-Varicose Veins,My legs' swelling has become worse over the last couple of days. I can see the blood vessels protruding out of the skin. This is quite unusual.,Musculoskeletal/Other
-Dimorphic Hemorrhoids,I'm having a lot of trouble going to the bathroom and it's really painful when I do. My stool has been bloody and I've had some pain in my butt. My anus has been really itchy and irritated too.,Gastrointestinal
-Dengue,"The fatigue I have been feeling is extreme and makes it difficult for me to perform even basic tasks. I feel vomitting and developed rashes on my arms, neck and legs.",Febrile/Systemic
-Dengue,The body pain I have been feeling is extreme. I has lost my appetite and developed rashes on my arms and face. The back of my eyes pain a lot.,Febrile/Systemic
-Common Cold,I can't stop coughing and I feel really cold. My sinuses are all blocked and I have a lot of mucus. My chest hurts and I can't smell anything. My muscles are also really sore.,Respiratory
-urinary tract infection,"Blood is in my pee, and I have a low body temperature. I have practically continual headaches and often strong, uncontrollable need to urinate. In addition, I've started having lower back pain.",Musculoskeletal/Other
-Fungal infection,"I've been having this constant itch and there are these red and bumpy spots on my skin. There are also some patches that are a different color than the rest of my skin, and I've had some bumps that are kind of like little lumps.",Dermatological
-Migraine,"I have been enduring frequent headaches, blurred vision, excessive appetite, a sore neck, anxiety, irritability, and digestive difficulties including indigestion and acid reflux.",Musculoskeletal/Other
-allergy,I'm always worn out and experiencing a tingle in my throat. I've also started to have dry skin. My eyes occasionally swell up,Dermatological
-Fungal infection,"Recently, I've been scratching myself a lot, and my skin is covered with rashy places. In addition, there are a few spots where my skin doesn't appear to be its usual shade, and I've experienced a few lumps that are quite painful.",Dermatological
-Pneumonia,"I've had chills, lethargy, a cough, a high temperature, and difficulties breathing lately. I've been sweating profusely and generally feeling ill and weak. I've also had some quite thick and black phlegm.",Respiratory
-Impetigo,"My skin has developed rashes, mainly near the nose. The rash is spreading to other parts of my body. I am really about worried about this.",Dermatological
-Migraine,"Along with impaired eyesight, increased appetite, a sore neck, melancholy, impatience, and regular headaches, I've also been experiencing heartburn, acid reflux, and indigestion.",Musculoskeletal/Other
-allergy,I have a plugged nose and nasal congestion. I occasionally have stiffness and chest discomfort at night. I've also lost my ability to taste and smell.,Dermatological
-gastroesophageal reflux disease,"I feel as though acid or food is backing up into my throat. My chest hurts, and lying down makes it worse. After eating, I frequently have heartburn or indigestion and throw up.",Gastrointestinal
-Psoriasis,"My skin rash gets worse in the winter when the air is dry. To keep my skin moisturized, I have to moisturize more regularly and use humidifiers. I am also facing joint pain.",Dermatological
-peptic ulcer disease,"My hunger and appetite are persistent and ravenous. Periodically, my stomach may cramp and spasm. After eating, I have bloating and gas, which makes me quite uncomfortable.",Gastrointestinal
-Varicose Veins,"I have a rash on my legs that is giving me a lot of pain. There appears to be a cramp, and I can see visible veins on the calf.",Musculoskeletal/Other
-Dengue,"I have been suffering from severe joint ache. I feel vomiting most of the time, and I am developing a moderate fever with chills. The fever that doesn't seem to come down even with medication.",Febrile/Systemic
-peptic ulcer disease,I have a sour acidic taste in my mouth. I have frequent belching and burping. I have a feeling of pressure or fullness in my upper abdomen that last for a few hours,Gastrointestinal
-Bronchial Asthma,"I've been experiencing shortness of breath, a persistent cough, and a high fever. I've also been producing a lot of thick, mucoid sputum, and I'm feeling so drained and exhausted. It's been so hard to deal with all of this.",Respiratory
-Psoriasis,"For the past few weeks, I've had a skin rash on my arms, legs, and chest. It's red and irritating, with dry, scaly spots. I have a strange pain in my joints too.",Dermatological
+text,label,syndrome_category
+"Patient reports irregular appearing scalp, skin irritation, skin swelling, itchy scalp, acne or pimples and skin rash. This has lasted about a week.",fungal infection of the hair,Dermatological
+"Complaining of cough, nasal congestion, shortness of breath, difficulty breathing, sharp chest pain and coryza.",pneumonia,Respiratory
+"The symptoms are irregular appearing scalp, skin swelling, warts, skin lesion and skin dryness, peeling, scaliness, or roughness.",skin polyp,Dermatological
+"Chief complaint: side pain, back pain, nausea, heartburn, regurgitation.1, sharp abdominal pain and burning abdominal pain. It got worse overnight.",gallstone,Gastrointestinal
+"For the past few days I've had ache all over, groin mass and groin pain.",inguinal hernia,Gastrointestinal
+"Patient reports blood in stool, diarrhea, vomiting, fever and chills. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are lacrimation, symptoms of eye, abnormal movement of eyelid, cough and white discharge from eye.",stenosis of the tear duct,Musculoskeletal/Other
+"Since yesterday I've noticed decreased appetite, difficulty breathing, chills, weakness, suprapubic pain, feeling ill and vomiting. It got worse overnight.",sepsis,Febrile/Systemic
+"Complaining of ear pain, facial pain, sore throat and sinus congestion. It started two days ago.",acute sinusitis,Respiratory
+"Chief complaint: chills, nasal congestion, flu-like syndrome, sore throat and ear pain. It got worse overnight.",common cold,Respiratory
+"I've been experiencing nausea, sharp chest pain, difficulty in swallowing, chest tightness, regurgitation.1, regurgitation and cough and I'm worried. It comes and goes.",gastroesophageal reflux disease (gerd),Gastrointestinal
+"I have difficulty in swallowing, heartburn, shortness of breath, vomiting, cough, sharp chest pain, sharp abdominal pain and sore throat.",esophagitis,Gastrointestinal
+"I feel unwell, with vomiting, difficulty breathing, coryza and foot or toe pain.",acute bronchiolitis,Respiratory
+"Complaining of leg swelling, hurts to breath and difficulty breathing. It started two days ago.",heart failure,Musculoskeletal/Other
+"Lately I keep having skin irritation, skin rash, itching of skin, skin lesion, acne or pimples, warts, allergic reaction and irregular appearing scalp. It began this morning.",eczema,Dermatological
+"My main problems are sharp abdominal pain, pelvic pain, nausea, burning abdominal pain, painful urination, vaginal discharge and side pain.",vulvodynia,Musculoskeletal/Other
+"I have apnea, abnormal breathing sounds, insomnia, fatigue, shortness of breath, mouth dryness, difficulty breathing and difficulty in swallowing. It got worse overnight.",obstructive sleep apnea (osa),Respiratory
+"My main problems are anxiety and nervousness, delusions or hallucinations, excessive anger, fears and phobias and depression. It began this morning.",adjustment reaction,Musculoskeletal/Other
+"Lately I keep having abnormal appearing skin, foot or toe pain, skin lesion, hand or finger pain and peripheral edema. It began this morning.",pyogenic skin infection,Dermatological
+"I came in because of foot or toe swelling, skin swelling, abnormal appearing skin, sharp abdominal pain, skin growth and foot or toe pain.",callus,Dermatological
+"My main problems are melena, rectal bleeding, sharp abdominal pain, changes in stool appearance, diarrhea and dizziness. It started two days ago.",gastrointestinal hemorrhage,Gastrointestinal
+"I have rib pain, side pain, hurts to breath, back pain and weakness. It comes and goes.",pleural effusion,Respiratory
+"I feel unwell, with sharp chest pain, back pain, weakness, cough and difficulty breathing. It got worse overnight.",pleural effusion,Respiratory
+"I feel unwell, with abnormal appearing skin, skin swelling, skin dryness, peeling, scaliness, or roughness, acne or pimples and too little hair. It comes and goes.",fungal infection of the skin,Dermatological
+"I've been experiencing skin irritation, skin swelling, symptoms of the face, skin moles and irregular appearing scalp and I'm worried.",actinic keratosis,Dermatological
+"Patient reports headache, sore throat, frontal headache, allergic reaction and cough.",seasonal allergies (hay fever),Febrile/Systemic
+"I feel unwell, with sharp abdominal pain, pain of the anus, itching of the anus and burning abdominal pain. This has lasted about a week.",rectal disorder,Gastrointestinal
+"I came in because of skin dryness, peeling, scaliness, or roughness and skin moles.",contact dermatitis,Dermatological
+"For the past few days I've had headache, ear pain, allergic reaction, sneezing, coryza, lacrimation and cough.",seasonal allergies (hay fever),Febrile/Systemic
+"My main problems are sore throat, coryza, vomiting, sharp chest pain, nasal congestion and chest tightness. It comes and goes.",acute bronchospasm,Respiratory
+"I came in because of skin moles, skin irritation, acne or pimples, skin dryness, peeling, scaliness, or roughness, skin rash and skin swelling. It got worse overnight.",contact dermatitis,Dermatological
+"I feel unwell, with nasal congestion, cough, diaper rash, irritable infant and vomiting. It comes and goes.",diaper rash,Dermatological
+"Complaining of coughing up sputum, wheezing, cough, fever, sore throat, congestion in chest, shortness of breath and coryza. This has lasted about a week.",chronic obstructive pulmonary disease (copd),Respiratory
+"I feel unwell, with sore throat, chest tightness, nasal congestion, cough, vomiting, difficulty breathing, fever and wheezing.",acute bronchospasm,Respiratory
+"Complaining of blood in stool, sharp chest pain, changes in stool appearance, sharp abdominal pain and vomiting blood. It began this morning.",gastroduodenal ulcer,Gastrointestinal
+"My main problems are changes in stool appearance, pain of the anus, burning abdominal pain and sharp abdominal pain. It comes and goes.",chronic constipation,Gastrointestinal
+"Complaining of fluid retention, decreased appetite, chills, vomiting, blood in stool, diarrhea, back pain and headache. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"Complaining of elbow swelling, knee swelling, shoulder stiffness or tightness, elbow pain and arm pain.",bursitis,Musculoskeletal/Other
+"Patient reports symptoms of eye, wheezing, white discharge from eye and spots or clouds in vision.",corneal disorder,Musculoskeletal/Other
+"Lately I keep having coryza, cough, difficulty breathing, wheezing, fever, pulling at ears and nasal congestion.",acute bronchiolitis,Respiratory
+"Complaining of sharp abdominal pain, problems during pregnancy, lower abdominal pain and back cramps or spasms. This has lasted about a week.",uterine atony,Musculoskeletal/Other
+"Lately I keep having melena, pain of the anus, blood in stool, diarrhea, heartburn and constipation. It began this morning.",rectal disorder,Gastrointestinal
+"My main problems are back pain, skin rash, swollen lymph nodes, headache and fever. This has lasted about a week.",mononucleosis,Febrile/Systemic
+"I have neck pain, dizziness, double vision and fainting. It comes and goes.",head injury,Musculoskeletal/Other
+"For the past few days I've had foot or toe swelling, abnormal appearing skin, peripheral edema, hand or finger swelling, foot or toe pain, leg swelling and skin swelling. It got worse overnight.",pyogenic skin infection,Dermatological
+"Complaining of diminished vision, symptoms of eye, allergic reaction, itchiness of eye, eye redness, nasal congestion and sneezing. This has lasted about a week.",conjunctivitis due to allergy,Musculoskeletal/Other
+My main problems are nausea and decreased appetite.,infectious gastroenteritis,Febrile/Systemic
+I've been experiencing sweating and abnormal breathing sounds and I'm worried.,obstructive sleep apnea (osa),Respiratory
+"For the past few days I've had bones are painful, hand or finger pain, arm pain, wrist pain, hand or finger swelling, arm stiffness or tightness, elbow swelling and loss of sensation.",injury to the arm,Musculoskeletal/Other
+"Lately I keep having hemoptysis, cough, leg swelling, leg pain and side pain.",pulmonary embolism,Respiratory
+"The symptoms are skin swelling, abnormal appearing skin, skin growth, skin rash, irregular appearing nails and foot or toe pain.",onychomycosis,Musculoskeletal/Other
+"Chief complaint: leg pain, foot or toe swelling, skin rash, foot or toe pain, leg swelling, skin swelling and peripheral edema. This has lasted about a week.",pyogenic skin infection,Dermatological
+"I've been experiencing acne or pimples, itching of skin, skin irritation, skin rash, allergic reaction, skin dryness, peeling, scaliness, or roughness and warts and I'm worried.",eczema,Dermatological
+"My main problems are diarrhea, nausea, sharp chest pain and headache. It comes and goes.",gastritis,Gastrointestinal
+"Lately I keep having cramps and spasms, frequent menstruation, involuntary urination, vaginal discharge and unpredictable menstruation. It got worse overnight.",idiopathic excessive menstruation,Musculoskeletal/Other
+"My main problems are sneezing, frontal headache, coryza, allergic reaction, shortness of breath and nasal congestion. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"Complaining of warts, itching of skin, skin swelling, skin lesion and skin irritation.",eczema,Dermatological
+"Lately I keep having fever, cough, nasal congestion and blood in stool. It started two days ago.",diaper rash,Dermatological
+"Chief complaint: blood in stool, nausea, vomiting, heartburn, melena, rectal bleeding and lower abdominal pain. It got worse overnight.",diverticulosis,Gastrointestinal
+"My main problems are burning abdominal pain, constipation, chills, lower abdominal pain and side pain. It got worse overnight.",diverticulitis,Gastrointestinal
+"Lately I keep having abnormal appearing skin, skin lesion, skin swelling, skin rash, foot or toe pain, hand or finger swelling, hand or finger pain and peripheral edema.",pyogenic skin infection,Dermatological
+"Patient reports vomiting, burning abdominal pain, regurgitation.1 and regurgitation.",intestinal disease,Gastrointestinal
+"I have acne or pimples, skin dryness, peeling, scaliness, or roughness, cough, coryza, irregular appearing scalp, skin rash, skin lesion, skin swelling and skin irritation. It started two days ago.",eczema,Dermatological
+"I feel unwell, with ear pain, cough, difficulty in swallowing, fever, throat feels tight and nasal congestion.",laryngitis,Respiratory
+"I feel unwell, with headache, rectal bleeding, blood in stool, chills, burning abdominal pain and decreased appetite. This has lasted about a week.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed swelling of scrotum, lower abdominal pain, sharp abdominal pain, groin mass, pain in testicles and mass in scrotum.",inguinal hernia,Gastrointestinal
+"The symptoms are burning abdominal pain, diarrhea, rectal bleeding, decreased appetite, headache and fluid retention.",noninfectious gastroenteritis,Febrile/Systemic
+"Complaining of intermenstrual bleeding, skin moles, itching of skin, abnormal appearing skin, skin irritation, acne or pimples, skin swelling and warts. It got worse overnight.",seborrheic keratosis,Dermatological
+"For the past few days I've had nosebleed, painful sinuses, nasal congestion, headache and facial pain. This has lasted about a week.",deviated nasal septum,Respiratory
+"Lately I keep having congestion in chest, sharp chest pain, wheezing, coughing up sputum and fever. It started two days ago.",chronic obstructive pulmonary disease (copd),Respiratory
+"The symptoms are headache, lower body pain and bones are painful.",injury to the trunk,Musculoskeletal/Other
+"For the past few days I've had leg pain, side pain, back pain, neck pain, low back pain, loss of sensation, groin pain and lower body pain. It started two days ago.",chronic back pain,Musculoskeletal/Other
+"Since yesterday I've noticed skin lesion, symptoms of the face, acne or pimples and irregular appearing scalp. It got worse overnight.",seborrheic dermatitis,Dermatological
+"The symptoms are chills, blood in stool, sharp abdominal pain and headache. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"Lately I keep having decreased appetite, flu-like syndrome, diarrhea, fever, chills and burning abdominal pain.",infectious gastroenteritis,Febrile/Systemic
+"I have leg pain, back pain and shoulder pain.",degenerative disc disease,Musculoskeletal/Other
+"I've been experiencing burning abdominal pain, fluid retention, chills, blood in stool, decreased appetite, fever, sharp abdominal pain and rectal bleeding and I'm worried.",noninfectious gastroenteritis,Febrile/Systemic
+"Lately I keep having pain during intercourse, involuntary urination and symptoms of prostate.",prostate cancer,Musculoskeletal/Other
+"Patient reports leg swelling, cough, leg pain, chest tightness, side pain, difficulty breathing, hemoptysis and sweating. This has lasted about a week.",pulmonary embolism,Respiratory
+"Complaining of vaginal redness, lower abdominal pain, painful urination, sharp abdominal pain, vulvar irritation and vaginal discharge.",vaginal yeast infection,Musculoskeletal/Other
+"Lately I keep having insomnia, nausea, burning abdominal pain, flatulence and anxiety and nervousness. It got worse overnight.",irritable bowel syndrome,Gastrointestinal
+"Since yesterday I've noticed fever, vomiting, nausea, upper abdominal pain and side pain. This has lasted about a week.",appendicitis,Gastrointestinal
+"The symptoms are side pain, lower abdominal pain, upper abdominal pain, constipation, blood in stool, vomiting, chills and nausea. It began this morning.",diverticulitis,Gastrointestinal
+"The symptoms are symptoms of the kidneys, kidney mass, retention of urine and sharp chest pain. It comes and goes.",acute kidney injury,Musculoskeletal/Other
+"Patient reports sharp abdominal pain, low back pain, vomiting and ache all over. It started two days ago.",sickle cell crisis,Musculoskeletal/Other
+"I feel unwell, with acne or pimples, irregular appearing scalp, too little hair, skin growth, symptoms of the face, abnormal appearing skin, itching of skin and skin rash. It began this morning.",seborrheic dermatitis,Dermatological
+"Complaining of abnormal appearing skin, acne or pimples, skin swelling, skin moles, skin irritation and skin rash.",contact dermatitis,Dermatological
+"I came in because of fatigue, sharp chest pain, feeling ill and palpitations. It started two days ago.",pulmonary hypertension,Respiratory
+"I have skin lesion, skin dryness, peeling, scaliness, or roughness, irregular appearing scalp and symptoms of the face.",actinic keratosis,Dermatological
+"I feel unwell, with heartburn, dizziness, upper abdominal pain and back pain. This has lasted about a week.",hiatal hernia,Gastrointestinal
+"Chief complaint: upper abdominal pain, burning abdominal pain, nausea, chills, sharp abdominal pain and diarrhea. It started two days ago.",diverticulitis,Gastrointestinal
+"My main problems are melena, nausea, rectal bleeding, diarrhea, changes in stool appearance and dizziness.",gastrointestinal hemorrhage,Gastrointestinal
+"I feel unwell, with fever, headache, fluid retention, diarrhea, chills, rectal bleeding, blood in stool and vomiting. This has lasted about a week.",noninfectious gastroenteritis,Febrile/Systemic
+"I feel unwell, with abnormal appearing skin, skin growth, symptoms of eye, skin swelling and skin moles.",rosacea,Dermatological
+"My main problems are headache, chills, burning abdominal pain, blood in stool, vomiting, sharp abdominal pain, fluid retention and diarrhea. It comes and goes.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed nausea, diarrhea and heartburn.",diverticulosis,Gastrointestinal
+"I feel unwell, with side pain, burning abdominal pain, pelvic pain, pain during pregnancy, nausea and lower abdominal pain. It got worse overnight.",vulvodynia,Musculoskeletal/Other
+"I have burning abdominal pain, flu-like syndrome, decreased appetite, sharp abdominal pain, vomiting, blood in stool, diarrhea and nausea. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of vomiting, swollen lymph nodes, sharp abdominal pain, lower abdominal pain, blood in stool, diarrhea, burning abdominal pain and nausea.",ulcerative colitis,Gastrointestinal
+"Since yesterday I've noticed insomnia, lower abdominal pain, headache, back pain, pain during pregnancy and sharp abdominal pain.",problem during pregnancy,Musculoskeletal/Other
+"Since yesterday I've noticed abnormal involuntary movements, anxiety and nervousness, sharp chest pain, vomiting and problems with movement. It started two days ago.",alcohol intoxication,Musculoskeletal/Other
+"For the past few days I've had fever, decreased appetite, headache, burning abdominal pain, diarrhea and fluid retention.",infectious gastroenteritis,Febrile/Systemic
+"For the past few days I've had leg swelling, leg pain, sharp chest pain, shortness of breath, difficulty breathing and chest tightness. This has lasted about a week.",pulmonary embolism,Respiratory
+"Chief complaint: coryza, sore throat, vomiting, ache all over, nausea and headache. It got worse overnight.",flu,Respiratory
+"Lately I keep having back pain, muscle pain, elbow pain, ankle pain, knee swelling and leg pain.",osteoarthritis,Musculoskeletal/Other
+"Complaining of sore throat, lacrimation, itchiness of eye, headache and cough.",seasonal allergies (hay fever),Febrile/Systemic
+"Patient reports blood in stool, vomiting and chills. It began this morning.",diverticulitis,Gastrointestinal
+"Lately I keep having lip swelling, skin moles, burning abdominal pain and skin dryness, peeling, scaliness, or roughness.",skin cancer,Dermatological
+"The symptoms are dizziness, double vision, disturbance of memory, facial pain, sleepiness, nausea, headache and rib pain.",concussion,Musculoskeletal/Other
+"I've been experiencing skin swelling, toothache, neck swelling and pain in gums and I'm worried. It began this morning.",tooth abscess,Dermatological
+"I've been experiencing difficulty breathing, rib pain, side pain, sharp chest pain and hurts to breath and I'm worried. It began this morning.",pleural effusion,Respiratory
+"I came in because of difficulty breathing, allergic reaction, sharp chest pain, shortness of breath, coughing up sputum, cough and nasal congestion. It began this morning.",asthma,Respiratory
+"The symptoms are toothache, fever, gum pain, facial pain, lip swelling, mouth ulcer, ear pain and jaw swelling. This has lasted about a week.",gum disease,Musculoskeletal/Other
+"I feel unwell, with insomnia, shortness of breath, abnormal breathing sounds, difficulty in swallowing, apnea and abnormal involuntary movements.",obstructive sleep apnea (osa),Respiratory
+"Patient reports redness in ear, nasal congestion, swollen or red tonsils and lump in throat. It got worse overnight.",tonsillitis,Respiratory
+"My main problems are sore throat, abnormal breathing sounds, nasal congestion and vomiting.",croup,Respiratory
+"Chief complaint: hoarse voice, throat feels tight, ear pain, coryza and difficulty in swallowing.",laryngitis,Respiratory
+"Lately I keep having apnea, abnormal involuntary movements, mouth dryness, abnormal breathing sounds, sweating and weight gain. It comes and goes.",obstructive sleep apnea (osa),Respiratory
+"I came in because of headache, sore throat, lacrimation, ear pain, burning abdominal pain, nasal congestion and frontal headache.",seasonal allergies (hay fever),Febrile/Systemic
+"I have leg pain, lower abdominal pain, headache, sharp abdominal pain, sharp chest pain, side pain, neck pain and vomiting.",pain after an operation,Musculoskeletal/Other
+"I have cough, skin irritation, skin rash, itching of skin and abnormal appearing skin.",eczema,Dermatological
+"I feel unwell, with sharp abdominal pain, vomiting, nausea, symptoms of the kidneys, back pain, regurgitation.1 and stomach bloating. This has lasted about a week.",cholecystitis,Gastrointestinal
+"Chief complaint: blood in stool, rectal bleeding, vomiting, weakness, fainting, vomiting blood, headache and dizziness. This has lasted about a week.",gastrointestinal hemorrhage,Gastrointestinal
+"I have acne or pimples, abnormal appearing skin, skin growth, itchy scalp, skin swelling, skin lesion, skin dryness, peeling, scaliness, or roughness and skin irritation.",fungal infection of the hair,Dermatological
+"I feel unwell, with insomnia, anxiety and nervousness, fears and phobias, increased heart rate, palpitations and depression.",anxiety,Musculoskeletal/Other
+"For the past few days I've had shortness of breath, difficulty breathing, coryza, chest tightness, difficulty speaking and vomiting. It got worse overnight.",acute bronchospasm,Respiratory
+"The symptoms are throat swelling, swollen lymph nodes, throat feels tight, difficulty in swallowing, headache and sore throat.",peritonsillar abscess,Dermatological
+"For the past few days I've had shortness of breath, feeling ill, weakness, chills, vomiting, fever and cough.",sepsis,Febrile/Systemic
+"I came in because of sweating, apnea, difficulty in swallowing and fatigue. It comes and goes.",obstructive sleep apnea (osa),Respiratory
+"Since yesterday I've noticed skin swelling, skin rash, skin growth and acne or pimples. It comes and goes.",alopecia,Dermatological
+"Since yesterday I've noticed fluid retention, leg pain and abnormal appearing skin.",lymphedema,Musculoskeletal/Other
+"Patient reports upper abdominal pain, diarrhea, chills, constipation and side pain. It got worse overnight.",diverticulitis,Gastrointestinal
+"Complaining of pain of the anus, sharp abdominal pain and cramps and spasms.",rectal disorder,Gastrointestinal
+"Lately I keep having painful sinuses, headache, facial pain, allergic reaction and apnea.",deviated nasal septum,Respiratory
+"My main problems are lack of growth, skin rash, skin moles, acne or pimples and abnormal appearing skin. This has lasted about a week.",dermatitis due to sun exposure,Dermatological
+"Chief complaint: flu-like syndrome, vomiting, eye burns or stings, headache, fever, ear pain, wheezing, nasal congestion and cough.",common cold,Respiratory
+"Chief complaint: shoulder stiffness or tightness, wheezing, vomiting, sharp chest pain, difficulty breathing, sore throat, nasal congestion and coryza. It comes and goes.",acute bronchospasm,Respiratory
+"I have fever, rectal bleeding, headache, diarrhea and burning abdominal pain.",noninfectious gastroenteritis,Febrile/Systemic
+"I've been experiencing fever, hip pain and depressive or psychotic symptoms and I'm worried. This has lasted about a week.",lyme disease,Febrile/Systemic
+"I feel unwell, with abnormal appearing skin, peripheral edema, throat swelling, fluid retention, foot or toe swelling and skin lesion.",lymphedema,Musculoskeletal/Other
+"Complaining of leg pain, shoulder pain, low back pain, loss of sensation, neck pain, joint pain and back pain. It got worse overnight.",degenerative disc disease,Musculoskeletal/Other
+"The symptoms are headache, flu-like syndrome, cough, fever, nasal congestion, wheezing, sore throat and chills.",common cold,Respiratory
+"For the past few days I've had allergic reaction, chest tightness, cough, coughing up sputum and sharp chest pain.",asthma,Respiratory
+"The symptoms are weakness, rib pain, hurts to breath and side pain. It comes and goes.",pleural effusion,Respiratory
+"Lately I keep having skin rash, skin swelling, abnormal appearing skin, joint pain, skin lesion and irregular appearing scalp.",psoriasis,Dermatological
+"I've been experiencing shoulder pain, leg pain, arm weakness, low back pain and hip pain and I'm worried. It started two days ago.",herniated disk,Gastrointestinal
+"I feel unwell, with lower abdominal pain, blood in stool, burning abdominal pain, swollen lymph nodes, vomiting and diarrhea.",ulcerative colitis,Gastrointestinal
+"Complaining of wheezing, coughing up sputum, sore throat, shortness of breath, cough, fever and headache. It got worse overnight.",acute bronchitis,Respiratory
+"Chief complaint: sharp abdominal pain, fever, decreased appetite, headache, rectal bleeding, blood in stool, nausea and diarrhea. It comes and goes.",noninfectious gastroenteritis,Febrile/Systemic
+"I came in because of abnormal appearing skin, skin lesion, skin swelling, warts, irregular appearing scalp, skin irritation and skin moles. It started two days ago.",skin polyp,Dermatological
+"I've been experiencing difficulty breathing, decreased appetite, suprapubic pain and weakness and I'm worried. It got worse overnight.",sepsis,Febrile/Systemic
+"Lately I keep having cough, coryza, nasal congestion and congestion in chest.",chronic obstructive pulmonary disease (copd),Respiratory
+"I came in because of back pain, shoulder pain and hurts to breath. It began this morning.",fracture of the rib,Musculoskeletal/Other
+"Lately I keep having upper abdominal pain, lower abdominal pain, side pain and vomiting. It got worse overnight.",diverticulitis,Gastrointestinal
+"Patient reports dizziness, regurgitation, vomiting blood, difficulty in swallowing, regurgitation.1 and burning abdominal pain.",hiatal hernia,Gastrointestinal
+"I've been experiencing shortness of breath, fever, chest tightness, leg swelling, leg pain and hemoptysis and I'm worried. It began this morning.",pulmonary embolism,Respiratory
+"I feel unwell, with sleepiness, abnormal breathing sounds, apnea, mouth dryness, fatigue and shortness of breath. It comes and goes.",obstructive sleep apnea (osa),Respiratory
+"Complaining of rectal bleeding, blood in stool, pain of the anus, itching of the anus, heartburn and diarrhea. It comes and goes.",rectal disorder,Gastrointestinal
+"My main problems are blood in stool, skin rash, temper problems, diaper rash, pulling at ears, diarrhea, cough and fever. It started two days ago.",diaper rash,Dermatological
+"Patient reports itching of skin, itchy scalp, irregular appearing scalp, skin moles, joint pain and skin dryness, peeling, scaliness, or roughness.",psoriasis,Dermatological
+"The symptoms are flu-like syndrome, chills, nausea, diarrhea, fluid retention and burning abdominal pain. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"I feel unwell, with fever, vomiting, blood in stool, sharp abdominal pain, nausea, fluid retention and rectal bleeding.",noninfectious gastroenteritis,Febrile/Systemic
+"I've been experiencing hostile behavior, temper problems, low self-esteem, fainting and obsessions and compulsions and I'm worried.",oppositional disorder,Musculoskeletal/Other
+"Complaining of palpitations, dizziness, fainting, irregular heartbeat and decreased heart rate. This has lasted about a week.",sick sinus syndrome,Musculoskeletal/Other
+"I've been experiencing ear pain, fever, painful sinuses, frontal headache, sore throat, nasal congestion, facial pain, coryza and chest tightness and I'm worried. It began this morning.",acute sinusitis,Respiratory
+"Lately I keep having obsessions and compulsions, restlessness, hostile behavior, low self-esteem and excessive anger. It comes and goes.",oppositional disorder,Musculoskeletal/Other
+"Chief complaint: frequent urination, vomiting, suprapubic pain, sharp abdominal pain, retention of urine, side pain and back pain. It comes and goes.",kidney stone,Musculoskeletal/Other
+"For the past few days I've had fever, coryza, sneezing and headache.",seasonal allergies (hay fever),Febrile/Systemic
+"I came in because of difficulty breathing, fatigue, apnea, insomnia, sleepiness and abnormal breathing sounds. It got worse overnight.",obstructive sleep apnea (osa),Respiratory
+"I came in because of abusing alcohol, hysterical behavior, delusions or hallucinations, temper problems, depression, anxiety and nervousness, fears and phobias and hostile behavior. It began this morning.",psychotic disorder,Musculoskeletal/Other
+"I've been experiencing lip swelling, skin lesion, warts, skin swelling and skin moles and I'm worried. This has lasted about a week.",viral warts,Dermatological
+"My main problems are skin lesion, nasal congestion, fever, cough, sore in nose, mouth ulcer and itching of skin. It began this morning.",impetigo,Dermatological
+"Lately I keep having cough, frontal headache, headache, burning abdominal pain and lacrimation.",seasonal allergies (hay fever),Febrile/Systemic
+"Complaining of wheezing, nasal congestion, chills, sharp chest pain, shortness of breath, coryza and difficulty breathing. It began this morning.",pneumonia,Respiratory
+"For the past few days I've had allergic reaction, cough, diarrhea and vomiting.",intestinal malabsorption,Gastrointestinal
+"I've been experiencing skin irritation, itching of skin, irregular appearing scalp, abnormal appearing skin, skin dryness, peeling, scaliness, or roughness and skin growth and I'm worried. This has lasted about a week.",actinic keratosis,Dermatological
+"For the past few days I've had acne or pimples, skin lesion, skin growth, wrinkles on skin, lip swelling, skin moles and skin irritation. It comes and goes.",atrophic skin condition,Dermatological
+"My main problems are vomiting, diarrhea, decreased appetite, blood in stool and headache. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"I feel unwell, with difficulty breathing, fatigue, palpitations, leg swelling, heartburn and insomnia.",hypertensive heart disease,Musculoskeletal/Other
+"My main problems are frontal headache, headache, nasal congestion, sore throat, cough, coryza and allergic reaction. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"Since yesterday I've noticed diarrhea, itchiness of eye, peripheral edema and heartburn. It comes and goes.",liver disease,Gastrointestinal
+"Lately I keep having skin rash, abnormal appearing skin, cough, allergic reaction and skin swelling. It comes and goes.",allergy,Musculoskeletal/Other
+"I've been experiencing chills, sharp abdominal pain, headache, decreased appetite, fever and fluid retention and I'm worried. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of fatigue, difficulty in swallowing, mouth dryness, abnormal involuntary movements, shortness of breath, apnea and difficulty breathing. It began this morning.",obstructive sleep apnea (osa),Respiratory
+"Since yesterday I've noticed difficulty in swallowing, nasal congestion, ear pain, throat feels tight, hoarse voice, sore throat, cough and difficulty speaking. This has lasted about a week.",laryngitis,Respiratory
+"The symptoms are sore throat, mouth ulcer, headache, fever, mouth pain and toothache. It got worse overnight.",aphthous ulcer,Gastrointestinal
+"I came in because of skin swelling, irregular appearing scalp, joint pain, skin dryness, peeling, scaliness, or roughness, itchy scalp, skin rash and skin moles. It comes and goes.",psoriasis,Dermatological
+"I've been experiencing skin growth, skin swelling, irregular appearing scalp, skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, long menstrual periods and rectal bleeding and I'm worried. It started two days ago.",acne,Dermatological
+"Since yesterday I've noticed impotence, skin rash, itching of skin, abnormal appearing skin, skin irritation, skin lesion, symptoms of the face and skin dryness, peeling, scaliness, or roughness. It started two days ago.",actinic keratosis,Dermatological
+"My main problems are wrinkles on skin, skin irritation, skin lesion, acne or pimples and abnormal appearing skin. It started two days ago.",atrophic skin condition,Dermatological
+"Complaining of burning abdominal pain, sharp chest pain, back pain, upper abdominal pain, vomiting and diarrhea.",acute pancreatitis,Gastrointestinal
+"For the past few days I've had fluid retention, nausea, diarrhea, sharp abdominal pain, rectal bleeding, chills, decreased appetite and vomiting. It comes and goes.",noninfectious gastroenteritis,Febrile/Systemic
+"I came in because of seizures, depressive or psychotic symptoms, excessive anger, lack of growth, fainting and hostile behavior. It comes and goes.",conduct disorder,Musculoskeletal/Other
+"I feel unwell, with irregular appearing scalp, warts, skin swelling, abnormal appearing skin and skin moles.",skin polyp,Dermatological
+"Patient reports sharp abdominal pain, suprapubic pain, cough, feeling ill, vomiting and decreased appetite. This has lasted about a week.",sepsis,Febrile/Systemic
+"Lately I keep having heartburn, blood in stool, heavy menstrual flow, regurgitation.1, regurgitation, weakness and intermenstrual bleeding. This has lasted about a week.",iron deficiency anemia,Musculoskeletal/Other
+"I have frontal headache, cough, congestion in chest, painful sinuses, headache, fever and allergic reaction. This has lasted about a week.",chronic sinusitis,Respiratory
+"Since yesterday I've noticed too little hair, skin rash, irregular appearing scalp, skin swelling, feeling ill, skin growth and cough.",alopecia,Dermatological
+"I have nausea, decreased appetite, fever, rectal bleeding, vomiting, fluid retention and sharp abdominal pain. This has lasted about a week.",noninfectious gastroenteritis,Febrile/Systemic
+"Complaining of mouth dryness, difficulty breathing, sweating, insomnia, abnormal involuntary movements and fatigue.",obstructive sleep apnea (osa),Respiratory
+"I've been experiencing itching of skin, skin dryness, peeling, scaliness, or roughness, skin swelling, pelvic pain, abnormal appearing skin, irregular appearing scalp, acne or pimples and skin lesion and I'm worried. It started two days ago.",fungal infection of the hair,Dermatological
+"Complaining of vomiting, blood in stool, constipation, changes in stool appearance and pain of the anus. It started two days ago.",chronic constipation,Gastrointestinal
+"The symptoms are insomnia, hostile behavior, temper problems and anxiety and nervousness. It got worse overnight.",post-traumatic stress disorder (ptsd),Musculoskeletal/Other
+"Chief complaint: lower abdominal pain, side pain, back pain, vomiting, low back pain and retention of urine.",kidney stone,Musculoskeletal/Other
+"Chief complaint: allergic reaction, lacrimation, sore throat, nasal congestion, cough and ear pain. It started two days ago.",seasonal allergies (hay fever),Febrile/Systemic
+"I feel unwell, with foot or toe swelling, leg swelling, foot or toe pain, ankle pain, wrist pain and hand or finger pain.",gout,Musculoskeletal/Other
+"Since yesterday I've noticed blood in stool, fever, fluid retention, diarrhea, sharp abdominal pain and chills. It got worse overnight.",noninfectious gastroenteritis,Febrile/Systemic
+"For the past few days I've had vomiting, back pain, feeling ill, chills, weakness, suprapubic pain, shortness of breath, decreased appetite and sharp abdominal pain. It got worse overnight.",sepsis,Febrile/Systemic
+"Since yesterday I've noticed sharp abdominal pain, flu-like syndrome, vomiting and blood in stool. It got worse overnight.",infectious gastroenteritis,Febrile/Systemic
+"I've been experiencing leg pain, coryza, headache, sore throat, sneezing, lacrimation, itchiness of eye and frontal headache and I'm worried.",seasonal allergies (hay fever),Febrile/Systemic
+"I've been experiencing jaundice, feeling ill and nausea and I'm worried. It comes and goes.",hepatitis due to a toxin,Gastrointestinal
+"I came in because of problems with movement, depressive or psychotic symptoms, headache, abnormal involuntary movements and focal weakness. It got worse overnight.",stroke,Musculoskeletal/Other
+"I've been experiencing headache, fluid retention, nausea, burning abdominal pain, flu-like syndrome, vomiting and decreased appetite and I'm worried. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"I've been experiencing redness in ear, throat redness, abnormal breathing sounds, throat feels tight and lump in throat and I'm worried. This has lasted about a week.",tonsillitis,Respiratory
+"I came in because of skin rash, nasal congestion, irritable infant, fever, cough and diarrhea. It comes and goes.",diaper rash,Dermatological
+"My main problems are shortness of breath, feeling ill, decreased appetite, difficulty breathing and suprapubic pain.",sepsis,Febrile/Systemic
+"The symptoms are side pain, double vision, weakness, hemoptysis, shortness of breath, sharp chest pain, leg swelling and leg pain. This has lasted about a week.",pulmonary embolism,Respiratory
+I've been experiencing palpitations and throat feels tight and I'm worried. It started two days ago.,chronic rheumatic fever,Febrile/Systemic
+"Chief complaint: chills, vomiting, sharp abdominal pain, feeling ill, fever, shortness of breath, weakness and difficulty breathing.",sepsis,Febrile/Systemic
+"I have leg pain, difficulty breathing and leg swelling.",pulmonary embolism,Respiratory
+"For the past few days I've had skin growth, foot or toe swelling, abnormal appearing skin and neck swelling.",ingrown toe nail,Musculoskeletal/Other
+"Lately I keep having chills, vomiting, rectal bleeding, fever, headache, burning abdominal pain, sharp abdominal pain and diarrhea.",noninfectious gastroenteritis,Febrile/Systemic
+Lately I keep having tongue lesions and toothache. It started two days ago.,oral mucosal lesion,Musculoskeletal/Other
+"I feel unwell, with stomach bloating, weight gain, peripheral edema, sharp abdominal pain and abnormal involuntary movements. It got worse overnight.",alcoholic liver disease,Gastrointestinal
+"Lately I keep having shortness of breath, suprapubic pain, vomiting, sharp abdominal pain, fever, weakness, difficulty breathing and cough.",sepsis,Febrile/Systemic
+"I came in because of fluid retention, fever, blood in stool, sharp abdominal pain, burning abdominal pain, flu-like syndrome, vomiting and nausea.",infectious gastroenteritis,Febrile/Systemic
+"For the past few days I've had knee pain, arm pain, paresthesia, lower body pain, leg pain, loss of sensation, hip pain and back pain.",spondylosis,Musculoskeletal/Other
+"For the past few days I've had skin rash, blood in stool and irritable infant.",diaper rash,Dermatological
+"The symptoms are sore throat, vomiting, cough, shortness of breath, fever, nasal congestion and abnormal breathing sounds.",croup,Respiratory
+"I have shortness of breath, headache, difficulty breathing and coughing up sputum. It got worse overnight.",acute bronchitis,Respiratory
+"I have sharp abdominal pain, dizziness, decreased appetite, arm pain and diarrhea. This has lasted about a week.",hypovolemia,Musculoskeletal/Other
+"Lately I keep having fluid retention, nausea, blood in stool, fever, sharp abdominal pain and flu-like syndrome.",infectious gastroenteritis,Febrile/Systemic
+"I have sore throat, toothache, tongue lesions and cough. It comes and goes.",oral mucosal lesion,Musculoskeletal/Other
+"My main problems are difficulty breathing, cough, decreased appetite and vomiting. This has lasted about a week.",sepsis,Febrile/Systemic
+"I feel unwell, with dizziness, vomiting, melena and fainting. It comes and goes.",gastrointestinal hemorrhage,Gastrointestinal
+"I have shortness of breath, sore throat, abnormal breathing sounds and hot flashes.",interstitial lung disease,Respiratory
+"Chief complaint: chills, constipation, diarrhea, sharp abdominal pain, upper abdominal pain, nausea and burning abdominal pain. It got worse overnight.",diverticulitis,Gastrointestinal
+"I've been experiencing nasal congestion, shortness of breath, headache and abnormal breathing sounds and I'm worried.",interstitial lung disease,Respiratory
+"I came in because of abnormal involuntary movements, weakness, paresthesia, loss of sensation, headache and disturbance of memory. It began this morning.",multiple sclerosis,Musculoskeletal/Other
+"My main problems are pulling at ears, ear pain, cough, diminished hearing, coryza, fluid in ear and sore throat.",otitis media,Musculoskeletal/Other
+"Patient reports vomiting, vomiting blood, sharp abdominal pain, diarrhea and changes in stool appearance. It started two days ago.",gastrointestinal hemorrhage,Gastrointestinal
+"I came in because of cough, nasal congestion, difficulty in swallowing and abnormal breathing sounds.",tonsillar hypertrophy,Respiratory
+"I've been experiencing sharp abdominal pain, diarrhea, burning abdominal pain, side pain, hemoptysis and sharp chest pain and I'm worried. It got worse overnight.",acute pancreatitis,Gastrointestinal
+"Lately I keep having fluid retention, diarrhea, sleepiness, headache and vomiting. It started two days ago.",noninfectious gastroenteritis,Febrile/Systemic
+"The symptoms are sweating, spots or clouds in vision, headache, plugged feeling in ear, loss of sensation, fever, ear pain, nausea and diminished hearing. This has lasted about a week.",labyrinthitis,Musculoskeletal/Other
+"The symptoms are headache, toothache, facial pain, mouth ulcer and bleeding gums. It got worse overnight.",tooth disorder,Musculoskeletal/Other
+"I feel unwell, with leg weakness, dizziness, focal weakness, disturbance of memory, loss of sensation, fatigue, paresthesia and weakness. It began this morning.",multiple sclerosis,Musculoskeletal/Other
+"Since yesterday I've noticed coryza, frontal headache, sore throat, nasal congestion, cramps and spasms and itchiness of eye.",seasonal allergies (hay fever),Febrile/Systemic
+"The symptoms are abnormal appearing skin, skin swelling, skin moles and irregular appearing scalp. It got worse overnight.",actinic keratosis,Dermatological
+"I feel unwell, with problems with movement, sharp chest pain, difficulty in swallowing, vomiting and regurgitation.1. It began this morning.",stricture of the esophagus,Gastrointestinal
+"Since yesterday I've noticed sharp chest pain, upper abdominal pain, side pain, congestion in chest, nausea, sharp abdominal pain, stomach bloating and symptoms of the kidneys. It got worse overnight.",cholecystitis,Gastrointestinal
+"Lately I keep having vomiting, blood in stool, burning abdominal pain, changes in stool appearance and difficulty speaking.",chronic constipation,Gastrointestinal
+"I feel unwell, with decreased appetite, wheezing, vomiting, irritable infant, shortness of breath and hurts to breath. It got worse overnight.",acute bronchiolitis,Respiratory
+"Since yesterday I've noticed skin swelling, symptoms of eye, lymphedema, acne or pimples, abnormal appearing skin, skin growth, skin lesion and itching of skin. It comes and goes.",rosacea,Dermatological
+"Complaining of mouth ulcer, swollen lymph nodes, jaundice, insomnia, skin rash, fever and sore throat. It comes and goes.",herpangina,Musculoskeletal/Other
+"I came in because of nausea, lower body pain, stomach bloating and symptoms of the kidneys.",cholecystitis,Gastrointestinal
+"I've been experiencing abnormal breathing sounds, difficulty in swallowing, sore throat, redness in ear and nasal congestion and I'm worried. It started two days ago.",tonsillar hypertrophy,Respiratory
+"Complaining of warts, skin swelling, lip swelling and skin lesion.",viral warts,Dermatological
+"Chief complaint: sore throat, cough, headache, nausea and ache all over.",flu,Respiratory
+"I came in because of upper abdominal pain, side pain, diarrhea, heartburn, abnormal involuntary movements and sharp abdominal pain.",liver disease,Gastrointestinal
+"For the past few days I've had foot or toe swelling, throat swelling, skin lesion and leg swelling. It started two days ago.",lymphedema,Musculoskeletal/Other
+"I have weakness, fever, shortness of breath, cough, vomiting, difficulty breathing and side pain.",sepsis,Febrile/Systemic
+"For the past few days I've had fever, skin rash, itching of skin, cough, skin lesion, abnormal appearing skin, mouth ulcer and sore in nose.",impetigo,Dermatological
+"Patient reports nasal congestion, facial pain, hoarse voice and painful sinuses. It began this morning.",nasal polyp,Respiratory
+"My main problems are swollen abdomen, mass in scrotum, lower abdominal pain, blood in stool, symptoms of the scrotum and testes, groin pain and ache all over.",inguinal hernia,Gastrointestinal
+"Since yesterday I've noticed pain of the anus, heartburn, itching of the anus, blood in stool, constipation, heavy menstrual flow, sharp abdominal pain and cramps and spasms. It comes and goes.",rectal disorder,Gastrointestinal
+"The symptoms are vomiting, sharp abdominal pain, weakness, feeling ill, decreased appetite and shortness of breath. It started two days ago.",sepsis,Febrile/Systemic
+"Patient reports shortness of breath, cough, nasal congestion and wheezing. It started two days ago.",asthma,Respiratory
+"I have sinus congestion, coryza, coughing up sputum, nasal congestion, fever, frontal headache, ear pain and cough. It began this morning.",acute sinusitis,Respiratory
+"The symptoms are hip pain, low back pain, arm pain, shoulder pain, leg weakness, arm weakness, paresthesia and back pain. It started two days ago.",herniated disk,Gastrointestinal
+"Chief complaint: sharp abdominal pain, lower body pain, back pain, stomach bloating and side pain.",cholecystitis,Gastrointestinal
+"I feel unwell, with itchy scalp, skin dryness, peeling, scaliness, or roughness, acne or pimples, itching of skin and skin lesion. This has lasted about a week.",fungal infection of the skin,Dermatological
+"Lately I keep having chest tightness, irregular heartbeat, increased heart rate, fainting, weight gain and sharp chest pain. It comes and goes.",paroxysmal ventricular tachycardia,Musculoskeletal/Other
+"The symptoms are acne or pimples, abnormal appearing skin, skin growth, too little hair and skin rash.",seborrheic dermatitis,Dermatological
+"Chief complaint: swollen lymph nodes, skin growth, problems during pregnancy, skin swelling, abnormal appearing skin and skin lesion. It got worse overnight.",melanoma,Dermatological
+"I have decreased appetite, difficulty breathing, sharp abdominal pain, shortness of breath, chills, suprapubic pain, weakness and fever. It began this morning.",sepsis,Febrile/Systemic
+"Patient reports skin lesion, depression, cough, sore in nose, abnormal appearing skin and skin swelling. It comes and goes.",impetigo,Dermatological
+"My main problems are upper abdominal pain, diarrhea, lower abdominal pain, sharp abdominal pain, burning abdominal pain, flatulence and insomnia. It comes and goes.",irritable bowel syndrome,Gastrointestinal
+"Complaining of sharp abdominal pain, burning abdominal pain, decreased appetite, vomiting, flu-like syndrome, fluid retention, headache and chills. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of back pain, leg pain, knee pain, ankle pain, hand or finger pain, muscle pain and knee swelling.",osteoarthritis,Musculoskeletal/Other
+"For the past few days I've had paresthesia, hip pain, arm pain and back pain. It comes and goes.",herniated disk,Gastrointestinal
+"My main problems are skin moles, lymphedema, acne or pimples, symptoms of eye, abnormal appearing skin, skin growth and itching of skin. It got worse overnight.",rosacea,Dermatological
+"Complaining of feeling ill, weakness, decreased appetite, sharp abdominal pain, difficulty breathing, cough, suprapubic pain and fever.",sepsis,Febrile/Systemic
+"I have difficulty in swallowing, sharp chest pain, upper abdominal pain, sharp abdominal pain, vomiting blood, heartburn and burning abdominal pain. It comes and goes.",hiatal hernia,Gastrointestinal
+"I have sharp chest pain, decreased heart rate, dizziness and neck pain.",paroxysmal ventricular tachycardia,Musculoskeletal/Other
+"I've been experiencing skin lesion, skin moles, irregular appearing scalp and abnormal appearing skin and I'm worried.",skin disorder,Dermatological
+"I have symptoms of the kidneys, stomach bloating, vomiting and side pain. It began this morning.",cholecystitis,Gastrointestinal
+"Patient reports abnormal appearing skin, skin swelling, irregular appearing scalp, redness in ear, skin rash, itchy scalp, skin dryness, peeling, scaliness, or roughness and too little hair. It began this morning.",fungal infection of the skin,Dermatological
+"I came in because of lower abdominal pain, blood in stool, sharp abdominal pain, diarrhea and swollen lymph nodes. It started two days ago.",ulcerative colitis,Gastrointestinal
+"I came in because of excessive anger, lip sore, skin rash, skin swelling and lip swelling. This has lasted about a week.",cold sore,Musculoskeletal/Other
+"My main problems are low back pain, ache all over, skin moles, joint pain, knee pain, pelvic pain, hip stiffness or tightness and back pain.",arthritis of the hip,Musculoskeletal/Other
+"The symptoms are headache, coryza, itchiness of eye, frontal headache and lacrimation. This has lasted about a week.",seasonal allergies (hay fever),Febrile/Systemic
+"I feel unwell, with headache, coryza, sneezing, allergic reaction, ear pain, nasal congestion, frontal headache and lacrimation. It comes and goes.",seasonal allergies (hay fever),Febrile/Systemic
+"I came in because of itching of skin, allergic reaction, skin lesion, warts, skin dryness, peeling, scaliness, or roughness, acne or pimples, sweating and skin rash. It started two days ago.",eczema,Dermatological
+"My main problems are allergic reaction, nasal congestion, lacrimation and headache.",seasonal allergies (hay fever),Febrile/Systemic
+"I've been experiencing hemoptysis, excessive anger, shortness of breath, coughing up sputum and sharp chest pain and I'm worried. This has lasted about a week.",smoking or tobacco addiction,Musculoskeletal/Other
+"Since yesterday I've noticed nausea, sharp chest pain, blood in stool, problems with movement, upper abdominal pain, heartburn, vomiting blood and sharp abdominal pain. It started two days ago.",gastroduodenal ulcer,Gastrointestinal
+"Lately I keep having burning abdominal pain, nausea, fever, vomiting, diarrhea, sharp abdominal pain, headache and fluid retention. It comes and goes.",noninfectious gastroenteritis,Febrile/Systemic
+"Patient reports shortness of breath, difficulty breathing, fever, chest tightness, allergic reaction, cough and nasal congestion.",asthma,Respiratory
+"Lately I keep having cough, sore throat, vomiting, wheezing and weakness. It began this morning.",pneumonia,Respiratory
+"I've been experiencing frequent urination, symptoms of bladder, involuntary urination, painful urination and retention of urine and I'm worried. This has lasted about a week.",urge incontinence,Musculoskeletal/Other
+"Lately I keep having fainting, fever and knee lump or mass. It began this morning.",malaria,Febrile/Systemic
+"I came in because of back pain, side pain, burning abdominal pain, sharp abdominal pain, lower body pain, sharp chest pain, hemoptysis and vomiting.",acute pancreatitis,Gastrointestinal
+"Complaining of abnormal appearing skin, skin growth, irregular appearing scalp, itching of skin, skin moles, acne or pimples, skin irritation, skin lesion and skin swelling. It started two days ago.",skin disorder,Dermatological
+"For the past few days I've had skin rash, foot or toe swelling and unpredictable menstruation. It started two days ago.",scabies,Dermatological
+"Patient reports wheezing, coughing up sputum, cough, nasal congestion and sore throat. It comes and goes.",acute bronchitis,Respiratory
+"Since yesterday I've noticed headache, cough, frontal headache and painful sinuses.",chronic sinusitis,Respiratory
+"Complaining of arm stiffness or tightness, wrist swelling, elbow pain, bones are painful and arm pain. It began this morning.",injury to the arm,Musculoskeletal/Other
+"For the past few days I've had burning abdominal pain, pelvic pain, intermenstrual bleeding, spotting or bleeding during pregnancy, pain during pregnancy, sharp abdominal pain and uterine contractions. This has lasted about a week.",spontaneous abortion,Musculoskeletal/Other
+"Lately I keep having coryza, congestion in chest, headache, sore throat, coughing up sputum, sharp chest pain, nasal congestion and difficulty breathing.",acute bronchitis,Respiratory
+"Complaining of vaginal discharge, pain during pregnancy, heavy menstrual flow, problems during pregnancy and blood clots during menstrual periods. It got worse overnight.",vaginal cyst,Musculoskeletal/Other
+"Lately I keep having peripheral edema, ache all over, wrist pain, redness in ear and wrist swelling. It got worse overnight.",rheumatoid arthritis,Musculoskeletal/Other
+"My main problems are nasal congestion, facial pain, hurts to breath, difficulty breathing and decreased appetite. It started two days ago.",acute bronchiolitis,Respiratory
+"Since yesterday I've noticed nausea, changes in stool appearance and rectal bleeding. This has lasted about a week.",chronic constipation,Gastrointestinal
+"Chief complaint: burning abdominal pain, neck pain, upper abdominal pain, constipation, chills, blood in stool, fever, sharp abdominal pain and diarrhea. It started two days ago.",diverticulitis,Gastrointestinal
+"My main problems are itching of skin, skin swelling, mouth ulcer, skin rash, nasal congestion and abnormal appearing skin. It began this morning.",impetigo,Dermatological
+"Chief complaint: diaper rash, temper problems, vomiting, nasal congestion, fever, diarrhea and cough.",diaper rash,Dermatological
+"I've been experiencing decreased heart rate, frontal headache, lacrimation, cough, nasal congestion and coryza and I'm worried. This has lasted about a week.",seasonal allergies (hay fever),Febrile/Systemic
+"I've been experiencing difficulty in swallowing, abnormal breathing sounds, sleepiness, mouth dryness, weight gain, fatigue, difficulty breathing, apnea and dizziness and I'm worried. It got worse overnight.",obstructive sleep apnea (osa),Respiratory
+"I came in because of burning abdominal pain, nausea, sharp chest pain, difficulty in swallowing, heartburn, sharp abdominal pain and cough. It got worse overnight.",esophagitis,Gastrointestinal
+"I came in because of side pain, burning abdominal pain, back pain, lower body pain, diarrhea, upper abdominal pain, hemoptysis, skin dryness, peeling, scaliness, or roughness and nausea.",acute pancreatitis,Gastrointestinal
+"Complaining of toothache, wheezing, coughing up sputum, nasal congestion, fever, coryza, sharp chest pain and cough. It started two days ago.",asthma,Respiratory
+"Lately I keep having sharp abdominal pain, nausea, upper abdominal pain, heartburn, blood in stool and vomiting blood. This has lasted about a week.",gastroduodenal ulcer,Gastrointestinal
+"I came in because of diarrhea, fluid retention, vomiting and burning abdominal pain. It started two days ago.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed skin irritation, warts, itching of skin, skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, irregular appearing scalp and skin swelling. It comes and goes.",skin polyp,Dermatological
+"Complaining of vomiting, fever, difficulty breathing, sharp chest pain, cough and weakness. This has lasted about a week.",pneumonia,Respiratory
+"I came in because of sharp abdominal pain, decreased appetite, vomiting, diarrhea and nausea. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"My main problems are ankle swelling, knee pain, knee swelling, leg swelling, foot or toe swelling and joint pain.",gout,Musculoskeletal/Other
+"Patient reports sinus congestion, painful sinuses, coryza, ear pain, nasal congestion, sore throat and coughing up sputum. It started two days ago.",acute sinusitis,Respiratory
+"I have sore throat, abnormal breathing sounds, nosebleed, difficulty breathing, facial pain and nasal congestion. It started two days ago.",deviated nasal septum,Respiratory
+"I've been experiencing changes in stool appearance, rectal bleeding, constipation, pain of the anus, blood in stool, heartburn and ear pain and I'm worried.",hemorrhoids,Gastrointestinal
+"For the past few days I've had constipation, vomiting and lower abdominal pain. This has lasted about a week.",ileus,Gastrointestinal
+"Complaining of vomiting, nasal congestion, coryza, cough, pulling at ears, hurts to breath and decreased appetite.",acute bronchiolitis,Respiratory
+"For the past few days I've had upper abdominal pain, hemoptysis, diarrhea, back pain, vomiting, sharp chest pain and abusing alcohol. It started two days ago.",acute pancreatitis,Gastrointestinal
+"Since yesterday I've noticed pulling at ears, vomiting, wheezing, coryza, fever, cough and hurts to breath.",acute bronchiolitis,Respiratory
+"Lately I keep having sore throat, coryza, sharp chest pain, headache, cough, fever and nasal congestion. It got worse overnight.",acute bronchitis,Respiratory
+"I came in because of acne or pimples, pelvic pain, itchy scalp, skin irritation, skin rash and skin lesion.",fungal infection of the hair,Dermatological
+"Lately I keep having swollen lymph nodes, throat swelling and difficulty in swallowing.",peritonsillar abscess,Dermatological
+"I feel unwell, with painful urination, vaginal discharge, back pain, burning abdominal pain, pain during pregnancy, vaginal pain, lower abdominal pain and sharp abdominal pain. It comes and goes.",vulvodynia,Musculoskeletal/Other
+"I've been experiencing skin rash, back pain, skin growth, irregular appearing nails, abnormal appearing skin, skin on leg or foot looks infected and skin swelling and I'm worried. It started two days ago.",onychomycosis,Musculoskeletal/Other
+"I feel unwell, with pain of the anus, rectal bleeding, diarrhea and cramps and spasms.",rectal disorder,Gastrointestinal
+"Chief complaint: skin growth, joint pain, itchy scalp, itching of skin, irregular appearing scalp, skin swelling and abnormal appearing skin. It comes and goes.",psoriasis,Dermatological
+"Complaining of coryza, abnormal appearing skin, frontal headache, cough, sneezing, allergic reaction and ear pain. It comes and goes.",seasonal allergies (hay fever),Febrile/Systemic
+"I feel unwell, with fever, shortness of breath, vomiting, coryza, cough, sore throat, sharp chest pain and chest tightness. It started two days ago.",acute bronchospasm,Respiratory
+"Complaining of skin lesion, abnormal appearing skin, irregular appearing scalp and acne or pimples. It started two days ago.",fungal infection of the skin,Dermatological
+"Complaining of chills, rectal bleeding, decreased appetite, blood in stool, burning abdominal pain, vomiting and nausea. It got worse overnight.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed blood in stool, lower abdominal pain, side pain, sharp abdominal pain and constipation. It started two days ago.",diverticulitis,Gastrointestinal
+"Patient reports abnormal appearing skin, insomnia, fever and depressive or psychotic symptoms. It started two days ago.",lyme disease,Febrile/Systemic
+"Lately I keep having burning abdominal pain, fever, decreased appetite, chills, fluid retention, weakness, rectal bleeding, vomiting and sharp abdominal pain.",noninfectious gastroenteritis,Febrile/Systemic
+"Patient reports burning abdominal pain, headache, chills, nausea, decreased appetite and vomiting. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: mouth ulcer, jaw swelling, toothache, headache, peripheral edema, gum pain and bleeding gums.",tooth disorder,Musculoskeletal/Other
+"For the past few days I've had abnormal appearing skin, disturbance of memory, skin swelling, lip swelling, acne or pimples, skin moles, warts and skin lesion. It comes and goes.",viral warts,Dermatological
+"For the past few days I've had dizziness, melena, sharp abdominal pain, blood in stool and vomiting. It got worse overnight.",gastrointestinal hemorrhage,Gastrointestinal
+"For the past few days I've had burning abdominal pain, vomiting, heartburn, sharp chest pain, lower body pain and side pain.",gallstone,Gastrointestinal
+"I came in because of lower body pain, blood in stool, melena, changes in stool appearance, sharp abdominal pain and heartburn. It got worse overnight.",hemorrhoids,Gastrointestinal
+"I feel unwell, with acne or pimples, abnormal appearing skin, skin swelling and skin lesion. It started two days ago.",intertrigo (skin condition),Dermatological
+"Lately I keep having lower body pain, paresthesia, hip pain and shoulder pain.",spondylosis,Musculoskeletal/Other
+"Patient reports pain in eye, swollen eye, eyelid swelling and eyelid lesion or rash. It began this morning.",stye,Musculoskeletal/Other
+"I came in because of eye redness, swollen eye, abnormal appearing skin, eye burns or stings, eyelid lesion or rash, skin swelling and symptoms of eye. It comes and goes.",stye,Musculoskeletal/Other
+"I feel unwell, with weakness, sharp abdominal pain, nausea, jaundice, side pain, upper abdominal pain and heartburn. It comes and goes.",liver disease,Gastrointestinal
+"I feel unwell, with skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, skin swelling, difficulty speaking, itching of skin, irregular appearing scalp and warts. This has lasted about a week.",skin pigmentation disorder,Dermatological
+"I have leg pain, difficulty speaking and muscle stiffness or tightness. It started two days ago.",bone disorder,Musculoskeletal/Other
+"Lately I keep having suprapubic pain, shortness of breath, chills, fever, feeling ill and difficulty breathing. This has lasted about a week.",sepsis,Febrile/Systemic
+"For the past few days I've had skin irritation, pelvic pain, itchy scalp, irregular appearing scalp, skin swelling and skin rash.",fungal infection of the hair,Dermatological
+"Chief complaint: skin moles, skin rash, warts, itching of skin, irregular appearing scalp, skin lesion, skin irritation and abnormal appearing skin.",seborrheic keratosis,Dermatological
+"I came in because of acne or pimples, bumps on penis, skin swelling, skin moles and abnormal appearing skin.",viral warts,Dermatological
+"Since yesterday I've noticed foot or toe pain, acne or pimples, skin rash and skin growth. It comes and goes.",callus,Dermatological
+"Since yesterday I've noticed diminished vision, vomiting, feeling ill, decreased appetite and weakness. It got worse overnight.",sepsis,Febrile/Systemic
+"I've been experiencing difficulty breathing, fatigue, insomnia, apnea, sweating, weight gain, sleepiness and abnormal breathing sounds and I'm worried.",obstructive sleep apnea (osa),Respiratory
+"I have itching of skin, irregular appearing scalp, warts, skin rash, cough, mass on eyelid, acne or pimples and skin irritation.",eczema,Dermatological
+"The symptoms are difficulty in swallowing, vomiting, cough and shortness of breath. It comes and goes.",esophagitis,Gastrointestinal
+"Complaining of nasal congestion, skin swelling, skin rash, skin lesion, abnormal appearing skin, fever and mouth ulcer. It got worse overnight.",impetigo,Dermatological
+"Chief complaint: cough, weakness, suprapubic pain, feeling ill, vomiting and fever.",sepsis,Febrile/Systemic
+"The symptoms are sharp abdominal pain, burning abdominal pain, diarrhea, lower abdominal pain, upper abdominal pain, nausea, chills and constipation.",diverticulitis,Gastrointestinal
+"I have back pain, pelvic pain, hip pain, joint pain and lower body pain. This has lasted about a week.",arthritis of the hip,Musculoskeletal/Other
+"I came in because of foot or toe pain, leg swelling, skin lesion and leg pain. It got worse overnight.",pyogenic skin infection,Dermatological
+"My main problems are lymphedema, acne or pimples, symptoms of eye, skin swelling and abnormal appearing skin. It started two days ago.",rosacea,Dermatological
+"Patient reports rectal bleeding, headache, fluid retention, nausea, chills and decreased appetite.",noninfectious gastroenteritis,Febrile/Systemic
+"Patient reports mouth dryness, insomnia, difficulty breathing and weight gain. It began this morning.",obstructive sleep apnea (osa),Respiratory
+"I have feeling ill, regurgitation.1, depression and sharp abdominal pain. It comes and goes.",hepatitis due to a toxin,Gastrointestinal
+"Complaining of insomnia, delusions or hallucinations, temper problems and depression. It started two days ago.",bipolar disorder,Musculoskeletal/Other
+"My main problems are regurgitation.1, vomiting and fever. It got worse overnight.",gastritis,Gastrointestinal
+"Since yesterday I've noticed heartburn, sharp chest pain and changes in stool appearance.",gastroduodenal ulcer,Gastrointestinal
+"My main problems are hurts to breath, weakness, side pain, sharp abdominal pain, back pain and cough.",pleural effusion,Respiratory
+"The symptoms are loss of sensation, symptoms of the face, leg pain, back pain, arm pain, leg weakness, arm weakness, hip pain and low back pain.",herniated disk,Gastrointestinal
+"I have chest tightness, sore throat, cough, wheezing, fever and sharp chest pain. It got worse overnight.",chronic obstructive pulmonary disease (copd),Respiratory
+"I have depressive or psychotic symptoms, sharp chest pain, difficulty breathing, wheezing and chest tightness.",acute respiratory distress syndrome (ards),Respiratory
+"Chief complaint: difficulty eating, acne or pimples, depressive or psychotic symptoms, decreased appetite and depression.",eating disorder,Musculoskeletal/Other
+"Since yesterday I've noticed sore throat, frontal headache, congestion in chest and ear pain. This has lasted about a week.",chronic sinusitis,Respiratory
+"I've been experiencing skin irritation, pain in gums and gum pain and I'm worried. It comes and goes.",dental caries,Musculoskeletal/Other
+"I've been experiencing skin swelling, itchy scalp, abnormal appearing skin, skin rash, skin lesion, skin growth, skin moles and dizziness and I'm worried. It started two days ago.",psoriasis,Dermatological
+"I have skin dryness, peeling, scaliness, or roughness, itching of skin, itchy scalp, skin lesion, skin irritation, irregular appearing scalp, skin growth and acne or pimples. This has lasted about a week.",fungal infection of the hair,Dermatological
+"I feel unwell, with burning abdominal pain, diarrhea, nausea, fluid retention, headache and fever.",noninfectious gastroenteritis,Febrile/Systemic
+"Chief complaint: side pain, diarrhea, sharp abdominal pain, nausea and decreased appetite.",appendicitis,Gastrointestinal
+"Complaining of cough, nasal congestion, skin rash, sore in nose, skin swelling and mouth ulcer.",impetigo,Dermatological
+"Complaining of skin moles, joint pain, itching of skin and nausea. This has lasted about a week.",psoriasis,Dermatological
+"For the past few days I've had nausea, flu-like syndrome, decreased appetite, vomiting and fever. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are nasal congestion, cough, sharp chest pain, difficulty breathing and headache. It started two days ago.",acute bronchitis,Respiratory
+"I feel unwell, with cough, difficulty breathing, chills, sharp abdominal pain, hysterical behavior and vomiting. It began this morning.",sepsis,Febrile/Systemic
+"Since yesterday I've noticed burning abdominal pain, lower body pain, stomach bloating, vomiting, nausea and regurgitation.1. It began this morning.",cholecystitis,Gastrointestinal
+"For the past few days I've had skin rash, foot or toe pain, leg swelling, skin swelling, leg pain and hand or finger swelling. It began this morning.",pyogenic skin infection,Dermatological
+"My main problems are frontal headache, sneezing, ear pain and itchiness of eye.",seasonal allergies (hay fever),Febrile/Systemic
+"I have abnormal appearing skin, irregular appearing scalp, skin dryness, peeling, scaliness, or roughness, lip swelling and skin irritation. It began this morning.",skin cancer,Dermatological
+"I feel unwell, with skin lesion, sharp chest pain, itching of skin, pain in eye and facial pain. It got worse overnight.",shingles (herpes zoster),Dermatological
+"I've been experiencing skin growth, irregular appearing scalp, acne or pimples, itching of skin, feeling ill and skin swelling and I'm worried.",alopecia,Dermatological
+"I have skin moles, skin growth, skin swelling and long menstrual periods. It began this morning.",acne,Dermatological
+"For the past few days I've had allergic reaction, ear pain, frontal headache and lacrimation.",seasonal allergies (hay fever),Febrile/Systemic
+"Lately I keep having hand or finger pain, foot or toe pain, skin rash, leg pain, leg swelling, foot or toe swelling, abnormal appearing skin, skin lesion and peripheral edema. It started two days ago.",pyogenic skin infection,Dermatological
+"I feel unwell, with burning abdominal pain, nausea, chills, fever, diarrhea, decreased appetite and headache. It got worse overnight.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: abusing alcohol, side pain, lower body pain, vomiting, hemoptysis, back pain and burning abdominal pain. It comes and goes.",acute pancreatitis,Gastrointestinal
+"Complaining of sharp abdominal pain, diarrhea, rectal bleeding, decreased appetite and chills. It began this morning.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed headache, burning abdominal pain, sharp abdominal pain, painful sinuses, fever and vomiting. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: cough, shortness of breath, wheezing, fever, sharp chest pain, vomiting, difficulty breathing and back pain. This has lasted about a week.",acute bronchospasm,Respiratory
+"I came in because of itchy scalp, skin growth, abnormal appearing skin, skin irritation and acne or pimples.",fungal infection of the hair,Dermatological
+"My main problems are ear pain, swollen lymph nodes, difficulty in swallowing, throat swelling and headache. It began this morning.",peritonsillar abscess,Dermatological
+"I feel unwell, with hemoptysis, difficulty breathing, cough, weakness, leg pain, sweating and side pain. This has lasted about a week.",pulmonary embolism,Respiratory
+"Since yesterday I've noticed problems with movement, wheezing, coryza, vomiting, difficulty breathing, fever and nasal congestion. It got worse overnight.",acute bronchospasm,Respiratory
+"I have symptoms of the face, skin swelling, itching of skin, skin lesion, skin irritation and regurgitation.1. It got worse overnight.",actinic keratosis,Dermatological
+"Chief complaint: rectal bleeding, burning abdominal pain, diarrhea, chills, nausea and decreased appetite. It began this morning.",noninfectious gastroenteritis,Febrile/Systemic
+"Complaining of problems with movement, focal weakness, depressive or psychotic symptoms, hostile behavior and slurring words. It began this morning.",delirium,Musculoskeletal/Other
+"Patient reports excessive anger, insomnia, hostile behavior, anxiety and nervousness, depression and abusing alcohol.",post-traumatic stress disorder (ptsd),Musculoskeletal/Other
+"I've been experiencing sharp chest pain, fainting, weakness and chest tightness and I'm worried. This has lasted about a week.",sinus bradycardia,Musculoskeletal/Other
+"Complaining of headache, chills, cough and nasal congestion. It got worse overnight.",common cold,Respiratory
+"I feel unwell, with ear pain, headache, lacrimation, itchiness of eye, sneezing and frontal headache. It began this morning.",seasonal allergies (hay fever),Febrile/Systemic
+"For the past few days I've had coryza, sore throat, nasal congestion, painful sinuses, frontal headache and fever.",acute sinusitis,Respiratory
+"Patient reports skin moles, skin dryness, peeling, scaliness, or roughness, skin lesion, skin swelling, itchy scalp and abnormal appearing skin. It comes and goes.",psoriasis,Dermatological
+"I came in because of nasal congestion, cough, redness in ear, difficulty in swallowing, fever and sore throat. It comes and goes.",tonsillar hypertrophy,Respiratory
+"I came in because of chills, vomiting, flu-like syndrome, diarrhea, fever, blood in stool, headache and nausea. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"I've been experiencing leg lump or mass, itchy scalp, itching of skin and cough and I'm worried. It began this morning.",lice,Dermatological
+"I feel unwell, with irritable infant, pulling at ears and skin rash. It started two days ago.",diaper rash,Dermatological
+"For the past few days I've had symptoms of the face, hip pain, headache, depressive or psychotic symptoms and fatigue. This has lasted about a week.",lyme disease,Febrile/Systemic
+"The symptoms are frontal headache, cough, ear pain, allergic reaction, coryza, sneezing and itchiness of eye. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"Patient reports fluid retention, flu-like syndrome, fever, blood in stool, vomiting and diarrhea. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are headache, sneezing, allergic reaction, cough, coryza and nasal congestion. It comes and goes.",seasonal allergies (hay fever),Febrile/Systemic
+"I came in because of burning abdominal pain, headache, decreased appetite, flu-like syndrome, blood in stool and diarrhea.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: skin swelling, skin growth, itching of skin, skin irritation, symptoms of the face and abnormal appearing skin. It started two days ago.",actinic keratosis,Dermatological
+"For the past few days I've had cough, weakness, chest tightness, nasal congestion and fever. It comes and goes.",pulmonary congestion,Respiratory
+"My main problems are heavy menstrual flow, sharp abdominal pain and lower abdominal pain. This has lasted about a week.",endometriosis,Musculoskeletal/Other
+"The symptoms are upper abdominal pain, sharp chest pain, side pain, heartburn, lower body pain and nausea. It began this morning.",gallstone,Gastrointestinal
+"Chief complaint: sharp chest pain, coughing up sputum, sore throat, chest tightness, coryza, fever and wheezing. It began this morning.",chronic obstructive pulmonary disease (copd),Respiratory
+"The symptoms are skin moles, skin irritation, abnormal appearing skin, skin dryness, peeling, scaliness, or roughness, warts and irregular appearing scalp. It comes and goes.",skin polyp,Dermatological
+"Since yesterday I've noticed blood in stool, upper abdominal pain, lower abdominal pain, diarrhea, sharp abdominal pain and melena.",diverticulosis,Gastrointestinal
+"Since yesterday I've noticed weight gain, fluid retention, leg swelling, cough and hurts to breath. It got worse overnight.",heart failure,Musculoskeletal/Other
+"Lately I keep having diminished vision, lacrimation, white discharge from eye, eye redness, symptoms of eye, foreign body sensation in eye and itchiness of eye. It comes and goes.",corneal abrasion,Musculoskeletal/Other
+"Since yesterday I've noticed acne or pimples, skin lesion, skin moles, skin rash and itching of skin. It started two days ago.",contact dermatitis,Dermatological
+"I came in because of side pain, sharp chest pain, heartburn, back pain, nausea, upper abdominal pain and regurgitation.1. This has lasted about a week.",gallstone,Gastrointestinal
+"I've been experiencing decreased appetite, fluid retention, vomiting, fever, diarrhea, chills and nausea and I'm worried.",noninfectious gastroenteritis,Febrile/Systemic
+"Complaining of headache, neck stiffness or tightness, neck pain, ache all over and cough. It comes and goes.",meningitis,Febrile/Systemic
+"My main problems are acne or pimples, skin rash, abnormal appearing skin and irregular appearing nails.",callus,Dermatological
+"The symptoms are allergic reaction, chest tightness, nasal congestion, wheezing, coryza and difficulty breathing. It comes and goes.",asthma,Respiratory
+"For the past few days I've had burning abdominal pain, blood in stool, fluid retention, decreased appetite, flu-like syndrome, fever, nausea and diarrhea. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"My main problems are skin irritation, acne or pimples, allergic reaction, anxiety and nervousness, skin moles, skin rash and itching of skin. It got worse overnight.",contact dermatitis,Dermatological
+"For the past few days I've had skin swelling, skin dryness, peeling, scaliness, or roughness, irregular appearing scalp, warts, skin rash, allergic reaction, abnormal appearing skin, toothache and skin lesion.",eczema,Dermatological
+"Lately I keep having blood in urine, nausea, retention of urine, chills, back pain, frequent urination and fever. It got worse overnight.",prostatitis,Musculoskeletal/Other
+"Since yesterday I've noticed weakness, vomiting blood, nausea, changes in stool appearance, diarrhea, sharp abdominal pain and fainting. It got worse overnight.",gastrointestinal hemorrhage,Gastrointestinal
+"I feel unwell, with leg pain, hand or finger pain, leg swelling, foot or toe pain and abnormal appearing skin. It got worse overnight.",pyogenic skin infection,Dermatological
+"Chief complaint: nasal congestion, allergic reaction, sneezing, cough and ear pain.",seasonal allergies (hay fever),Febrile/Systemic
+"Lately I keep having foot or toe pain, neck swelling and hand or finger swelling. It comes and goes.",crushing injury,Musculoskeletal/Other
+"My main problems are knee pain, elbow pain, stiffness all over, low back pain and paresthesia. It got worse overnight.",ankylosing spondylitis,Musculoskeletal/Other
+"Lately I keep having headache, neck pain, vomiting, fever and neck stiffness or tightness. This has lasted about a week.",meningitis,Febrile/Systemic
+"I've been experiencing vaginal itching, penile discharge and vaginal discharge and I'm worried. It comes and goes.",gonorrhea,Musculoskeletal/Other
+"For the past few days I've had blood in stool, changes in stool appearance, rectal bleeding and vomiting. This has lasted about a week.",gastrointestinal hemorrhage,Gastrointestinal
+"Since yesterday I've noticed sharp abdominal pain, headache and rectal bleeding. It began this morning.",noninfectious gastroenteritis,Febrile/Systemic
+"Patient reports coughing up sputum, frontal headache, ear pain, nasal congestion and coryza. It comes and goes.",acute sinusitis,Respiratory
+"The symptoms are ear pain, fever, cough, coryza and difficulty in swallowing.",laryngitis,Respiratory
+"Complaining of burning abdominal pain, sharp abdominal pain, retention of urine, rectal bleeding, nausea and blood in stool.",chronic constipation,Gastrointestinal
+"I came in because of dizziness, regurgitation, nausea, back pain, sharp abdominal pain, vomiting blood and regurgitation.1. This has lasted about a week.",hiatal hernia,Gastrointestinal
+"Complaining of cough, ache all over and neck stiffness or tightness. It started two days ago.",meningitis,Febrile/Systemic
+"Lately I keep having chills, chest tightness, fever, wheezing, sharp chest pain, coryza, shortness of breath, nasal congestion and cough.",asthma,Respiratory
+"The symptoms are painful urination, drug abuse, delusions or hallucinations, depressive or psychotic symptoms, fears and phobias and insomnia. It comes and goes.",personality disorder,Musculoskeletal/Other
+"I came in because of diarrhea, itchiness of eye, decreased appetite, side pain and lower abdominal pain.",appendicitis,Gastrointestinal
+"For the past few days I've had upper abdominal pain, back pain, burning abdominal pain, blood in stool, regurgitation.1 and lower body pain.",gallstone,Gastrointestinal
+"Since yesterday I've noticed sore throat, itchiness of eye, ear pain and allergic reaction. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"Patient reports sharp abdominal pain, vomiting, fluid retention, diarrhea, chills, fever, blood in stool and decreased appetite. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"For the past few days I've had difficulty speaking, abnormal involuntary movements and loss of sensation.",hemiplegia,Musculoskeletal/Other
+"Complaining of dry or flaky scalp, abnormal appearing skin, too little hair, skin rash, skin lesion, skin growth and skin dryness, peeling, scaliness, or roughness. It comes and goes.",seborrheic dermatitis,Dermatological
+"I have sharp abdominal pain, shortness of breath, feeling ill, vomiting, fever, weakness, cough and chills. It began this morning.",sepsis,Febrile/Systemic
+"My main problems are headache, hoarse voice, painful sinuses and facial pain. It got worse overnight.",nasal polyp,Respiratory
+"The symptoms are ankle swelling, wrist pain, knee swelling, knee stiffness or tightness, problems with movement, elbow pain and knee pain.",joint effusion,Musculoskeletal/Other
+"Lately I keep having diarrhea, headache, chills and vomiting. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"Patient reports nasal congestion, coryza, wheezing, cough, sharp chest pain, difficulty breathing, vomiting and fever. It started two days ago.",acute bronchospasm,Respiratory
+"For the past few days I've had rectal bleeding, diarrhea, melena, fainting, sharp abdominal pain and vomiting blood. It started two days ago.",gastrointestinal hemorrhage,Gastrointestinal
+"I've been experiencing cough, swollen lymph nodes, nasal congestion, headache and feeling ill and I'm worried. It began this morning.",mononucleosis,Febrile/Systemic
+"Complaining of flu-like syndrome, sharp abdominal pain, fever, nausea, decreased appetite and vomiting. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: sharp abdominal pain, nausea, blood in stool, fluid retention, vomiting and chills. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"Complaining of diarrhea, upper abdominal pain, nausea, insomnia and vomiting. It began this morning.",irritable bowel syndrome,Gastrointestinal
+"I feel unwell, with blood in stool, decreased appetite, fluid retention, burning abdominal pain, rectal bleeding and sharp abdominal pain.",noninfectious gastroenteritis,Febrile/Systemic
+"Lately I keep having sharp chest pain, shortness of breath, burning chest pain, irregular heartbeat, chest tightness, arm pain, fainting and increased heart rate. It began this morning.",heart attack,Musculoskeletal/Other
+"Since yesterday I've noticed cough, insomnia, upper abdominal pain and burning abdominal pain. It got worse overnight.",esophagitis,Gastrointestinal
+"Patient reports skin swelling, skin rash and lack of growth.",dermatitis due to sun exposure,Dermatological
+"Chief complaint: drug abuse, abusing alcohol, hemoptysis and sharp chest pain. It began this morning.",smoking or tobacco addiction,Musculoskeletal/Other
+"Chief complaint: chest tightness, cough, depressive or psychotic symptoms, shortness of breath and fever. It started two days ago.",acute respiratory distress syndrome (ards),Respiratory
+"I have shortness of breath, nasal congestion, coryza, chest tightness, fever, wheezing, cough and sore throat. It got worse overnight.",chronic obstructive pulmonary disease (copd),Respiratory
+"My main problems are sharp abdominal pain, chills, side pain, vomiting, fever and nausea. It started two days ago.",diverticulitis,Gastrointestinal
+"The symptoms are coryza, allergic reaction, sore throat and cough.",seasonal allergies (hay fever),Febrile/Systemic
+"The symptoms are insomnia, abnormal breathing sounds, weight gain, difficulty in swallowing, sweating and difficulty breathing. It started two days ago.",obstructive sleep apnea (osa),Respiratory
+"I came in because of palpitations, skin lesion, facial pain, sharp chest pain, headache, itching of skin and back pain. This has lasted about a week.",shingles (herpes zoster),Dermatological
+"Since yesterday I've noticed changes in stool appearance, sharp abdominal pain, rectal bleeding, heartburn, blood in stool, itching of the anus and hand or finger pain. It comes and goes.",hemorrhoids,Gastrointestinal
+"Patient reports vomiting, suprapubic pain, chills, shortness of breath, difficulty breathing and decreased appetite. It got worse overnight.",sepsis,Febrile/Systemic
+"I came in because of ear pain, coryza, sore throat, sneezing, headache, cough, nasal congestion and frontal headache.",seasonal allergies (hay fever),Febrile/Systemic
+"I have dizziness, fatigue, nausea and cough. It got worse overnight.",hemolytic anemia,Musculoskeletal/Other
+"Patient reports skin irritation, itchy scalp, acne or pimples, abnormal appearing skin, pelvic pain, skin dryness, peeling, scaliness, or roughness and skin swelling. It comes and goes.",fungal infection of the hair,Dermatological
+"I came in because of cough, chest tightness, sharp abdominal pain, vomiting and burning abdominal pain.",esophagitis,Gastrointestinal
+"I came in because of fever, cough, ankle swelling, hurts to breath, irritable infant and pulling at ears.",acute bronchiolitis,Respiratory
+"Complaining of cough, sharp abdominal pain, vomiting and headache.",meningitis,Febrile/Systemic
+"For the past few days I've had itching of skin, skin swelling, warts, skin lesion, skin rash, skin irritation, skin moles and skin growth. This has lasted about a week.",seborrheic keratosis,Dermatological
+"I came in because of headache, rib pain, symptoms of the scrotum and testes and shoulder pain.",injury to the trunk,Musculoskeletal/Other
+"Chief complaint: swelling of scrotum, groin mass, swollen abdomen, pain in testicles and groin pain.",inguinal hernia,Gastrointestinal
+"Chief complaint: nasal congestion, pulling at ears, fever, vomiting and difficulty breathing. This has lasted about a week.",acute bronchiolitis,Respiratory
+"The symptoms are nausea, upper abdominal pain, flatulence, lower abdominal pain and insomnia. It got worse overnight.",irritable bowel syndrome,Gastrointestinal
+"I came in because of headache, coryza, coughing up sputum, nasal congestion, shortness of breath, congestion in chest, fever and wheezing. It began this morning.",acute bronchitis,Respiratory
+"Complaining of regurgitation.1, back pain, nausea, lower body pain, heartburn, sharp abdominal pain and burning abdominal pain. It started two days ago.",gallstone,Gastrointestinal
+"For the past few days I've had fainting, vomiting blood, changes in stool appearance, vomiting, nausea and blood in stool. It comes and goes.",gastrointestinal hemorrhage,Gastrointestinal
+"The symptoms are difficulty breathing, shortness of breath, decreased appetite and cough. This has lasted about a week.",sepsis,Febrile/Systemic
+"I've been experiencing side pain, burning abdominal pain, vomiting, diarrhea, chills, blood in stool and nausea and I'm worried. It began this morning.",diverticulitis,Gastrointestinal
+"I feel unwell, with sneezing, allergic reaction, coryza, headache, cough and frontal headache. It began this morning.",seasonal allergies (hay fever),Febrile/Systemic
+"The symptoms are peripheral edema, low back pain, side pain, shortness of breath and sharp abdominal pain. It began this morning.",liver disease,Gastrointestinal
+"For the past few days I've had lymphedema, acne or pimples, skin growth, skin lesion, vomiting and skin moles.",rosacea,Dermatological
+"Patient reports rectal bleeding, nausea, diarrhea, vomiting, sharp abdominal pain, burning abdominal pain and pain of the anus. It got worse overnight.",crohn disease,Gastrointestinal
+"Complaining of heartburn, dizziness, burning abdominal pain, sharp abdominal pain, nausea and upper abdominal pain.",hiatal hernia,Gastrointestinal
+"Since yesterday I've noticed lower abdominal pain, sharp abdominal pain, nausea, chills, constipation and blood in stool.",diverticulitis,Gastrointestinal
+"Lately I keep having headache, burning abdominal pain, nausea, vomiting, sharp abdominal pain, fever and hand or finger swelling.",noninfectious gastroenteritis,Febrile/Systemic
+"Chief complaint: regurgitation.1, regurgitation, vomiting, diarrhea, fever, vomiting blood, nausea and headache. It got worse overnight.",gastritis,Gastrointestinal
+"Lately I keep having sharp chest pain, dizziness, feeling ill and irregular heartbeat.",orthostatic hypotension,Musculoskeletal/Other
+"My main problems are involuntary urination, hand or finger stiffness or tightness, blood in urine, retention of urine, symptoms of bladder and suprapubic pain. This has lasted about a week.",overflow incontinence,Musculoskeletal/Other
+"Chief complaint: irregular belly button, regurgitation, ache all over, regurgitation.1 and sharp abdominal pain. It got worse overnight.",abdominal hernia,Gastrointestinal
+"Complaining of fever, fluid retention, headache, sharp abdominal pain, blood in stool, chills and burning abdominal pain.",noninfectious gastroenteritis,Febrile/Systemic
+"Patient reports abnormal breathing sounds, cough, nasal congestion, redness in ear, sore throat and difficulty in swallowing. It started two days ago.",tonsillar hypertrophy,Respiratory
+"Lately I keep having back pain, blood in urine, side pain and fever. It started two days ago.",urinary tract infection,Musculoskeletal/Other
+"Chief complaint: cough, feeling ill, fever, decreased appetite, difficulty breathing, sharp abdominal pain, vaginal pain and vomiting. It comes and goes.",sepsis,Febrile/Systemic
+"For the past few days I've had symptoms of the kidneys, nausea, regurgitation.1, sharp chest pain, burning abdominal pain and vomiting. It started two days ago.",cholecystitis,Gastrointestinal
+I came in because of shoulder weakness and neck pain. It started two days ago.,nerve impingement near the shoulder,Musculoskeletal/Other
+"Patient reports neck stiffness or tightness, neck pain, cough, fever and vomiting. It started two days ago.",meningitis,Febrile/Systemic
+"For the past few days I've had skin dryness, peeling, scaliness, or roughness, itching of skin, skin lesion, skin rash, skin moles, abnormal appearing skin and acne or pimples.",contact dermatitis,Dermatological
+"Chief complaint: cramps and spasms, blood clots during menstrual periods, problems during pregnancy, intermenstrual bleeding, sharp abdominal pain, vaginal discharge, heavy menstrual flow and pelvic pain. It comes and goes.",vaginal cyst,Musculoskeletal/Other
+"Since yesterday I've noticed cough, vomiting, wheezing, headache and coryza.",common cold,Respiratory
+"The symptoms are burning abdominal pain, nausea, diarrhea, chills, constipation, vomiting, sharp abdominal pain and blood in stool.",diverticulitis,Gastrointestinal
+"My main problems are fever, vomiting, side pain, stomach bloating, diarrhea, lower abdominal pain, sharp abdominal pain and burning abdominal pain.",appendicitis,Gastrointestinal
+"I feel unwell, with difficulty in swallowing, burning abdominal pain, heartburn, dizziness and sharp chest pain. This has lasted about a week.",hiatal hernia,Gastrointestinal
+"I feel unwell, with cough, headache, difficulty breathing and sharp chest pain.",acute bronchitis,Respiratory
+"Lately I keep having increased heart rate, nightmares, irregular heartbeat, fatigue, sharp chest pain, dizziness and leg swelling. It began this morning.",mitral valve disease,Musculoskeletal/Other
+"Chief complaint: feeling ill, sleepiness, depressive or psychotic symptoms, sweating, abnormal involuntary movements, fainting and problems with movement.",hypoglycemia,Musculoskeletal/Other
+"Since yesterday I've noticed facial pain, nasal congestion, allergic reaction, sore throat, apnea and abnormal breathing sounds. It got worse overnight.",deviated nasal septum,Respiratory
+"Patient reports skin lesion, skin dryness, peeling, scaliness, or roughness, itching of skin, irregular appearing scalp, skin growth, skin irritation, pelvic pain and acne or pimples. This has lasted about a week.",fungal infection of the hair,Dermatological
+"Complaining of coughing up sputum, allergic reaction, chest tightness, fever, sharp chest pain and wheezing. It got worse overnight.",asthma,Respiratory
+"Complaining of cough, skin dryness, peeling, scaliness, or roughness, warts, skin irritation, skin swelling, acne or pimples, itching of skin and irregular appearing scalp. It comes and goes.",eczema,Dermatological
+"Lately I keep having sharp chest pain, congestion in chest, shortness of breath and fever. It started two days ago.",chronic obstructive pulmonary disease (copd),Respiratory
+"I came in because of sharp abdominal pain, groin pain, swelling of scrotum, pain in testicles, symptoms of the scrotum and testes and ache all over.",inguinal hernia,Gastrointestinal
+"I came in because of sore throat, difficulty breathing, wheezing, vomiting, cough, chest tightness, fever and hurts to breath. This has lasted about a week.",acute bronchospasm,Respiratory
+"Lately I keep having muscle cramps, contractures, or spasms, stomach bloating, bones are painful, early or late onset of menopause and back pain. It got worse overnight.",osteoporosis,Musculoskeletal/Other
+"The symptoms are sore throat, throat feels tight, difficulty speaking, cough, hoarse voice, nasal congestion, coryza and ear pain.",laryngitis,Respiratory
+"My main problems are rectal bleeding, fever, blood in stool, palpitations, diarrhea, vomiting, sharp abdominal pain and chills. This has lasted about a week.",noninfectious gastroenteritis,Febrile/Systemic
+"Lately I keep having sore throat, sneezing, headache, allergic reaction and coryza.",seasonal allergies (hay fever),Febrile/Systemic
+"Complaining of weakness, shortness of breath, decreased appetite, feeling ill, fever, cough, difficulty breathing and suprapubic pain. It started two days ago.",sepsis,Febrile/Systemic
+"I've been experiencing fainting, neck pain, headache, back pain, arm pain, shoulder pain, loss of sensation and ache all over and I'm worried. It started two days ago.",neuralgia,Musculoskeletal/Other
+"My main problems are cough, temper problems, fever, pulling at ears, diaper rash and skin rash.",diaper rash,Dermatological
+"I have skin lesion, itching of skin, skin irritation, skin growth and irregular appearing scalp.",fungal infection of the hair,Dermatological
+"My main problems are abnormal appearing skin, skin growth, skin swelling, skin lesion, abusing alcohol, foot or toe pain and irregular appearing nails. It began this morning.",callus,Dermatological
+"Patient reports sore throat, facial pain and difficulty breathing. It got worse overnight.",deviated nasal septum,Respiratory
+"The symptoms are warts, skin lesion, skin dryness, peeling, scaliness, or roughness, skin growth, skin irritation, skin swelling, symptoms of prostate, irregular appearing scalp and abnormal appearing skin.",skin polyp,Dermatological
+"I've been experiencing diarrhea, lower body pain, sharp chest pain and sharp abdominal pain and I'm worried.",acute pancreatitis,Gastrointestinal
+"Chief complaint: constipation, sharp abdominal pain, pain of the anus, changes in stool appearance, heartburn, itching of the anus and rectal bleeding. It started two days ago.",hemorrhoids,Gastrointestinal
+"I've been experiencing irregular appearing nails, skin growth, skin lesion and skin rash and I'm worried. It got worse overnight.",callus,Dermatological
+"I came in because of skin rash, warts, skin swelling, skin growth, skin lesion, skin moles, irregular appearing scalp and abnormal appearing skin. It got worse overnight.",seborrheic keratosis,Dermatological
+"I feel unwell, with ear pain, lacrimation, coryza, sore throat, nasal congestion and frontal headache. It comes and goes.",seasonal allergies (hay fever),Febrile/Systemic
+"I came in because of acne or pimples, skin dryness, peeling, scaliness, or roughness, too little hair, itching of skin and itchy scalp.",fungal infection of the skin,Dermatological
+"Patient reports constipation, burning abdominal pain, heartburn, cramps and spasms, melena and blood in stool.",rectal disorder,Gastrointestinal
+"Lately I keep having vomiting, antisocial behavior, intermenstrual bleeding, vaginal discharge, back pain, pelvic pain and sharp abdominal pain.",pelvic inflammatory disease,Musculoskeletal/Other
+"Since yesterday I've noticed skin rash, irregular appearing scalp, skin dryness, peeling, scaliness, or roughness, warts, abnormal appearing skin and skin swelling. It comes and goes.",eczema,Dermatological
+"I came in because of loss of sensation, abnormal involuntary movements, weakness, peripheral edema, symptoms of eye and diminished vision. This has lasted about a week.",bell palsy,Musculoskeletal/Other
+"I have sharp chest pain, difficulty breathing, coughing up sputum, wheezing, nasal congestion, headache, cough and sore throat.",acute bronchitis,Respiratory
+"Lately I keep having vomiting, pulling at ears, fever, nasal congestion, coryza, wheezing, cough and shortness of breath. It began this morning.",croup,Respiratory
+"I've been experiencing burning abdominal pain, fever, sharp abdominal pain and vomiting and I'm worried.",noninfectious gastroenteritis,Febrile/Systemic
+"Lately I keep having depression, slurring words and abusing alcohol. It comes and goes.",drug poisoning due to medication,Musculoskeletal/Other
+"Complaining of painful urination, hot flashes, involuntary urination and intermenstrual bleeding.",stress incontinence,Musculoskeletal/Other
+"Chief complaint: painful urination, frequent urination and vaginal redness.",benign vaginal discharge (leukorrhea),Musculoskeletal/Other
+"Chief complaint: cramps and spasms, heavy menstrual flow and uterine contractions. It started two days ago.",spontaneous abortion,Musculoskeletal/Other
+"I have sharp abdominal pain, nausea, fever, vomiting blood, headache and diarrhea. It began this morning.",gastritis,Gastrointestinal
+"I came in because of lower abdominal pain, constipation, vomiting, headache, burning abdominal pain, irregular heartbeat and sharp abdominal pain.",ileus,Gastrointestinal
+"I have low back pain, arm pain, sharp chest pain, burning abdominal pain, sharp abdominal pain, leg pain, knee pain and ache all over. It started two days ago.",sickle cell crisis,Musculoskeletal/Other
+"The symptoms are foot or toe stiffness or tightness, skin lesion, foot or toe pain, foot or toe swelling and lymphedema. It began this morning.",diabetic peripheral neuropathy,Musculoskeletal/Other
+"I've been experiencing sore throat, vomiting, shortness of breath, cough, chest tightness, coryza, fever and wheezing and I'm worried.",acute bronchospasm,Respiratory
+"Patient reports vomiting, weakness, shortness of breath, sharp chest pain, cough, fever and wheezing. It started two days ago.",pneumonia,Respiratory
+"For the past few days I've had fever, chills, upper abdominal pain, nausea, burning abdominal pain, sharp abdominal pain, lower abdominal pain and vomiting. It got worse overnight.",diverticulitis,Gastrointestinal
+"For the past few days I've had impotence, back pain, flushing, blood in urine, pain during intercourse, retention of urine and symptoms of prostate.",prostate cancer,Musculoskeletal/Other
+"The symptoms are loss of sensation, lower body pain, knee pain, hip pain and back pain. It started two days ago.",spondylosis,Musculoskeletal/Other
+"Complaining of cough, sore throat, allergic reaction, headache, nasal congestion and frontal headache. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"Patient reports chills, diarrhea, sharp abdominal pain, vomiting, blood in stool, headache, fluid retention and decreased appetite. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"Patient reports skin rash, skin moles, skin irritation, skin lesion, skin swelling, skin dryness, peeling, scaliness, or roughness and acne or pimples. It comes and goes.",contact dermatitis,Dermatological
+"I feel unwell, with allergic reaction, skin lesion and skin moles. It got worse overnight.",contact dermatitis,Dermatological
+"Chief complaint: heartburn, upper abdominal pain, vomiting, sharp chest pain, sharp abdominal pain, back pain and nausea.",gallstone,Gastrointestinal
+"Since yesterday I've noticed back pain, suprapubic pain, lower abdominal pain, low back pain, vomiting and side pain. It comes and goes.",kidney stone,Musculoskeletal/Other
+"Patient reports hesitancy, retention of urine, symptoms of prostate, involuntary urination and pain in testicles. It began this morning.",benign prostatic hyperplasia (bph),Musculoskeletal/Other
+"I came in because of nasal congestion, sore throat, itchiness of eye, lacrimation, coryza, headache and cough. It started two days ago.",seasonal allergies (hay fever),Febrile/Systemic
+"Complaining of cough, palpitations, apnea, hemoptysis and fatigue. This has lasted about a week.",pulmonary hypertension,Respiratory
+"Lately I keep having fever, chills, cough, headache and sore throat.",flu,Respiratory
+"I have difficulty in swallowing, sharp chest pain, vomiting, chest tightness, sore throat, cough, upper abdominal pain and shortness of breath. It started two days ago.",esophagitis,Gastrointestinal
+"Chief complaint: feeling ill, cough, decreased appetite and sharp abdominal pain.",sepsis,Febrile/Systemic
+I've been experiencing shortness of breath and anxiety and nervousness and I'm worried.,panic disorder,Musculoskeletal/Other
+"Chief complaint: throat swelling, difficulty in swallowing and infant spitting up. This has lasted about a week.",foreign body in the throat,Musculoskeletal/Other
+"Chief complaint: abnormal breathing sounds, ringing in ear, redness in ear, plugged feeling in ear, swollen or red tonsils, sore throat, dizziness and allergic reaction. This has lasted about a week.",eustachian tube dysfunction (ear disorder),Musculoskeletal/Other
+"I've been experiencing apnea, facial pain, nasal congestion and allergic reaction and I'm worried. It started two days ago.",deviated nasal septum,Respiratory
+"Since yesterday I've noticed cough, congestion in chest, fever, chest tightness, coughing up sputum and sharp chest pain. It began this morning.",chronic obstructive pulmonary disease (copd),Respiratory
+"I have nausea, chills, fever, burning abdominal pain, flu-like syndrome, diarrhea and low back pain. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"Patient reports sharp abdominal pain, back pain, arm pain, sharp chest pain, knee pain, low back pain and vomiting. It comes and goes.",sickle cell crisis,Musculoskeletal/Other
+"The symptoms are ear pain, nasal congestion, blood in urine, fever, headache, chills, vomiting and sore throat. It started two days ago.",common cold,Respiratory
+"Complaining of vaginal discharge, pain during pregnancy, painful urination, vaginal itching, vaginal redness, pain during intercourse and vaginal pain.",vaginitis,Musculoskeletal/Other
+"For the past few days I've had nasal congestion, coryza, sore throat, lacrimation and fever. It started two days ago.",conjunctivitis,Musculoskeletal/Other
+"My main problems are allergic reaction, swollen eye, abnormal appearing skin, skin rash, skin irritation, skin dryness, peeling, scaliness, or roughness and acne or pimples.",contact dermatitis,Dermatological
+"For the past few days I've had frontal headache, ear pain, nasal congestion, allergic reaction, sore throat, lacrimation and sneezing. It got worse overnight.",seasonal allergies (hay fever),Febrile/Systemic
+"The symptoms are diarrhea, headache, fever, sharp chest pain and nausea. It started two days ago.",gastritis,Gastrointestinal
+"I came in because of double vision, abnormal appearing skin, skin swelling, skin growth, skin irritation, skin dryness, peeling, scaliness, or roughness, irregular appearing scalp and itching of skin. It comes and goes.",skin polyp,Dermatological
+"I came in because of sore throat, sharp chest pain, difficulty in swallowing, shortness of breath, nausea, cough and decreased appetite.",esophagitis,Gastrointestinal
+"I feel unwell, with decreased appetite, suprapubic pain, weakness and sharp abdominal pain. This has lasted about a week.",sepsis,Febrile/Systemic
+"Lately I keep having vomiting, decreased appetite, stomach bloating, nausea and side pain. It began this morning.",appendicitis,Gastrointestinal
+"Since yesterday I've noticed blood in stool, upper abdominal pain, flatulence, diarrhea and heartburn. It began this morning.",colonic polyp,Gastrointestinal
+"The symptoms are nasal congestion, flu-like syndrome, cough, headache, sore throat, ear pain, chills and vomiting. This has lasted about a week.",common cold,Respiratory
+"I feel unwell, with unpredictable menstruation, sharp abdominal pain, frequent menstruation, intermenstrual bleeding, heavy menstrual flow, painful menstruation, long menstrual periods and involuntary urination.",idiopathic excessive menstruation,Musculoskeletal/Other
+"Since yesterday I've noticed shortness of breath, cough, headache, sharp chest pain, congestion in chest, wheezing and fever.",acute bronchitis,Respiratory
+"Chief complaint: shortness of breath, chest tightness, palpitations, increased heart rate and throat feels tight. This has lasted about a week.",chronic rheumatic fever,Febrile/Systemic
+"Since yesterday I've noticed wheezing, rectal bleeding, abnormal breathing sounds, coryza, fever and nasal congestion.",croup,Respiratory
+"The symptoms are sharp chest pain, fever, shortness of breath, nasal congestion, coryza, difficulty breathing and headache. It got worse overnight.",acute bronchitis,Respiratory
+"I have skin moles, skin growth, lip swelling, skin lesion, acne or pimples and skin irritation.",atrophic skin condition,Dermatological
+"I came in because of difficulty breathing, cough, fever, sharp abdominal pain and weakness.",sepsis,Febrile/Systemic
+"I came in because of hand or finger stiffness or tightness, arm pain, hand or finger pain, wrist pain, hand or finger swelling and loss of sensation. This has lasted about a week.",carpal tunnel syndrome,Musculoskeletal/Other
+"Chief complaint: nausea, blood in stool, fluid retention, fever, chills, sharp abdominal pain and diarrhea. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"Complaining of headache, fatigue, abnormal appearing skin, depressive or psychotic symptoms and fears and phobias.",lyme disease,Febrile/Systemic
+"Chief complaint: symptoms of the kidneys, burning abdominal pain, back pain and side pain. It started two days ago.",cholecystitis,Gastrointestinal
+"I've been experiencing weight gain, mouth dryness, fatigue, shortness of breath and difficulty breathing and I'm worried. It began this morning.",obstructive sleep apnea (osa),Respiratory
+"I feel unwell, with foot or toe pain, foot or toe swelling, hand or finger pain, skin rash, hand or finger swelling, abnormal appearing skin and peripheral edema. This has lasted about a week.",pyogenic skin infection,Dermatological
+"Complaining of allergic reaction, skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, skin moles and swollen eye. It began this morning.",contact dermatitis,Dermatological
+"Patient reports back mass or lump, side pain, lower body pain and stiffness all over.",spondylitis,Musculoskeletal/Other
+"I've been experiencing retention of urine, painful urination, nausea, lower abdominal pain, blood in urine, vomiting, suprapubic pain and side pain and I'm worried. It started two days ago.",urinary tract infection,Musculoskeletal/Other
+"The symptoms are irregular appearing scalp, skin lesion, skin swelling, cough, skin irritation and allergic reaction. It started two days ago.",eczema,Dermatological
+"My main problems are coryza, wheezing, fever, ear pain and chills. It comes and goes.",common cold,Respiratory
+"Lately I keep having vomiting blood, sharp abdominal pain, blood in stool, weakness and nausea. It comes and goes.",gastrointestinal hemorrhage,Gastrointestinal
+"Since yesterday I've noticed sharp abdominal pain, regurgitation and regurgitation.1.",intestinal disease,Gastrointestinal
+"I've been experiencing chest tightness, intermenstrual bleeding, difficulty breathing and wheezing and I'm worried. It comes and goes.",asthma,Respiratory
+"I feel unwell, with shortness of breath, sharp chest pain, wheezing, congestion in chest and sore throat.",chronic obstructive pulmonary disease (copd),Respiratory
+"Patient reports vomiting, decreased appetite, sharp abdominal pain and fluid retention.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of frequent urination, painful urination, blood in urine, retention of urine, vomiting and low back pain.",kidney stone,Musculoskeletal/Other
+"Lately I keep having skin lesion, skin rash, fainting, skin growth, irregular appearing scalp and itching of skin.",skin pigmentation disorder,Dermatological
+"Patient reports headache, painful sinuses, peripheral edema, cough and sinus congestion. It got worse overnight.",chronic sinusitis,Respiratory
+"I've been experiencing cough, suprapubic pain, weakness, shortness of breath and fever and I'm worried. It comes and goes.",sepsis,Febrile/Systemic
+"I feel unwell, with leg swelling, hand or finger pain, abnormal appearing skin, skin lesion, leg pain, peripheral edema and skin rash.",pyogenic skin infection,Dermatological
+"For the past few days I've had dizziness, sharp abdominal pain, vomiting blood and nausea. It began this morning.",gastrointestinal hemorrhage,Gastrointestinal
+"My main problems are vomiting, difficulty in swallowing and sharp chest pain. It began this morning.",stricture of the esophagus,Gastrointestinal
+"Lately I keep having anxiety and nervousness, ache all over, leg pain, loss of sensation, back pain and abnormal involuntary movements.",complex regional pain syndrome,Musculoskeletal/Other
+"I've been experiencing pelvic pain, cramps and spasms, blood clots during menstrual periods, lacrimation, spotting or bleeding during pregnancy, vaginal discharge and uterine contractions and I'm worried. This has lasted about a week.",threatened pregnancy,Musculoskeletal/Other
+"I've been experiencing mouth ulcer, sore in nose, skin lesion, skin rash, cough and fever and I'm worried. It comes and goes.",impetigo,Dermatological
+"For the past few days I've had difficulty breathing, back pain, sharp chest pain, sharp abdominal pain, weakness and rib pain.",pleural effusion,Respiratory
+"I've been experiencing skin lesion, abnormal appearing skin, skin growth, lymphedema, skin dryness, peeling, scaliness, or roughness and skin moles and I'm worried. It started two days ago.",rosacea,Dermatological
+"I've been experiencing coughing up sputum, nasal congestion, sharp chest pain, cough, congestion in chest, chest tightness, knee swelling and sore throat and I'm worried. This has lasted about a week.",chronic obstructive pulmonary disease (copd),Respiratory
+"Since yesterday I've noticed neck stiffness or tightness, nausea and vomiting. This has lasted about a week.",meningitis,Febrile/Systemic
+"I came in because of arm pain, increased heart rate, sweating, heartburn, burning chest pain and irregular heartbeat.",heart attack,Musculoskeletal/Other
+"I came in because of abnormal appearing skin, skin rash, skin dryness, peeling, scaliness, or roughness, allergic reaction, swollen eye, skin moles, acne or pimples and skin swelling. It began this morning.",contact dermatitis,Dermatological
+"I came in because of leg pain, palpitations, hemoptysis, feeling ill, shortness of breath and fatigue.",pulmonary hypertension,Respiratory
+"My main problems are sharp chest pain, diarrhea, nausea and fever. It got worse overnight.",gastritis,Gastrointestinal
+"The symptoms are low back pain, hip pain, headache, shoulder pain and pelvic pain. It comes and goes.",chronic pain disorder,Musculoskeletal/Other
+"I have cough, irritable infant, diaper rash, blood in stool, nasal congestion, vomiting and pulling at ears. It got worse overnight.",diaper rash,Dermatological
+"I came in because of coryza, shortness of breath, allergic reaction, chest tightness, cough, sharp chest pain, difficulty breathing and wheezing.",asthma,Respiratory
+"I came in because of skin dryness, peeling, scaliness, or roughness, irregular appearing scalp, acne or pimples, skin lesion, skin irritation and abnormal appearing skin. This has lasted about a week.",skin disorder,Dermatological
+"Patient reports itchy eyelid, spots or clouds in vision and foreign body sensation in eye. It started two days ago.",glaucoma,Musculoskeletal/Other
+"My main problems are sharp abdominal pain, back pain, nausea, burning abdominal pain, upper abdominal pain, vomiting and hemoptysis.",acute pancreatitis,Gastrointestinal
+"Chief complaint: lower body pain, itching of the anus, melena, sharp abdominal pain and blood in stool. This has lasted about a week.",hemorrhoids,Gastrointestinal
+"I came in because of diarrhea, chills, fluid retention, decreased appetite, nausea, sharp abdominal pain and burning abdominal pain. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of sharp chest pain, side pain, regurgitation.1, vomiting and upper abdominal pain.",cholecystitis,Gastrointestinal
+"Complaining of skin dryness, peeling, scaliness, or roughness, skin rash, skin lesion and skin irritation.",actinic keratosis,Dermatological
+"I've been experiencing skin irritation, skin dryness, peeling, scaliness, or roughness, skin moles, swollen eye and abnormal appearing skin and I'm worried.",contact dermatitis,Dermatological
+"The symptoms are sneezing, itchiness of eye, headache, sore throat, lacrimation, coryza and ear pain.",seasonal allergies (hay fever),Febrile/Systemic
+"I came in because of coryza, itchiness of eye, ear pain, lacrimation, nasal congestion, sore throat and frontal headache.",seasonal allergies (hay fever),Febrile/Systemic
+"Chief complaint: diarrhea, sharp abdominal pain and decreased appetite.",infectious gastroenteritis,Febrile/Systemic
+"Lately I keep having abnormal involuntary movements, back pain, low back pain, neck pain, arm pain, foot or toe pain and paresthesia. It comes and goes.",complex regional pain syndrome,Musculoskeletal/Other
+"Patient reports diarrhea, headache, sharp abdominal pain, blood in stool, fever, vomiting, nausea and burning abdominal pain.",noninfectious gastroenteritis,Febrile/Systemic
+"Since yesterday I've noticed flu-like syndrome, chills, vomiting, headache and burning abdominal pain. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"I came in because of nasal congestion, ear pain, throat feels tight, coryza and hoarse voice. It began this morning.",laryngitis,Respiratory
+"For the past few days I've had skin lesion, skin irritation, itching of skin, skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, irregular appearing scalp and skin swelling.",fungal infection of the hair,Dermatological
+"Chief complaint: sore throat, fever, nasal congestion, wheezing, ear pain and flu-like syndrome. It got worse overnight.",common cold,Respiratory
+"The symptoms are fatigue, palpitations, hemoptysis, feeling ill, sharp chest pain and shortness of breath. It began this morning.",pulmonary hypertension,Respiratory
+"Chief complaint: nausea, constipation, vomiting, blood in stool and side pain. It began this morning.",diverticulitis,Gastrointestinal
+"Lately I keep having rectal bleeding, nausea and blood in stool.",diverticulosis,Gastrointestinal
+"I came in because of pelvic pain, skin lesion, skin growth, skin dryness, peeling, scaliness, or roughness, itching of skin, acne or pimples, skin irritation and abnormal appearing skin. It comes and goes.",fungal infection of the hair,Dermatological
+"For the past few days I've had sweating, loss of sensation, nausea, plugged feeling in ear and diminished hearing. It comes and goes.",labyrinthitis,Musculoskeletal/Other
+"My main problems are facial pain, skin swelling, neck swelling, lip swelling and mouth pain.",tooth abscess,Dermatological
+"Patient reports itching of skin, irregular appearing scalp, skin rash, abnormal appearing skin, skin lesion, skin dryness, peeling, scaliness, or roughness, skin irritation and allergic reaction.",eczema,Dermatological
+"Lately I keep having dizziness, symptoms of eye, lymphedema, skin dryness, peeling, scaliness, or roughness, skin lesion, acne or pimples, skin moles and abnormal appearing skin. It started two days ago.",rosacea,Dermatological
+"Complaining of knee pain, leg swelling, foot or toe pain, joint pain, wrist pain and ankle swelling. It comes and goes.",gout,Musculoskeletal/Other
+"For the past few days I've had leg swelling, hemoptysis, shortness of breath, leg pain, weakness, sharp chest pain, chest tightness and cough. It began this morning.",pulmonary embolism,Respiratory
+"Complaining of burning abdominal pain, decreased appetite, vomiting, chills, leg pain, fever, headache, sharp abdominal pain and flu-like syndrome. It comes and goes.",infectious gastroenteritis,Febrile/Systemic
+"I feel unwell, with cough, ear pain, lacrimation, sore throat, frontal headache, nasal congestion and headache. It comes and goes.",seasonal allergies (hay fever),Febrile/Systemic
+"Patient reports nausea, upper abdominal pain and peripheral edema.",cirrhosis,Gastrointestinal
+"I've been experiencing fainting, fatigue, shortness of breath, dizziness, palpitations and sharp chest pain and I'm worried.",arrhythmia,Musculoskeletal/Other
+"The symptoms are cough, hoarse voice, sore throat, shortness of breath, abnormal breathing sounds, vomiting and wheezing. It started two days ago.",croup,Respiratory
+"My main problems are side pain, skin swelling, skin moles, irregular appearing scalp, acne or pimples, itching of skin, warts and skin dryness, peeling, scaliness, or roughness. It began this morning.",skin pigmentation disorder,Dermatological
+"I feel unwell, with diarrhea, sharp abdominal pain, heartburn and burning abdominal pain. It began this morning.",indigestion,Musculoskeletal/Other
+"Chief complaint: sharp abdominal pain, cough, vomiting, shortness of breath and weakness. It comes and goes.",sepsis,Febrile/Systemic
+"Lately I keep having facial pain, sore throat, headache, nosebleed and allergic reaction. This has lasted about a week.",deviated nasal septum,Respiratory
+"Lately I keep having vomiting, lymphedema, leg pain, arm swelling and foot or toe pain.",thrombophlebitis,Musculoskeletal/Other
+"Patient reports nausea, anxiety and nervousness, decreased appetite, chills, vomiting, blood in stool, diarrhea, sharp abdominal pain and burning abdominal pain. It started two days ago.",infectious gastroenteritis,Febrile/Systemic
+"Chief complaint: acne or pimples, irregular appearing scalp, skin growth, skin lesion, skin dryness, peeling, scaliness, or roughness, symptoms of the face, skin rash and abnormal appearing skin.",seborrheic dermatitis,Dermatological
+"For the past few days I've had nausea, upper abdominal pain, sharp chest pain, lower body pain, back pain and vomiting. It got worse overnight.",gallstone,Gastrointestinal
+"For the past few days I've had back pain, vomiting, symptoms of the kidneys, burning abdominal pain, lower body pain and side pain. This has lasted about a week.",cholecystitis,Gastrointestinal
+"I came in because of skin moles, joint pain, skin rash, skin dryness, peeling, scaliness, or roughness, itching of skin and itchy scalp. It began this morning.",psoriasis,Dermatological
+"I have wheezing, shortness of breath, cough and abnormal breathing sounds.",interstitial lung disease,Respiratory
+"For the past few days I've had pain of the anus, nausea, sharp abdominal pain, constipation, vaginal itching and retention of urine. It began this morning.",intestinal obstruction,Gastrointestinal
+"I have fluid retention, nausea, blood in stool, headache and fever. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are pain of the anus, rectal bleeding, cramps and spasms, melena, sharp abdominal pain and blood in stool. It got worse overnight.",rectal disorder,Gastrointestinal
+"I have gum pain, peripheral edema, pain in gums, restlessness, mouth pain and skin swelling.",dental caries,Musculoskeletal/Other
+"Patient reports fever, headache, sharp abdominal pain, chills, leg pain, decreased appetite, blood in stool, vomiting and diarrhea. It began this morning.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are nasal congestion, sore throat, lower body pain, throat feels tight, coryza, difficulty speaking, difficulty in swallowing and cough. It comes and goes.",laryngitis,Respiratory
+"Chief complaint: regurgitation.1, sharp chest pain, nausea, heartburn, sharp abdominal pain, difficulty in swallowing and regurgitation.",hiatal hernia,Gastrointestinal
+"Since yesterday I've noticed difficulty breathing, cough, hurts to breath, sharp chest pain and shortness of breath.",pleural effusion,Respiratory
+"I came in because of chills, diarrhea, rectal bleeding, burning abdominal pain and fever.",noninfectious gastroenteritis,Febrile/Systemic
+"My main problems are constipation, pain of the anus, vomiting, blood in stool and nausea. It began this morning.",chronic constipation,Gastrointestinal
+"My main problems are lower abdominal pain, retention of urine, cramps and spasms, sharp abdominal pain and rectal bleeding. It began this morning.",chronic constipation,Gastrointestinal
+"I feel unwell, with regurgitation.1, side pain, sharp chest pain, nausea, sharp abdominal pain and burning abdominal pain.",cholecystitis,Gastrointestinal
+"My main problems are vaginal redness, sharp abdominal pain, vaginal discharge, vaginal itching, suprapubic pain, frequent urination and problems during pregnancy. It started two days ago.",benign vaginal discharge (leukorrhea),Musculoskeletal/Other
+"My main problems are irregular appearing scalp, abnormal appearing skin, itchy scalp, skin swelling, skin dryness, peeling, scaliness, or roughness and skin rash. It started two days ago.",psoriasis,Dermatological
+"Lately I keep having shortness of breath, nasal congestion, coryza, wheezing, sharp chest pain, allergic reaction, coughing up sputum and cough. This has lasted about a week.",asthma,Respiratory
+"I've been experiencing leg swelling, skin swelling, itching of skin, hand or finger swelling and lip swelling and I'm worried. It comes and goes.",insect bite,Musculoskeletal/Other
+"Chief complaint: sharp chest pain, fever, shortness of breath, sharp abdominal pain, vomiting, cough and wheezing.",acute bronchospasm,Respiratory
+"Lately I keep having problems during pregnancy, uterine contractions and lower abdominal pain.",preeclampsia,Musculoskeletal/Other
+"The symptoms are symptoms of prostate, frequent urination, painful urination, sharp abdominal pain and weakness. It got worse overnight.",urinary tract obstruction,Musculoskeletal/Other
+"I have nasal congestion, sore throat, pain in eye, headache and neck pain. It comes and goes.",temporomandibular joint disorder,Musculoskeletal/Other
+"I have bleeding from eye, double vision, abnormal movement of eyelid and itchiness of eye.",macular degeneration,Musculoskeletal/Other
+"I feel unwell, with nausea, fever, rectal bleeding, burning abdominal pain, headache, sharp abdominal pain and fluid retention. It started two days ago.",noninfectious gastroenteritis,Febrile/Systemic
+"Chief complaint: headache, weakness, loss of sensation and arm stiffness or tightness. It got worse overnight.",hemiplegia,Musculoskeletal/Other
+"Complaining of cough, peripheral edema, heartburn, shortness of breath and upper abdominal pain. It started two days ago.",liver disease,Gastrointestinal
+"Lately I keep having skin irritation, acne or pimples, skin swelling, allergic reaction, hip pain, skin dryness, peeling, scaliness, or roughness, skin lesion and irregular appearing scalp. It got worse overnight.",eczema,Dermatological
+"I feel unwell, with skin lesion and bumps on penis. It got worse overnight.",viral warts,Dermatological
+"Since yesterday I've noticed flu-like syndrome, sharp abdominal pain, fever, blood in stool, vomiting, chills and decreased appetite. This has lasted about a week.",infectious gastroenteritis,Febrile/Systemic
+"The symptoms are vomiting, cough, pulling at ears, shortness of breath, nasal congestion, coryza and sore throat. It began this morning.",croup,Respiratory
+"I've been experiencing symptoms of the scrotum and testes, sharp abdominal pain, groin pain, lower abdominal pain and groin mass and I'm worried. It got worse overnight.",inguinal hernia,Gastrointestinal
+"Patient reports blood in stool, pain of the anus, vomiting, sharp abdominal pain and diarrhea. This has lasted about a week.",crohn disease,Gastrointestinal
+"Chief complaint: nausea, vomiting, blood in stool, headache and fluid retention. This has lasted about a week.",noninfectious gastroenteritis,Febrile/Systemic
+"The symptoms are disturbance of memory, early or late onset of menopause and hip pain. It began this morning.",osteoporosis,Musculoskeletal/Other
+"The symptoms are fever, nasal congestion, pulling at ears, cough and hurts to breath. It comes and goes.",acute bronchiolitis,Respiratory
+"The symptoms are ear pain, headache, swollen lymph nodes, bones are painful, throat feels tight and throat swelling.",peritonsillar abscess,Dermatological
+"I feel unwell, with cough, weakness, leg swelling, leg pain and sharp chest pain.",pulmonary embolism,Respiratory
+"The symptoms are sharp abdominal pain, upper abdominal pain, vomiting, side pain and constipation. It got worse overnight.",diverticulitis,Gastrointestinal
+"I came in because of fever, shortness of breath, suprapubic pain, cough, sharp abdominal pain and feeling ill. It comes and goes.",sepsis,Febrile/Systemic
+"Lately I keep having vomiting, shortness of breath, feeling ill, chills, cough and fever.",sepsis,Febrile/Systemic
+"I feel unwell, with lacrimation, fever and eye redness. This has lasted about a week.",conjunctivitis due to virus,Musculoskeletal/Other
+"I came in because of nausea, ache all over, sore throat and diarrhea. This has lasted about a week.",flu,Respiratory
+"I have lower body pain, low back pain, leg pain, back pain, ache all over and arm pain.",spondylosis,Musculoskeletal/Other
+"I've been experiencing facial pain, sore throat, abnormal breathing sounds, allergic reaction, difficulty breathing and sharp abdominal pain and I'm worried. It got worse overnight.",deviated nasal septum,Respiratory
+"Complaining of back pain, heartburn, nausea and lower body pain. It started two days ago.",gallstone,Gastrointestinal
+"Complaining of hoarse voice, facial pain and headache.",nasal polyp,Respiratory
+"Chief complaint: hand or finger pain, abnormal appearing skin, hand or finger swelling and foot or toe swelling. It comes and goes.",pyogenic skin infection,Dermatological
+"Lately I keep having skin moles, allergic reaction, eyelid swelling, acne or pimples, skin irritation and skin dryness, peeling, scaliness, or roughness. It started two days ago.",contact dermatitis,Dermatological

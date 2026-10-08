@@ -4,42 +4,42 @@
   "dirichlet_alpha": null,
   "hospitals": {
     "hospital_0": {
-      "total_size": 385,
-      "train_size": 269,
-      "val_size": 58,
-      "test_size": 58,
+      "total_size": 5000,
+      "train_size": 3500,
+      "val_size": 750,
+      "test_size": 750,
       "category_distribution": {
-        "Musculoskeletal/Other": 114,
-        "Dermatological": 82,
-        "Febrile/Systemic": 81,
-        "Gastrointestinal": 59,
-        "Respiratory": 49
+        "Respiratory": 1000,
+        "Gastrointestinal": 1000,
+        "Febrile/Systemic": 1000,
+        "Dermatological": 1000,
+        "Musculoskeletal/Other": 1000
       }
     },
     "hospital_1": {
-      "total_size": 384,
-      "train_size": 268,
-      "val_size": 58,
-      "test_size": 58,
+      "total_size": 5000,
+      "train_size": 3500,
+      "val_size": 750,
+      "test_size": 750,
       "category_distribution": {
-        "Musculoskeletal/Other": 114,
-        "Dermatological": 82,
-        "Febrile/Systemic": 81,
-        "Gastrointestinal": 59,
-        "Respiratory": 48
+        "Respiratory": 1000,
+        "Gastrointestinal": 1000,
+        "Febrile/Systemic": 1000,
+        "Dermatological": 1000,
+        "Musculoskeletal/Other": 1000
       }
     },
     "hospital_2": {
-      "total_size": 384,
-      "train_size": 268,
-      "val_size": 58,
-      "test_size": 58,
+      "total_size": 5000,
+      "train_size": 3500,
+      "val_size": 750,
+      "test_size": 750,
       "category_distribution": {
-        "Musculoskeletal/Other": 114,
-        "Dermatological": 82,
-        "Febrile/Systemic": 81,
-        "Gastrointestinal": 59,
-        "Respiratory": 48
+        "Respiratory": 1000,
+        "Gastrointestinal": 1000,
+        "Febrile/Systemic": 1000,
+        "Dermatological": 1000,
+        "Musculoskeletal/Other": 1000
       }
     }
   }

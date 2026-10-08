@@ -1,0 +1,3 @@
+method,detected,alarm_day,true_outbreak_start_day,detection_delay_days,false_positive_rate_on_controls
+CUSUM,True,54,50,4,0.0
+EWMA,True,56,50,6,0.0
